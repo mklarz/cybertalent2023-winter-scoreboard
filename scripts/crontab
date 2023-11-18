@@ -1,0 +1,4 @@
+SHELL=/bin/bash
+PATH="$PATH:/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/path/to/cybertalent2023-winter-scoreboard/scripts"
+CRON_TZ=UTC
+0 * * * * cd /path/to/cybertalent2023-winter-scoreboard/ && bash /path/to/cybertalent2023-winter-scoreboard/scripts/check_scoreboard.sh >> /tmp/cybertalent2023-winter-scoreboard.log

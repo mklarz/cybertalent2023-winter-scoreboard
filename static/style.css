@@ -1,0 +1,155 @@
+body {
+    background: linear-gradient(to bottom, #7a3143, #190822);
+    background-size: cover;
+    font-family: 'VT323', monospace;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+}
+
+ol {
+    color: #fff;
+    list-style: none;
+    display: block;
+    max-width: 600px;
+    counter-reset: list-counter;
+    display: block;
+    margin: 0px auto;
+    padding-inline-start: 0;
+}
+
+ol li {
+    padding: 20px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    font-size: 25px;
+    text-shadow:
+        rgba(235, 77, 135, 1) 0px 0px 14px,
+        rgba(235, 77, 135, 1) 0px, 0px, 40px;
+    font-weight: 400;
+    line-height: 22.5px;
+    text-size-adjust: 100%;
+}
+
+ol li:hover {
+    background: rgba(255, 255, 255, 0.1);
+    margin-left: 2px;
+}
+
+ol li.counter {
+    counter-increment: list-counter;
+}
+
+ol li.counter::before {
+    content: counter(list-counter) ". ";
+    color: #ffc19c;
+    font-weight: bold;
+}
+
+ol li.unknown {
+    counter-increment: list-counter;
+}
+ol li.unknown::before {
+    content: counter(list-counter) " (?). ";
+    color: #ffc19c;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 54px;
+    letter-spacing: 2vw;
+    margin: 0 0 50px 2vw;
+    text-shadow:
+        rgba(235, 77, 135, 1) 0px 0px 14px,
+        rgba(235, 77, 135, 1) 0px, 0px, 40px;
+}
+
+h2, h3 {
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 32px;
+    letter-spacing: 0.5vw;
+    margin: 0 0 50px 0.5vw;
+    text-shadow:
+        rgba(255, 162, 0, 0.9) 0px 0px 66px;
+}
+
+h3 {
+    font-size: 24px;
+    letter-spacing:0.5vw;
+    margin: 0 0 50px 0.2vw;
+}
+
+form {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+}
+
+a {
+    color: #fff;
+}
+
+code {
+    font-size: 15px;
+}
+
+.stars {
+    float: right;
+    margin-top: -8px;
+    margin-right: 16px;
+}
+
+.sum {
+    float: right;
+    color: #ffc19c;
+    font-size: 42px;
+    margin-top: -5px;
+}
+
+.container {
+    width: 80%;
+    display: block;
+    margin: 100px auto;
+}
+
+.bug {
+    margin: 20px auto;
+    display: block;
+    width: 50%;
+    max-width: 200px;
+    opacity: 1;
+}
+
+.bug2 {
+    margin: 20px auto;
+    position: absolute;
+    top: 5;
+    left: 25%;
+    width: 50%;
+    pointer-events: none !important;
+    opacity: 0.05;
+    mix-blend-mode: screen;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
