@@ -1,11 +1,11 @@
 {
-    "position": 6,
+    "position": 7,
     "user_id": "a955dcf82c1f22aa33da13da6b4d5036",
     "name": "NootNoot",
-    "points": 60,
+    "points": 70,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 75,
+        "1. Grunnleggende": 88,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
