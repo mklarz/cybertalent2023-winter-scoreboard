@@ -1,12 +1,12 @@
 {
-    "position": 11,
-    "user_id": "dd3d1cc3c573cd913b02531de9a07c98",
-    "name": "S\u00c5RBAR GUD",
-    "points": 120,
+    "position": 91,
+    "user_id": "378b2e406fefc3a2e87638303a404f98",
+    "name": "janfysen",
+    "points": 40,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 75,
-        "2. Initiell aksess": 100,
+        "1. Grunnleggende": 50,
+        "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
@@ -14,6 +14,6 @@
         "2.5. Department of Security": 0,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 100
+        "4. Skjulte flagg": 0
     }
 }
