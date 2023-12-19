@@ -1,5 +1,5 @@
 {
-    "position": 90,
+    "position": 83,
     "user_id": "73d9e699af56776453db0ce015d6e72a",
     "name": "RYDDIG CYBERHELT",
     "points": 20,
@@ -14,6 +14,6 @@
         "2.5. Department of Security": 0,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 100
     }
 }
