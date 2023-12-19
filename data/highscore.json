@@ -85,36 +85,36 @@
     },
     {
         "position": 13,
+        "user_id": "55be5c773bd7ce4661c814c39cb873d7",
+        "name": "nicw",
+        "points": 120,
+        "stars": 0
+    },
+    {
+        "position": 14,
+        "user_id": "7eb5c2d7a0f1753b78e9857a28391c09",
+        "name": "S\u00c5RBAR NERD",
+        "points": 120,
+        "stars": 0
+    },
+    {
+        "position": 15,
         "user_id": "d6a14dd1f9ffa90da3a6cf02d915c6dc",
         "name": "N",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 14,
+        "position": 16,
         "user_id": "14bf4cf2d9e7643ae816a1f12d243cf6",
         "name": "magnus",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 15,
+        "position": 17,
         "user_id": "2610cf05f75f1600a960b0436d1efaeb",
         "name": "jole",
-        "points": 110,
-        "stars": 0
-    },
-    {
-        "position": 16,
-        "user_id": "55be5c773bd7ce4661c814c39cb873d7",
-        "name": "nicw",
-        "points": 110,
-        "stars": 0
-    },
-    {
-        "position": 17,
-        "user_id": "7eb5c2d7a0f1753b78e9857a28391c09",
-        "name": "S\u00c5RBAR NERD",
         "points": 110,
         "stars": 0
     },
@@ -274,121 +274,121 @@
     },
     {
         "position": 40,
+        "user_id": "f732f218ab6f6c348afa3f21fff8636f",
+        "name": "ARBEIDSOM DRAPER",
+        "points": 80,
+        "stars": 0
+    },
+    {
+        "position": 41,
         "user_id": "dd3d1cc3c573cd913b02531de9a07c98",
         "name": "S\u00c5RBAR GUD",
         "points": 80,
         "stars": 0
     },
     {
-        "position": 41,
+        "position": 42,
         "user_id": "467306aa74abbdfc31ca72f24503c448",
         "name": "sakarl",
         "points": 80,
         "stars": 0
     },
     {
-        "position": 42,
+        "position": 43,
         "user_id": "c6379e75962e372fbfdb8f60789a1edf",
         "name": "th0m45",
         "points": 80,
         "stars": 0
     },
     {
-        "position": 43,
+        "position": 44,
         "user_id": "a955dcf82c1f22aa33da13da6b4d5036",
         "name": "NootNoot",
         "points": 70,
         "stars": 0
     },
     {
-        "position": 44,
+        "position": 45,
         "user_id": "e5f56c75668ec1aa0f97fcaec8374935",
         "name": "Augustus",
         "points": 70,
         "stars": 0
     },
     {
-        "position": 45,
+        "position": 46,
         "user_id": "b8ffb7a7fa51e530158b6015294fd0fe",
         "name": "ARTISTISK SPION",
         "points": 70,
         "stars": 0
     },
     {
-        "position": 46,
+        "position": 47,
         "user_id": "c22174bbf09dff100dc2e0ca752bc5ec",
         "name": "fantomet",
         "points": 70,
         "stars": 0
     },
     {
-        "position": 47,
+        "position": 48,
         "user_id": "20371889fbacb2e70ba7bb63a481b845",
         "name": "ARBEIDSOM BABBAGE",
         "points": 70,
         "stars": 0
     },
     {
-        "position": 48,
+        "position": 49,
         "user_id": "6e008442260405ce7d8149a1ec5a9d77",
         "name": "STERK PERSON",
         "points": 70,
         "stars": 0
     },
     {
-        "position": 49,
+        "position": 50,
         "user_id": "8db0ae343653a977517d8d00f48a5b6f",
         "name": "Okay",
         "points": 70,
         "stars": 0
     },
     {
-        "position": 50,
+        "position": 51,
         "user_id": "7b1e68ad03b5d692c16d7012a4370bce",
         "name": "margz",
         "points": 70,
         "stars": 0
     },
     {
-        "position": 51,
+        "position": 52,
         "user_id": "0c20133aacd231bced3456008688e591",
         "name": "SVAK HACKER",
         "points": 70,
         "stars": 0
     },
     {
-        "position": 52,
+        "position": 53,
         "user_id": "f0fde2b7670b1e0c51698b9909dd20ca",
         "name": "INNBITT DRAPER",
         "points": 70,
         "stars": 0
     },
     {
-        "position": 53,
+        "position": 54,
         "user_id": "12a42c73a0cd943367e58a01bd817ac1",
         "name": "KLAM HACKTIVIST",
         "points": 70,
         "stars": 0
     },
     {
-        "position": 54,
+        "position": 55,
         "user_id": "ca31dd551dbb75a2f441916372888e5a",
         "name": "KUL HACKER",
         "points": 70,
         "stars": 0
     },
     {
-        "position": 55,
-        "user_id": "f732f218ab6f6c348afa3f21fff8636f",
-        "name": "ARBEIDSOM DRAPER",
-        "points": 60,
-        "stars": 0
-    },
-    {
         "position": 56,
         "user_id": "11b0373dad96d5347be3bf91abcd370a",
         "name": "Stimik",
-        "points": 60,
+        "points": 70,
         "stars": 0
     },
     {
