@@ -1,12 +1,12 @@
 {
-    "position": 36,
-    "user_id": "7bc269aee43bdabc3bcbe2329c380a58",
-    "name": "SUR HACKTIVIST",
-    "points": 20,
+    "position": 56,
+    "user_id": "e47f8c105ce643d9118b0e45d1b5016e",
+    "name": "DEDIKERT CYBERHELT",
+    "points": 10,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 25,
-        "2. Initiell aksess": 0,
+        "1. Grunnleggende": 0,
+        "2. Initiell aksess": 17,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
