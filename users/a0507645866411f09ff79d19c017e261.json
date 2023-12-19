@@ -1,11 +1,11 @@
 {
-    "position": 62,
+    "position": 55,
     "user_id": "a0507645866411f09ff79d19c017e261",
     "name": "PizzaGutt",
-    "points": 40,
+    "points": 50,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 50,
+        "1. Grunnleggende": 62,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
