@@ -1,11 +1,11 @@
 {
-    "position": 42,
+    "position": 36,
     "user_id": "8c2b25c8c55d3f4e107a6171486a7760",
     "name": "Mini",
-    "points": 20,
+    "points": 30,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 25,
+        "1. Grunnleggende": 38,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,

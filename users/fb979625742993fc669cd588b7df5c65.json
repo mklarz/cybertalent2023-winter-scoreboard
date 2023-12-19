@@ -1,11 +1,11 @@
 {
-    "position": 10,
+    "position": 9,
     "user_id": "fb979625742993fc669cd588b7df5c65",
     "name": "Joe the Legal Weasel",
-    "points": 50,
+    "points": 70,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 62,
+        "1. Grunnleggende": 88,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
