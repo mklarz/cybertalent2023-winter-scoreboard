@@ -1,11 +1,11 @@
 {
-    "position": 91,
+    "position": 62,
     "user_id": "fc234c52c408268f13ae8223c847cebe",
     "name": "ragev",
-    "points": 40,
+    "points": 60,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 0,
+        "1. Grunnleggende": 25,
         "2. Initiell aksess": 67,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
