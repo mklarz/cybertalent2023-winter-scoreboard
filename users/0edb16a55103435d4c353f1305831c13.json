@@ -1,11 +1,11 @@
 {
-    "position": 22,
-    "user_id": "92beafc9028e19e0bc950f084d8f7924",
-    "name": "GAMMEL KODER",
-    "points": 80,
+    "position": 90,
+    "user_id": "0edb16a55103435d4c353f1305831c13",
+    "name": "L\u00c6RINGSVILLIG KODEKNEKKER",
+    "points": 0,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 100,
+        "1. Grunnleggende": 0,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
@@ -14,6 +14,6 @@
         "2.5. Department of Security": 0,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 100
     }
 }
