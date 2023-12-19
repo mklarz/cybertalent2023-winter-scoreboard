@@ -1,12 +1,12 @@
 {
-    "position": 61,
-    "user_id": "e5f56c75668ec1aa0f97fcaec8374935",
-    "name": "Augustus",
-    "points": 30,
+    "position": 90,
+    "user_id": "815f772be4a743353f72b3a1993d7fe2",
+    "name": "ALVORLIG CYBERHELT",
+    "points": 10,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 12,
-        "2. Initiell aksess": 33,
+        "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
@@ -14,6 +14,6 @@
         "2.5. Department of Security": 0,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 100
+        "4. Skjulte flagg": 0
     }
 }
