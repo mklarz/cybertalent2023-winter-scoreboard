@@ -1,11 +1,11 @@
 {
-    "position": 63,
-    "user_id": "419d747ee067d94dc055c64f63b46af8",
-    "name": "SVAK CYBERHELT",
-    "points": 10,
+    "position": 67,
+    "user_id": "9ea762fd2e87f5d4d7afbeb5879b51c8",
+    "name": "Scalpel",
+    "points": 0,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 12,
+        "1. Grunnleggende": 0,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
@@ -14,6 +14,6 @@
         "2.5. Department of Security": 0,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 100
     }
 }
