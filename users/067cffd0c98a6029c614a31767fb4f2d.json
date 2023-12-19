@@ -1,11 +1,11 @@
 {
-    "position": 37,
-    "user_id": "1d1f958377bec053cc18002280ee212f",
-    "name": "Observant mann",
-    "points": 80,
+    "position": 96,
+    "user_id": "067cffd0c98a6029c614a31767fb4f2d",
+    "name": "SVETT SPION",
+    "points": 30,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 100,
+        "1. Grunnleggende": 38,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
@@ -14,6 +14,6 @@
         "2.5. Department of Security": 0,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 100
+        "4. Skjulte flagg": 0
     }
 }
