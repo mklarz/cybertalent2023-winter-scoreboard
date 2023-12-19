@@ -1,11 +1,11 @@
 {
-    "position": 42,
+    "position": 37,
     "user_id": "6e008442260405ce7d8149a1ec5a9d77",
     "name": "STERK PERSON",
-    "points": 50,
+    "points": 60,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 62,
+        "1. Grunnleggende": 75,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
