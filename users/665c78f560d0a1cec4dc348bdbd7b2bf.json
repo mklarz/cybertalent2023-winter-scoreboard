@@ -1,11 +1,11 @@
 {
-    "position": null,
+    "position": 89,
     "user_id": "665c78f560d0a1cec4dc348bdbd7b2bf",
     "name": "TYPETE REVERSER",
-    "points": 10,
+    "points": 30,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 0,
+        "1. Grunnleggende": 25,
         "2. Initiell aksess": 17,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,

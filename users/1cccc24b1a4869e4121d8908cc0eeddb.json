@@ -1,11 +1,11 @@
 {
-    "position": 26,
+    "position": 14,
     "user_id": "1cccc24b1a4869e4121d8908cc0eeddb",
     "name": "SgtSIGSEGV",
-    "points": 90,
+    "points": 100,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 88,
+        "1. Grunnleggende": 100,
         "2. Initiell aksess": 33,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
