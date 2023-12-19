@@ -1,11 +1,11 @@
 {
-    "position": 21,
+    "position": 17,
     "user_id": "538b47f8e25d8dc06aa593a048e67449",
     "name": "Blixat",
-    "points": 40,
+    "points": 50,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 50,
+        "1. Grunnleggende": 62,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
