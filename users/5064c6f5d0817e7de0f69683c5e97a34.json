@@ -1,12 +1,12 @@
 {
-    "position": 65,
-    "user_id": "11b0373dad96d5347be3bf91abcd370a",
-    "name": "Stimik",
-    "points": 30,
+    "position": 87,
+    "user_id": "5064c6f5d0817e7de0f69683c5e97a34",
+    "name": "FLINK STALLMAN",
+    "points": 10,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 38,
-        "2. Initiell aksess": 0,
+        "1. Grunnleggende": 0,
+        "2. Initiell aksess": 17,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
