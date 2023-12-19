@@ -1,12 +1,12 @@
 {
-    "position": 75,
+    "position": 51,
     "user_id": "0c20133aacd231bced3456008688e591",
     "name": "SVAK HACKER",
-    "points": 40,
+    "points": 70,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 50,
-        "2. Initiell aksess": 0,
+        "1. Grunnleggende": 75,
+        "2. Initiell aksess": 17,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
