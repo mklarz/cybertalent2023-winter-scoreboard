@@ -1,0 +1,19 @@
+{
+    "position": 10,
+    "user_id": "08daadb5e45506cca52029fd93fe0a5f",
+    "name": "PhonePhreak",
+    "points": 40,
+    "stars": 0,
+    "categories": {
+        "1. Grunnleggende": 38,
+        "2. Initiell aksess": 17,
+        "2.1. Department of Development and Test": 0,
+        "2.2. Department of Cryptography": 0,
+        "2.3. Department of Research": 0,
+        "2.4. Department of Intelligence": 0,
+        "2.5. Department of Security": 0,
+        "2.6. Department of Technology": 0,
+        "2.7. Department of Nuclear Power": 0,
+        "4. Skjulte flagg": 0
+    }
+}
