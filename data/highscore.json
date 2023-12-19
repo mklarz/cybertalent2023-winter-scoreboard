@@ -22,22 +22,22 @@
     },
     {
         "position": 4,
+        "user_id": "b80ae9b40e2f863c0e44d064d310be29",
+        "name": "SKARP SNOK",
+        "points": 160,
+        "stars": 0
+    },
+    {
+        "position": 5,
         "user_id": "e278db9bf3b5f3d2f20384014d131e5c",
         "name": "Vealending",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 5,
+        "position": 6,
         "user_id": "5ff34a03cf27e1cc099dd5dfee7ba64b",
         "name": "KRAMPEAKTIG GEEK",
-        "points": 150,
-        "stars": 0
-    },
-    {
-        "position": 6,
-        "user_id": "b80ae9b40e2f863c0e44d064d310be29",
-        "name": "SKARP SNOK",
         "points": 150,
         "stars": 0
     },
@@ -330,22 +330,22 @@
     },
     {
         "position": 48,
+        "user_id": "ca31dd551dbb75a2f441916372888e5a",
+        "name": "KUL HACKER",
+        "points": 90,
+        "stars": 0
+    },
+    {
+        "position": 49,
         "user_id": "c6379e75962e372fbfdb8f60789a1edf",
         "name": "th0m45",
         "points": 80,
         "stars": 0
     },
     {
-        "position": 49,
+        "position": 50,
         "user_id": "0c20133aacd231bced3456008688e591",
         "name": "SVAK HACKER",
-        "points": 80,
-        "stars": 0
-    },
-    {
-        "position": 50,
-        "user_id": "ca31dd551dbb75a2f441916372888e5a",
-        "name": "KUL HACKER",
         "points": 80,
         "stars": 0
     },

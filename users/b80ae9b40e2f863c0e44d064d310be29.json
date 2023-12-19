@@ -1,13 +1,13 @@
 {
-    "position": 6,
+    "position": 4,
     "user_id": "b80ae9b40e2f863c0e44d064d310be29",
     "name": "SKARP SNOK",
-    "points": 150,
+    "points": 160,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Initiell aksess": 100,
-        "2.1. Department of Development and Test": 0,
+        "2.1. Department of Development and Test": 14,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
