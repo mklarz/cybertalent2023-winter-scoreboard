@@ -1,5 +1,5 @@
 {
-    "position": 27,
+    "position": 25,
     "user_id": "473d71fef2dc63452a700966d00c5c8d",
     "name": "mutex",
     "points": 80,
@@ -14,6 +14,6 @@
         "2.5. Department of Security": 0,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 100
     }
 }
