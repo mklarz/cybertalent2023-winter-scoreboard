@@ -1,11 +1,11 @@
 {
-    "position": 11,
+    "position": 7,
     "user_id": "1b712092ab585863ac8cb53679203dc8",
     "name": "ARBEIDSOM PROGRAMMERER",
-    "points": 30,
+    "points": 40,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 38,
+        "1. Grunnleggende": 50,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,

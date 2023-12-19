@@ -1,5 +1,5 @@
 {
-    "position": 38,
+    "position": 33,
     "user_id": "000c2002a1da2e4800a63f2da716c2be",
     "name": "INDIGNERT PERSON",
     "points": 10,
@@ -14,6 +14,6 @@
         "2.5. Department of Security": 0,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 100
     }
 }

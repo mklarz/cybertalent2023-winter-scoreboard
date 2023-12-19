@@ -1,12 +1,12 @@
 {
-    "position": 40,
-    "user_id": "b80ae9b40e2f863c0e44d064d310be29",
-    "name": "SKARP SNOK",
+    "position": 43,
+    "user_id": "ecf92e8535503fb41eb88dff78f03032",
+    "name": "DYPTG\u00c5ENDE BABBAGE",
     "points": 10,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 0,
-        "2. Initiell aksess": 17,
+        "1. Grunnleggende": 12,
+        "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
