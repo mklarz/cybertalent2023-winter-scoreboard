@@ -1,12 +1,12 @@
 {
-    "position": 53,
-    "user_id": "12a42c73a0cd943367e58a01bd817ac1",
-    "name": "KLAM HACKTIVIST",
-    "points": 70,
+    "position": 100,
+    "user_id": "fc234c52c408268f13ae8223c847cebe",
+    "name": "ragev",
+    "points": 30,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 88,
-        "2. Initiell aksess": 0,
+        "1. Grunnleggende": 0,
+        "2. Initiell aksess": 50,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
