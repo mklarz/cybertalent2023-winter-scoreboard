@@ -1,11 +1,11 @@
 {
-    "position": 18,
+    "position": 20,
     "user_id": "2b3cd862c1795373112710dab3f9b532",
     "name": "Sithis",
     "points": 80,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 88,
+        "1. Grunnleggende": 100,
         "2. Initiell aksess": 17,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,

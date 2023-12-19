@@ -1,5 +1,5 @@
 {
-    "position": 63,
+    "position": 54,
     "user_id": "1cccc24b1a4869e4121d8908cc0eeddb",
     "name": "SgtSIGSEGV",
     "points": 30,
@@ -14,6 +14,6 @@
         "2.5. Department of Security": 0,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 100
     }
 }
