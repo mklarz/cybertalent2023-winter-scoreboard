@@ -1,11 +1,11 @@
 {
-    "position": 37,
+    "position": 32,
     "user_id": "31830d094478c186663d9d69a4435cb6",
     "name": "Ullern",
-    "points": 50,
+    "points": 60,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 62,
+        "1. Grunnleggende": 75,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
