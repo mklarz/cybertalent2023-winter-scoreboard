@@ -1,12 +1,12 @@
 {
-    "position": 37,
-    "user_id": "e47f8c105ce643d9118b0e45d1b5016e",
-    "name": "DEDIKERT CYBERHELT",
-    "points": 90,
+    "position": 90,
+    "user_id": "37ba28339c7ad69d40bdbd90e993c08f",
+    "name": "GAMMEL NERD",
+    "points": 40,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 100,
-        "2. Initiell aksess": 17,
+        "1. Grunnleggende": 50,
+        "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,

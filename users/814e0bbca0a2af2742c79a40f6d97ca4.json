@@ -1,12 +1,12 @@
 {
-    "position": 36,
+    "position": 30,
     "user_id": "814e0bbca0a2af2742c79a40f6d97ca4",
     "name": "ANBEFALT KLOVN",
-    "points": 90,
+    "points": 100,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
-        "2. Initiell aksess": 17,
+        "2. Initiell aksess": 33,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
