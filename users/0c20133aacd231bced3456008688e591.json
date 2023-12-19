@@ -1,12 +1,12 @@
 {
-    "position": 89,
-    "user_id": "419d747ee067d94dc055c64f63b46af8",
-    "name": "SVAK CYBERHELT",
-    "points": 20,
+    "position": 84,
+    "user_id": "0c20133aacd231bced3456008688e591",
+    "name": "SVAK HACKER",
+    "points": 30,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 12,
-        "2. Initiell aksess": 17,
+        "1. Grunnleggende": 38,
+        "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
