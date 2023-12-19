@@ -1,5 +1,5 @@
 {
-    "position": 46,
+    "position": 35,
     "user_id": "e278db9bf3b5f3d2f20384014d131e5c",
     "name": "Vealending",
     "points": 30,
@@ -14,6 +14,6 @@
         "2.5. Department of Security": 33,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 100
     }
 }
