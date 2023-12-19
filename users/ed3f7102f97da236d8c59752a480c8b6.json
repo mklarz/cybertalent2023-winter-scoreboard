@@ -1,12 +1,12 @@
 {
-    "position": 21,
-    "user_id": "4871da1b8f31f5ef42036a536a27508d",
-    "name": "duniel",
-    "points": 50,
+    "position": 74,
+    "user_id": "ed3f7102f97da236d8c59752a480c8b6",
+    "name": "L\u00c6RINGSVILLIG HACKER",
+    "points": 10,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 62,
-        "2. Initiell aksess": 0,
+        "1. Grunnleggende": 0,
+        "2. Initiell aksess": 17,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
@@ -14,6 +14,6 @@
         "2.5. Department of Security": 0,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 100
+        "4. Skjulte flagg": 0
     }
 }
