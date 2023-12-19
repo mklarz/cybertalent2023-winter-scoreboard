@@ -1,11 +1,11 @@
 {
-    "position": 16,
-    "user_id": "1b712092ab585863ac8cb53679203dc8",
-    "name": "ARBEIDSOM PROGRAMMERER",
-    "points": 90,
+    "position": 97,
+    "user_id": "665c78f560d0a1cec4dc348bdbd7b2bf",
+    "name": "TYPETE REVERSER",
+    "points": 10,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 100,
+        "1. Grunnleggende": 0,
         "2. Initiell aksess": 17,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
@@ -14,6 +14,6 @@
         "2.5. Department of Security": 0,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 100
+        "4. Skjulte flagg": 0
     }
 }

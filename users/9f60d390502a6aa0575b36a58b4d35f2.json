@@ -1,12 +1,12 @@
 {
-    "position": 28,
+    "position": 23,
     "user_id": "9f60d390502a6aa0575b36a58b4d35f2",
     "name": "INNBITT CRACKER",
-    "points": 80,
+    "points": 90,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
-        "2. Initiell aksess": 0,
+        "2. Initiell aksess": 17,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
