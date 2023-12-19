@@ -1,12 +1,12 @@
 {
-    "position": 40,
-    "user_id": "8c2b25c8c55d3f4e107a6171486a7760",
-    "name": "Mini",
-    "points": 30,
+    "position": 62,
+    "user_id": "73d9e699af56776453db0ce015d6e72a",
+    "name": "RYDDIG CYBERHELT",
+    "points": 10,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 38,
-        "2. Initiell aksess": 0,
+        "1. Grunnleggende": 0,
+        "2. Initiell aksess": 17,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
