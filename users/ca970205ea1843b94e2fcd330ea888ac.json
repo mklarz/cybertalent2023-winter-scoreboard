@@ -1,19 +1,19 @@
 {
-    "position": 95,
-    "user_id": "9ea762fd2e87f5d4d7afbeb5879b51c8",
-    "name": "Scalpel",
-    "points": 20,
+    "position": 94,
+    "user_id": "ca970205ea1843b94e2fcd330ea888ac",
+    "name": "NAKEN PROGRAMMERER",
+    "points": 30,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 0,
-        "2. Initiell aksess": 17,
+        "1. Grunnleggende": 38,
+        "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
-        "2.5. Department of Security": 33,
+        "2.5. Department of Security": 0,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 100
+        "4. Skjulte flagg": 0
     }
 }
