@@ -1,12 +1,12 @@
 {
-    "position": 35,
+    "position": 31,
     "user_id": "a1d4e6b28264f08847a4bf32a09f897f",
     "name": "fslaktern",
-    "points": 70,
+    "points": 80,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 88,
-        "2. Initiell aksess": 0,
+        "2. Initiell aksess": 17,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
