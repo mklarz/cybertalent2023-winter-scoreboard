@@ -1,11 +1,11 @@
 {
-    "position": 60,
+    "position": 45,
     "user_id": "2610cf05f75f1600a960b0436d1efaeb",
     "name": "jole",
-    "points": 40,
+    "points": 60,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 12,
+        "1. Grunnleggende": 38,
         "2. Initiell aksess": 33,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
