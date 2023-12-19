@@ -1,11 +1,11 @@
 {
-    "position": 48,
+    "position": 44,
     "user_id": "e0440540ac9d6d10aa6a23bc7f542cca",
     "name": "Erlang",
-    "points": 20,
+    "points": 30,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 25,
+        "1. Grunnleggende": 38,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
