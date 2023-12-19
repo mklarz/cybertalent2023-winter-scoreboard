@@ -1,11 +1,11 @@
 {
-    "position": 71,
+    "position": 66,
     "user_id": "a70daac27109cef0f636ddf1c7406669",
     "name": "Foxy Mulder",
-    "points": 20,
+    "points": 30,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 25,
+        "1. Grunnleggende": 38,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
