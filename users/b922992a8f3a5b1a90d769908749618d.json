@@ -1,12 +1,12 @@
 {
-    "position": null,
-    "user_id": "2df783a79cac496d30fdff077f5c4ae6",
-    "name": "roys",
-    "points": 30,
+    "position": 93,
+    "user_id": "b922992a8f3a5b1a90d769908749618d",
+    "name": "OPERATIV FRAGLE",
+    "points": 40,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 12,
-        "2. Initiell aksess": 33,
+        "1. Grunnleggende": 0,
+        "2. Initiell aksess": 67,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
