@@ -29,22 +29,22 @@
     },
     {
         "position": 5,
+        "user_id": "4fc0486fa3299de7357da60c492a5fcd",
+        "name": "Carixo",
+        "points": 160,
+        "stars": 0
+    },
+    {
+        "position": 6,
         "user_id": "e278db9bf3b5f3d2f20384014d131e5c",
         "name": "Vealending",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 6,
+        "position": 7,
         "user_id": "5ff34a03cf27e1cc099dd5dfee7ba64b",
         "name": "KRAMPEAKTIG GEEK",
-        "points": 150,
-        "stars": 0
-    },
-    {
-        "position": 7,
-        "user_id": "4fc0486fa3299de7357da60c492a5fcd",
-        "name": "Carixo",
         "points": 150,
         "stars": 0
     },
@@ -148,36 +148,36 @@
     },
     {
         "position": 22,
+        "user_id": "2b3cd862c1795373112710dab3f9b532",
+        "name": "Sithis",
+        "points": 110,
+        "stars": 0
+    },
+    {
+        "position": 23,
         "user_id": "1cccc24b1a4869e4121d8908cc0eeddb",
         "name": "SgtSIGSEGV",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 23,
+        "position": 24,
         "user_id": "918468dde162da115530e48648bab442",
         "name": "ole_brumm",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "538b47f8e25d8dc06aa593a048e67449",
         "name": "Blixat",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 25,
+        "position": 26,
         "user_id": "000c2002a1da2e4800a63f2da716c2be",
         "name": "TASTATUR",
-        "points": 100,
-        "stars": 0
-    },
-    {
-        "position": 26,
-        "user_id": "2b3cd862c1795373112710dab3f9b532",
-        "name": "Sithis",
         "points": 100,
         "stars": 0
     },
@@ -673,29 +673,29 @@
     },
     {
         "position": 97,
+        "user_id": "b83907e4310db1c9c8eff2511ae45342",
+        "name": "YDMYK MITNICK",
+        "points": 40,
+        "stars": 0
+    },
+    {
+        "position": 98,
         "user_id": "24f5aabccd791bb53b07b300bacc2d4a",
         "name": "Ic3Ric3",
         "points": 30,
         "stars": 0
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "7bc269aee43bdabc3bcbe2329c380a58",
         "name": "SUR HACKTIVIST",
         "points": 30,
         "stars": 0
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "e0440540ac9d6d10aa6a23bc7f542cca",
         "name": "Erlang",
-        "points": 30,
-        "stars": 0
-    },
-    {
-        "position": 100,
-        "user_id": "d163fd9716a9da9511a56bfa29680c4a",
-        "name": "mimir",
         "points": 30,
         "stars": 0
     }
