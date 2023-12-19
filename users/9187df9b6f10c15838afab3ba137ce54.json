@@ -1,11 +1,11 @@
 {
-    "position": null,
-    "user_id": "36a5dd7e4d99d696e4a7765ffb420482",
-    "name": "Test-konto i PROD",
-    "points": 0,
+    "position": 2,
+    "user_id": "9187df9b6f10c15838afab3ba137ce54",
+    "name": "FOKUSERT KODER",
+    "points": 50,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 0,
+        "1. Grunnleggende": 62,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
@@ -14,6 +14,6 @@
         "2.5. Department of Security": 0,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 100
     }
 }

@@ -1,11 +1,11 @@
 {
-    "position": null,
-    "user_id": "36a5dd7e4d99d696e4a7765ffb420482",
-    "name": "Test-konto i PROD",
-    "points": 0,
+    "position": 13,
+    "user_id": "bc0884a277344052e2bce379faeff9df",
+    "name": "INDIGNERT PERSON",
+    "points": 10,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 0,
+        "1. Grunnleggende": 12,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,

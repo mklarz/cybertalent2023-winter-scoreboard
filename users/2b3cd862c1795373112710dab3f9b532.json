@@ -1,11 +1,11 @@
 {
-    "position": null,
-    "user_id": "36a5dd7e4d99d696e4a7765ffb420482",
-    "name": "Test-konto i PROD",
-    "points": 0,
+    "position": 3,
+    "user_id": "2b3cd862c1795373112710dab3f9b532",
+    "name": "Sithis",
+    "points": 30,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 0,
+        "1. Grunnleggende": 38,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,

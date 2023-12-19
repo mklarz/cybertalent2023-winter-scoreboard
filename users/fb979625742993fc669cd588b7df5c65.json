@@ -1,7 +1,7 @@
 {
-    "position": null,
-    "user_id": "36a5dd7e4d99d696e4a7765ffb420482",
-    "name": "Test-konto i PROD",
+    "position": 16,
+    "user_id": "fb979625742993fc669cd588b7df5c65",
+    "name": "ARBEIDSOM MITNICK",
     "points": 0,
     "stars": 0,
     "categories": {
@@ -14,6 +14,6 @@
         "2.5. Department of Security": 0,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 100
     }
 }

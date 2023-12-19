@@ -1,1 +1,114 @@
-[]
+[
+    {
+        "position": 1,
+        "user_id": "d6a14dd1f9ffa90da3a6cf02d915c6dc",
+        "name": "KOKETT HACKER",
+        "points": 60,
+        "stars": 0
+    },
+    {
+        "position": 2,
+        "user_id": "9187df9b6f10c15838afab3ba137ce54",
+        "name": "FOKUSERT KODER",
+        "points": 50,
+        "stars": 0
+    },
+    {
+        "position": 3,
+        "user_id": "2b3cd862c1795373112710dab3f9b532",
+        "name": "Sithis",
+        "points": 30,
+        "stars": 0
+    },
+    {
+        "position": 4,
+        "user_id": "a955dcf82c1f22aa33da13da6b4d5036",
+        "name": "NootNoot",
+        "points": 30,
+        "stars": 0
+    },
+    {
+        "position": 5,
+        "user_id": "2b5591795899026997c146ca26ebe258",
+        "name": "GRIM MITNICK",
+        "points": 30,
+        "stars": 0
+    },
+    {
+        "position": 6,
+        "user_id": "55be5c773bd7ce4661c814c39cb873d7",
+        "name": "nicw",
+        "points": 20,
+        "stars": 0
+    },
+    {
+        "position": 7,
+        "user_id": "92183a6aa137f3f9e22c92d1b6d7fdd4",
+        "name": "SurBacon",
+        "points": 20,
+        "stars": 0
+    },
+    {
+        "position": 8,
+        "user_id": "92beafc9028e19e0bc950f084d8f7924",
+        "name": "GAMMEL KODER",
+        "points": 20,
+        "stars": 0
+    },
+    {
+        "position": 9,
+        "user_id": "2610cf05f75f1600a960b0436d1efaeb",
+        "name": "jole",
+        "points": 10,
+        "stars": 0
+    },
+    {
+        "position": 10,
+        "user_id": "538b47f8e25d8dc06aa593a048e67449",
+        "name": "RUTETE BABBAGE",
+        "points": 10,
+        "stars": 0
+    },
+    {
+        "position": 11,
+        "user_id": "fb69eb873a81c4f91603da87b383f7de",
+        "name": "MOTIVERT CRACKER",
+        "points": 10,
+        "stars": 0
+    },
+    {
+        "position": 12,
+        "user_id": "e5f56c75668ec1aa0f97fcaec8374935",
+        "name": "Augustus",
+        "points": 10,
+        "stars": 0
+    },
+    {
+        "position": 13,
+        "user_id": "bc0884a277344052e2bce379faeff9df",
+        "name": "INDIGNERT PERSON",
+        "points": 10,
+        "stars": 0
+    },
+    {
+        "position": 14,
+        "user_id": "7bc269aee43bdabc3bcbe2329c380a58",
+        "name": "SUR HACKTIVIST",
+        "points": 10,
+        "stars": 0
+    },
+    {
+        "position": 15,
+        "user_id": "1b712092ab585863ac8cb53679203dc8",
+        "name": "ARBEIDSOM PROGRAMMERER",
+        "points": 10,
+        "stars": 0
+    },
+    {
+        "position": 16,
+        "user_id": "fb979625742993fc669cd588b7df5c65",
+        "name": "ARBEIDSOM MITNICK",
+        "points": 0,
+        "stars": 0
+    }
+]
