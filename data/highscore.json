@@ -211,106 +211,106 @@
     },
     {
         "position": 31,
+        "user_id": "73d9e699af56776453db0ce015d6e72a",
+        "name": "RYDDIG CYBERHELT",
+        "points": 100,
+        "stars": 0
+    },
+    {
+        "position": 32,
         "user_id": "57e60c5f6363023cb951e4c20eaa53be",
         "name": "brage",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 32,
+        "position": 33,
         "user_id": "9f60d390502a6aa0575b36a58b4d35f2",
         "name": "INNBITT CRACKER",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 33,
+        "position": 34,
         "user_id": "31830d094478c186663d9d69a4435cb6",
         "name": "Ullern",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 34,
+        "position": 35,
         "user_id": "814e0bbca0a2af2742c79a40f6d97ca4",
         "name": "ANBEFALT KLOVN",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 35,
+        "position": 36,
         "user_id": "08daadb5e45506cca52029fd93fe0a5f",
         "name": "PhonePhreak",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 36,
+        "position": 37,
         "user_id": "aba1809901b9d0fcff14f2c13c583ffa",
         "name": "Daddie0",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 37,
+        "position": 38,
         "user_id": "467306aa74abbdfc31ca72f24503c448",
         "name": "sakarl",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 38,
+        "position": 39,
         "user_id": "92183a6aa137f3f9e22c92d1b6d7fdd4",
         "name": "SurBacon",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 39,
+        "position": 40,
         "user_id": "1b712092ab585863ac8cb53679203dc8",
         "name": "ARBEIDSOM PROGRAMMERER",
         "points": 90,
         "stars": 0
     },
     {
-        "position": 40,
+        "position": 41,
         "user_id": "e44f9bedefe98aed44d398a61178d457",
         "name": "S\u00c5RBAR KLOVN",
         "points": 90,
         "stars": 0
     },
     {
-        "position": 41,
+        "position": 42,
         "user_id": "4871da1b8f31f5ef42036a536a27508d",
         "name": "duniel",
         "points": 90,
         "stars": 0
     },
     {
-        "position": 42,
+        "position": 43,
         "user_id": "473d71fef2dc63452a700966d00c5c8d",
         "name": "mutex",
         "points": 90,
         "stars": 0
     },
     {
-        "position": 43,
+        "position": 44,
         "user_id": "0fba2e0d42b78788885e849f0f1c7647",
         "name": "larsw",
         "points": 90,
         "stars": 0
     },
     {
-        "position": 44,
+        "position": 45,
         "user_id": "a1d4e6b28264f08847a4bf32a09f897f",
         "name": "fslaktern",
-        "points": 90,
-        "stars": 0
-    },
-    {
-        "position": 45,
-        "user_id": "73d9e699af56776453db0ce015d6e72a",
-        "name": "RYDDIG CYBERHELT",
         "points": 90,
         "stars": 0
     },
@@ -528,7 +528,7 @@
         "position": 76,
         "user_id": "815f772be4a743353f72b3a1993d7fe2",
         "name": "ALVORLIG CYBERHELT",
-        "points": 60,
+        "points": 70,
         "stars": 0
     },
     {
@@ -547,57 +547,57 @@
     },
     {
         "position": 79,
+        "user_id": "bd6dd132e52bf0917f767e3dcaba3afa",
+        "name": "GJE DEG NORDBO",
+        "points": 60,
+        "stars": 0
+    },
+    {
+        "position": 80,
         "user_id": "ed3f7102f97da236d8c59752a480c8b6",
         "name": "L\u00c6RINGSVILLIG HACKER",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 80,
+        "position": 81,
         "user_id": "b22d0f5dc0b28f4bee6501aac8a29635",
         "name": "FLINK KLYSE",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 81,
+        "position": 82,
         "user_id": "0b7adce5341db4eb81bf5734ff3c594c",
         "name": "Duffleman",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 82,
+        "position": 83,
         "user_id": "d341de3777b81cda1285e389e1699552",
         "name": "ANBEFALT KODEKNEKKER",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 83,
+        "position": 84,
         "user_id": "378b2e406fefc3a2e87638303a404f98",
         "name": "janfysen",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 84,
+        "position": 85,
         "user_id": "73d2554918755d7ab71957ec24ba7546",
         "name": "KUNNSKAPSRIK PERSON",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 85,
+        "position": 86,
         "user_id": "f88352d66ed805e4013787a9dc23e156",
         "name": "oscr",
-        "points": 50,
-        "stars": 0
-    },
-    {
-        "position": 86,
-        "user_id": "bd6dd132e52bf0917f767e3dcaba3afa",
-        "name": "GJE DEG NORDBO",
         "points": 50,
         "stars": 0
     },
