@@ -505,36 +505,36 @@
     },
     {
         "position": 73,
+        "user_id": "73d9e699af56776453db0ce015d6e72a",
+        "name": "RYDDIG CYBERHELT",
+        "points": 60,
+        "stars": 0
+    },
+    {
+        "position": 74,
         "user_id": "815f772be4a743353f72b3a1993d7fe2",
         "name": "ALVORLIG CYBERHELT",
         "points": 60,
         "stars": 0
     },
     {
-        "position": 74,
+        "position": 75,
         "user_id": "ad81f6d104590e7c97f7ea7daa73fd47",
         "name": "KLAM SLASK",
         "points": 60,
         "stars": 0
     },
     {
-        "position": 75,
+        "position": 76,
         "user_id": "36faa0b37b11696dc92b27f89c25e430",
         "name": "ARTIG HACKER",
         "points": 60,
         "stars": 0
     },
     {
-        "position": 76,
+        "position": 77,
         "user_id": "ed3f7102f97da236d8c59752a480c8b6",
         "name": "L\u00c6RINGSVILLIG HACKER",
-        "points": 50,
-        "stars": 0
-    },
-    {
-        "position": 77,
-        "user_id": "73d9e699af56776453db0ce015d6e72a",
-        "name": "RYDDIG CYBERHELT",
         "points": 50,
         "stars": 0
     },
