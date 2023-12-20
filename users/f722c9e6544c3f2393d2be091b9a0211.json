@@ -1,12 +1,12 @@
 {
-    "position": 78,
-    "user_id": "ad81f6d104590e7c97f7ea7daa73fd47",
-    "name": "KLAM SLASK",
+    "position": 80,
+    "user_id": "f722c9e6544c3f2393d2be091b9a0211",
+    "name": "INNBITT SCHNEIER",
     "points": 60,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 50,
-        "2. Initiell aksess": 33,
+        "1. Grunnleggende": 75,
+        "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
