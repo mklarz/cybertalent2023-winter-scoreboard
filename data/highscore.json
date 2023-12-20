@@ -17,7 +17,7 @@
         "position": 3,
         "user_id": "4fc0486fa3299de7357da60c492a5fcd",
         "name": "Carixo",
-        "points": 170,
+        "points": 180,
         "stars": 0
     },
     {
@@ -134,15 +134,15 @@
     },
     {
         "position": 20,
-        "user_id": "b8ffb7a7fa51e530158b6015294fd0fe",
-        "name": "ARTISTISK SPION",
+        "user_id": "31830d094478c186663d9d69a4435cb6",
+        "name": "Ullern",
         "points": 140,
         "stars": 0
     },
     {
         "position": 21,
-        "user_id": "31830d094478c186663d9d69a4435cb6",
-        "name": "Ullern",
+        "user_id": "b8ffb7a7fa51e530158b6015294fd0fe",
+        "name": "ARTISTISK SPION",
         "points": 140,
         "stars": 0
     },
@@ -631,71 +631,71 @@
     },
     {
         "position": 91,
+        "user_id": "9e5cf3aa6bf8e91a8dedbb01ae9c1348",
+        "name": "rootboot",
+        "points": 60,
+        "stars": 0
+    },
+    {
+        "position": 92,
         "user_id": "ed3f7102f97da236d8c59752a480c8b6",
         "name": "L\u00c6RINGSVILLIG HACKER",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 92,
+        "position": 93,
         "user_id": "b22d0f5dc0b28f4bee6501aac8a29635",
         "name": "FLINK KLYSE",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 93,
+        "position": 94,
         "user_id": "0b7adce5341db4eb81bf5734ff3c594c",
         "name": "Duffleman",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 94,
+        "position": 95,
         "user_id": "d341de3777b81cda1285e389e1699552",
         "name": "ANBEFALT KODEKNEKKER",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 95,
+        "position": 96,
         "user_id": "378b2e406fefc3a2e87638303a404f98",
         "name": "janfysen",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 96,
+        "position": 97,
         "user_id": "73d2554918755d7ab71957ec24ba7546",
         "name": "KUNNSKAPSRIK PERSON",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "f88352d66ed805e4013787a9dc23e156",
         "name": "oscr",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "fc15f6c83172f7684517f963cda4d584",
         "name": "SKARP REVERSER",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "d8cb0d05feb78fd31df444898c9f8781",
         "name": "mTown",
-        "points": 50,
-        "stars": 0
-    },
-    {
-        "position": 100,
-        "user_id": "cd4d628d4c09f46b71a833dfe917aa5a",
-        "name": "NERDETE CRACKER",
         "points": 50,
         "stars": 0
     }

@@ -1,12 +1,12 @@
 {
-    "position": 93,
-    "user_id": "b22d0f5dc0b28f4bee6501aac8a29635",
-    "name": "FLINK KLYSE",
-    "points": 50,
+    "position": 91,
+    "user_id": "9e5cf3aa6bf8e91a8dedbb01ae9c1348",
+    "name": "rootboot",
+    "points": 60,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 38,
-        "2. Initiell aksess": 33,
+        "1. Grunnleggende": 75,
+        "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
