@@ -155,22 +155,22 @@
     },
     {
         "position": 23,
+        "user_id": "e44f9bedefe98aed44d398a61178d457",
+        "name": "S\u00c5RBAR KLOVN",
+        "points": 130,
+        "stars": 0
+    },
+    {
+        "position": 24,
         "user_id": "53e36d30e2f053b3fbd7c72363a844ed",
         "name": "KRAMPEAKTIG SNOK",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "e5f56c75668ec1aa0f97fcaec8374935",
         "name": "Augustus",
-        "points": 120,
-        "stars": 0
-    },
-    {
-        "position": 25,
-        "user_id": "e44f9bedefe98aed44d398a61178d457",
-        "name": "S\u00c5RBAR KLOVN",
         "points": 120,
         "stars": 0
     },
