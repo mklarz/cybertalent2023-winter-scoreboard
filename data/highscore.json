@@ -106,22 +106,22 @@
     },
     {
         "position": 16,
+        "user_id": "7eb5c2d7a0f1753b78e9857a28391c09",
+        "name": "S\u00c5RBAR NERD",
+        "points": 130,
+        "stars": 0
+    },
+    {
+        "position": 17,
         "user_id": "bc0884a277344052e2bce379faeff9df",
         "name": "MSK",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 17,
+        "position": 18,
         "user_id": "53e36d30e2f053b3fbd7c72363a844ed",
         "name": "KRAMPEAKTIG SNOK",
-        "points": 120,
-        "stars": 0
-    },
-    {
-        "position": 18,
-        "user_id": "7eb5c2d7a0f1753b78e9857a28391c09",
-        "name": "S\u00c5RBAR NERD",
         "points": 120,
         "stars": 0
     },
