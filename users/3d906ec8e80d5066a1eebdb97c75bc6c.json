@@ -1,11 +1,11 @@
 {
-    "position": 80,
+    "position": 78,
     "user_id": "3d906ec8e80d5066a1eebdb97c75bc6c",
     "name": "telemetri",
-    "points": 50,
+    "points": 60,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 62,
+        "1. Grunnleggende": 75,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
