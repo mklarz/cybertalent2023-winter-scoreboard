@@ -1,8 +1,8 @@
 {
-    "position": 51,
+    "position": 37,
     "user_id": "0fba2e0d42b78788885e849f0f1c7647",
     "name": "larsw",
-    "points": 90,
+    "points": 100,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 88,
@@ -11,7 +11,7 @@
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
-        "2.5. Department of Security": 0,
+        "2.5. Department of Security": 33,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
         "4. Skjulte flagg": 100
