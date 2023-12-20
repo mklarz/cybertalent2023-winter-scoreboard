@@ -1,12 +1,12 @@
 {
-    "position": 98,
+    "position": 94,
     "user_id": "d935c74c147a1fae74fc208bf1b3d989",
     "name": "amikus",
-    "points": 60,
+    "points": 70,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 75,
-        "2. Initiell aksess": 0,
+        "2. Initiell aksess": 17,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
