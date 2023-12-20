@@ -225,29 +225,29 @@
     },
     {
         "position": 33,
+        "user_id": "1d1f958377bec053cc18002280ee212f",
+        "name": "Observant mann",
+        "points": 110,
+        "stars": 0
+    },
+    {
+        "position": 34,
         "user_id": "918468dde162da115530e48648bab442",
         "name": "ole_brumm",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 34,
+        "position": 35,
         "user_id": "538b47f8e25d8dc06aa593a048e67449",
         "name": "Blixat",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 35,
+        "position": 36,
         "user_id": "000c2002a1da2e4800a63f2da716c2be",
         "name": "TASTATUR",
-        "points": 100,
-        "stars": 0
-    },
-    {
-        "position": 36,
-        "user_id": "1d1f958377bec053cc18002280ee212f",
-        "name": "Observant mann",
         "points": 100,
         "stars": 0
     },
