@@ -71,50 +71,50 @@
     },
     {
         "position": 11,
+        "user_id": "acc47f3a2d23f25a8ef01167542b44db",
+        "name": "s1",
+        "points": 150,
+        "stars": 0
+    },
+    {
+        "position": 12,
         "user_id": "7eb5c2d7a0f1753b78e9857a28391c09",
         "name": "S\u00c5RBAR NERD",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 12,
+        "position": 13,
         "user_id": "dd3d1cc3c573cd913b02531de9a07c98",
         "name": "S\u00c5RBAR GUD",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 13,
+        "position": 14,
         "user_id": "62fcf3b8b011b06ad5c81c66c9a5ccbf",
         "name": "MrFreddi007",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 14,
-        "user_id": "acc47f3a2d23f25a8ef01167542b44db",
-        "name": "s1",
+        "position": 15,
+        "user_id": "419d747ee067d94dc055c64f63b46af8",
+        "name": "P\u00c6KKM\u00c6N",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 15,
+        "position": 16,
         "user_id": "049a6cbc9a76ba83bffe77ce256e9364",
         "name": "siddharth",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 16,
+        "position": 17,
         "user_id": "55be5c773bd7ce4661c814c39cb873d7",
         "name": "nicw",
-        "points": 130,
-        "stars": 0
-    },
-    {
-        "position": 17,
-        "user_id": "419d747ee067d94dc055c64f63b46af8",
-        "name": "P\u00c6KKM\u00c6N",
         "points": 130,
         "stars": 0
     },
@@ -491,15 +491,15 @@
     },
     {
         "position": 71,
-        "user_id": "ed3f7102f97da236d8c59752a480c8b6",
-        "name": "L\u00c6RINGSVILLIG HACKER",
-        "points": 50,
+        "user_id": "ad81f6d104590e7c97f7ea7daa73fd47",
+        "name": "KLAM SLASK",
+        "points": 60,
         "stars": 0
     },
     {
         "position": 72,
-        "user_id": "ad81f6d104590e7c97f7ea7daa73fd47",
-        "name": "KLAM SLASK",
+        "user_id": "ed3f7102f97da236d8c59752a480c8b6",
+        "name": "L\u00c6RINGSVILLIG HACKER",
         "points": 50,
         "stars": 0
     },
