@@ -1,12 +1,12 @@
 {
-    "position": 56,
-    "user_id": "ca31dd551dbb75a2f441916372888e5a",
-    "name": "KUL HACKER",
-    "points": 90,
+    "position": 94,
+    "user_id": "d8cb0d05feb78fd31df444898c9f8781",
+    "name": "mTown",
+    "points": 50,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 88,
-        "2. Initiell aksess": 33,
+        "1. Grunnleggende": 50,
+        "2. Initiell aksess": 17,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
