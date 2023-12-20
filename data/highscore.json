@@ -204,78 +204,78 @@
     },
     {
         "position": 30,
+        "user_id": "9ea762fd2e87f5d4d7afbeb5879b51c8",
+        "name": "Scalpel",
+        "points": 120,
+        "stars": 0
+    },
+    {
+        "position": 31,
         "user_id": "2c1c2b10f90abc8c818321ebe4d55876",
         "name": "TAFATT NOOB",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 31,
+        "position": 32,
         "user_id": "36faa0b37b11696dc92b27f89c25e430",
         "name": "Gress",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 32,
+        "position": 33,
         "user_id": "b83907e4310db1c9c8eff2511ae45342",
         "name": "YDMYK MITNICK",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 33,
+        "position": 34,
         "user_id": "bd6dd132e52bf0917f767e3dcaba3afa",
         "name": "GJE DEG NORDBO",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 34,
+        "position": 35,
         "user_id": "1cccc24b1a4869e4121d8908cc0eeddb",
         "name": "SgtSIGSEGV",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 35,
+        "position": 36,
         "user_id": "f732f218ab6f6c348afa3f21fff8636f",
         "name": "ARBEIDSOM DRAPER",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 36,
+        "position": 37,
         "user_id": "aba1809901b9d0fcff14f2c13c583ffa",
         "name": "Daddie0",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 37,
+        "position": 38,
         "user_id": "2b3cd862c1795373112710dab3f9b532",
         "name": "Sithis",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 38,
+        "position": 39,
         "user_id": "1d1f958377bec053cc18002280ee212f",
         "name": "Observant mann",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 39,
+        "position": 40,
         "user_id": "a1d4e6b28264f08847a4bf32a09f897f",
         "name": "fslaktern",
-        "points": 110,
-        "stars": 0
-    },
-    {
-        "position": 40,
-        "user_id": "9ea762fd2e87f5d4d7afbeb5879b51c8",
-        "name": "Scalpel",
         "points": 110,
         "stars": 0
     },
