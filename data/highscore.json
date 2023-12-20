@@ -43,37 +43,37 @@
     },
     {
         "position": 7,
+        "user_id": "55be5c773bd7ce4661c814c39cb873d7",
+        "name": "nicw",
+        "points": 160,
+        "stars": 0
+    },
+    {
+        "position": 8,
         "user_id": "b80ae9b40e2f863c0e44d064d310be29",
         "name": "SKARP SNOK",
         "points": 160,
         "stars": 0
     },
     {
-        "position": 8,
+        "position": 9,
         "user_id": "2610cf05f75f1600a960b0436d1efaeb",
         "name": "jole",
         "points": 160,
         "stars": 0
     },
     {
-        "position": 9,
+        "position": 10,
         "user_id": "92beafc9028e19e0bc950f084d8f7924",
         "name": "GAMMEL KODER",
         "points": 160,
         "stars": 0
     },
     {
-        "position": 10,
+        "position": 11,
         "user_id": "acc47f3a2d23f25a8ef01167542b44db",
         "name": "s1",
         "points": 160,
-        "stars": 0
-    },
-    {
-        "position": 11,
-        "user_id": "55be5c773bd7ce4661c814c39cb873d7",
-        "name": "nicw",
-        "points": 150,
         "stars": 0
     },
     {
@@ -561,22 +561,22 @@
     },
     {
         "position": 81,
+        "user_id": "2168ee062d4cb40a8e4c9d8df6a1162d",
+        "name": "LilliePlant",
+        "points": 70,
+        "stars": 0
+    },
+    {
+        "position": 82,
         "user_id": "ad81f6d104590e7c97f7ea7daa73fd47",
         "name": "KLAM SLASK",
         "points": 60,
         "stars": 0
     },
     {
-        "position": 82,
+        "position": 83,
         "user_id": "f722c9e6544c3f2393d2be091b9a0211",
         "name": "INNBITT SCHNEIER",
-        "points": 60,
-        "stars": 0
-    },
-    {
-        "position": 83,
-        "user_id": "2168ee062d4cb40a8e4c9d8df6a1162d",
-        "name": "LilliePlant",
         "points": 60,
         "stars": 0
     },
