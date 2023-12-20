@@ -1,11 +1,11 @@
 {
-    "position": 76,
+    "position": 66,
     "user_id": "815f772be4a743353f72b3a1993d7fe2",
     "name": "ALVORLIG CYBERHELT",
-    "points": 50,
+    "points": 60,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 62,
+        "1. Grunnleggende": 75,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,

@@ -456,85 +456,85 @@
     },
     {
         "position": 66,
+        "user_id": "815f772be4a743353f72b3a1993d7fe2",
+        "name": "ALVORLIG CYBERHELT",
+        "points": 60,
+        "stars": 0
+    },
+    {
+        "position": 67,
+        "user_id": "81da4acdfbdee9352dd4dd4bf3e3632d",
+        "name": "SUR SPION",
+        "points": 60,
+        "stars": 0
+    },
+    {
+        "position": 68,
         "user_id": "ed3f7102f97da236d8c59752a480c8b6",
         "name": "L\u00c6RINGSVILLIG HACKER",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 67,
+        "position": 69,
         "user_id": "ad81f6d104590e7c97f7ea7daa73fd47",
         "name": "KLAM SLASK",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 68,
+        "position": 70,
         "user_id": "b22d0f5dc0b28f4bee6501aac8a29635",
         "name": "FLINK KLYSE",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 69,
+        "position": 71,
         "user_id": "3d906ec8e80d5066a1eebdb97c75bc6c",
         "name": "telemetri",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 70,
+        "position": 72,
         "user_id": "0b7adce5341db4eb81bf5734ff3c594c",
         "name": "Duffleman",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 71,
+        "position": 73,
         "user_id": "d341de3777b81cda1285e389e1699552",
         "name": "ANBEFALT KODEKNEKKER",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 72,
+        "position": 74,
         "user_id": "378b2e406fefc3a2e87638303a404f98",
         "name": "janfysen",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 73,
+        "position": 75,
         "user_id": "73d2554918755d7ab71957ec24ba7546",
         "name": "KUNNSKAPSRIK PERSON",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 74,
+        "position": 76,
         "user_id": "419d747ee067d94dc055c64f63b46af8",
         "name": "P\u00c6KKM\u00c6N",
         "points": 50,
         "stars": 0
     },
     {
-        "position": 75,
+        "position": 77,
         "user_id": "f88352d66ed805e4013787a9dc23e156",
         "name": "oscr",
-        "points": 50,
-        "stars": 0
-    },
-    {
-        "position": 76,
-        "user_id": "815f772be4a743353f72b3a1993d7fe2",
-        "name": "ALVORLIG CYBERHELT",
-        "points": 50,
-        "stars": 0
-    },
-    {
-        "position": 77,
-        "user_id": "81da4acdfbdee9352dd4dd4bf3e3632d",
-        "name": "SUR SPION",
         "points": 50,
         "stars": 0
     },
