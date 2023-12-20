@@ -1,13 +1,13 @@
 {
-    "position": 18,
+    "position": 16,
     "user_id": "14bf4cf2d9e7643ae816a1f12d243cf6",
     "name": "magnus",
-    "points": 140,
+    "points": 150,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 88,
         "2. Initiell aksess": 100,
-        "2.1. Department of Development and Test": 0,
+        "2.1. Department of Development and Test": 14,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
