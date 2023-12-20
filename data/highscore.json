@@ -344,36 +344,36 @@
     },
     {
         "position": 50,
+        "user_id": "37ba28339c7ad69d40bdbd90e993c08f",
+        "name": "GAMMEL NERD",
+        "points": 90,
+        "stars": 0
+    },
+    {
+        "position": 51,
         "user_id": "c6379e75962e372fbfdb8f60789a1edf",
         "name": "th0m45",
         "points": 80,
         "stars": 0
     },
     {
-        "position": 51,
+        "position": 52,
         "user_id": "0c20133aacd231bced3456008688e591",
         "name": "SVAK HACKER",
         "points": 80,
         "stars": 0
     },
     {
-        "position": 52,
+        "position": 53,
         "user_id": "08daadb5e45506cca52029fd93fe0a5f",
         "name": "PhonePhreak",
         "points": 80,
         "stars": 0
     },
     {
-        "position": 53,
+        "position": 54,
         "user_id": "21f7701a11b11ed6dcc8c486a1f0fed3",
         "name": "ROTETE KODER",
-        "points": 80,
-        "stars": 0
-    },
-    {
-        "position": 54,
-        "user_id": "37ba28339c7ad69d40bdbd90e993c08f",
-        "name": "GAMMEL NERD",
         "points": 80,
         "stars": 0
     },
