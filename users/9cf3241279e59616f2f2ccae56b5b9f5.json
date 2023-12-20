@@ -1,12 +1,12 @@
 {
-    "position": 46,
-    "user_id": "57e60c5f6363023cb951e4c20eaa53be",
-    "name": "brage",
-    "points": 100,
+    "position": 99,
+    "user_id": "9cf3241279e59616f2f2ccae56b5b9f5",
+    "name": "bop",
+    "points": 60,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 100,
-        "2. Initiell aksess": 33,
+        "1. Grunnleggende": 75,
+        "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
