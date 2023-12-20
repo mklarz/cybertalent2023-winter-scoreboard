@@ -1,12 +1,12 @@
 {
-    "position": 29,
-    "user_id": "1d1f958377bec053cc18002280ee212f",
-    "name": "Observant mann",
-    "points": 100,
+    "position": 85,
+    "user_id": "1d8fb9a60d73f22889b6fa1fe059da50",
+    "name": "NAKEN BABBAGE",
+    "points": 50,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 100,
-        "2. Initiell aksess": 33,
+        "1. Grunnleggende": 50,
+        "2. Initiell aksess": 17,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
@@ -14,6 +14,6 @@
         "2.5. Department of Security": 0,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 100
+        "4. Skjulte flagg": 0
     }
 }
