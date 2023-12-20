@@ -190,50 +190,50 @@
     },
     {
         "position": 28,
+        "user_id": "4871da1b8f31f5ef42036a536a27508d",
+        "name": "duniel",
+        "points": 110,
+        "stars": 0
+    },
+    {
+        "position": 29,
         "user_id": "2b3cd862c1795373112710dab3f9b532",
         "name": "Sithis",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 29,
+        "position": 30,
         "user_id": "918468dde162da115530e48648bab442",
         "name": "ole_brumm",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 30,
+        "position": 31,
         "user_id": "538b47f8e25d8dc06aa593a048e67449",
         "name": "Blixat",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 31,
+        "position": 32,
         "user_id": "000c2002a1da2e4800a63f2da716c2be",
         "name": "TASTATUR",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 32,
+        "position": 33,
         "user_id": "1d1f958377bec053cc18002280ee212f",
         "name": "Observant mann",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 33,
+        "position": 34,
         "user_id": "73d9e699af56776453db0ce015d6e72a",
         "name": "RYDDIG CYBERHELT",
-        "points": 100,
-        "stars": 0
-    },
-    {
-        "position": 34,
-        "user_id": "4871da1b8f31f5ef42036a536a27508d",
-        "name": "duniel",
         "points": 100,
         "stars": 0
     },
