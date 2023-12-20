@@ -1,12 +1,12 @@
 {
-    "position": 36,
-    "user_id": "814e0bbca0a2af2742c79a40f6d97ca4",
-    "name": "ANBEFALT KLOVN",
-    "points": 100,
+    "position": 88,
+    "user_id": "2168ee062d4cb40a8e4c9d8df6a1162d",
+    "name": "LilliePlant",
+    "points": 50,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 100,
-        "2. Initiell aksess": 33,
+        "1. Grunnleggende": 62,
+        "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
