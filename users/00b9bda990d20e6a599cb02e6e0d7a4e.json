@@ -1,11 +1,11 @@
 {
-    "position": null,
-    "user_id": "24f5aabccd791bb53b07b300bacc2d4a",
-    "name": "Ic3Ric3",
-    "points": 30,
+    "position": 100,
+    "user_id": "00b9bda990d20e6a599cb02e6e0d7a4e",
+    "name": "Oluf",
+    "points": 40,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 38,
+        "1. Grunnleggende": 50,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
