@@ -505,57 +505,57 @@
     },
     {
         "position": 73,
+        "user_id": "21f7701a11b11ed6dcc8c486a1f0fed3",
+        "name": "ROTETE KODER",
+        "points": 90,
+        "stars": 0
+    },
+    {
+        "position": 74,
+        "user_id": "d07634bd23f7e0ef5cf718468bcbd0d6",
+        "name": "TAFATT FRAGLE",
+        "points": 90,
+        "stars": 0
+    },
+    {
+        "position": 75,
         "user_id": "c6379e75962e372fbfdb8f60789a1edf",
         "name": "th0m45",
         "points": 80,
         "stars": 0
     },
     {
-        "position": 74,
-        "user_id": "21f7701a11b11ed6dcc8c486a1f0fed3",
-        "name": "ROTETE KODER",
-        "points": 80,
-        "stars": 0
-    },
-    {
-        "position": 75,
+        "position": 76,
         "user_id": "4ea042e66e474734d4cdb5a59b61b685",
         "name": "halvis",
         "points": 80,
         "stars": 0
     },
     {
-        "position": 76,
+        "position": 77,
         "user_id": "ae822b7f6d873d59ab97fb27ad21b109",
         "name": "OPERATIV BABBAGE",
         "points": 80,
         "stars": 0
     },
     {
-        "position": 77,
+        "position": 78,
         "user_id": "fd8f232fed4fe7118140c52382aef096",
         "name": "KUNNSKAPSRIK REVERSER",
         "points": 80,
         "stars": 0
     },
     {
-        "position": 78,
+        "position": 79,
         "user_id": "4bf0c9e5e9f2cb35e61ad112a8595bc8",
         "name": "INDIGNERT NOOB",
         "points": 80,
         "stars": 0
     },
     {
-        "position": 79,
+        "position": 80,
         "user_id": "d935c74c147a1fae74fc208bf1b3d989",
         "name": "amikus",
-        "points": 80,
-        "stars": 0
-    },
-    {
-        "position": 80,
-        "user_id": "d07634bd23f7e0ef5cf718468bcbd0d6",
-        "name": "TAFATT FRAGLE",
         "points": 80,
         "stars": 0
     },
