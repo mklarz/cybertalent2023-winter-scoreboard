@@ -1,11 +1,11 @@
 {
-    "position": 82,
+    "position": 80,
     "user_id": "405e4dcd4faca5543a36b518d3db0c99",
     "name": "mitball",
-    "points": 60,
+    "points": 70,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 62,
+        "1. Grunnleggende": 75,
         "2. Initiell aksess": 17,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
