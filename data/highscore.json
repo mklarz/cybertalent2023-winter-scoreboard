@@ -127,22 +127,22 @@
     },
     {
         "position": 19,
+        "user_id": "2610cf05f75f1600a960b0436d1efaeb",
+        "name": "jole",
+        "points": 120,
+        "stars": 0
+    },
+    {
+        "position": 20,
         "user_id": "d6a14dd1f9ffa90da3a6cf02d915c6dc",
         "name": "N",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 20,
+        "position": 21,
         "user_id": "fb979625742993fc669cd588b7df5c65",
         "name": "Joe the Legal Weasel",
-        "points": 110,
-        "stars": 0
-    },
-    {
-        "position": 21,
-        "user_id": "2610cf05f75f1600a960b0436d1efaeb",
-        "name": "jole",
         "points": 110,
         "stars": 0
     },

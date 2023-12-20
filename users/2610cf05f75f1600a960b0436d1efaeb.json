@@ -1,8 +1,8 @@
 {
-    "position": 21,
+    "position": 19,
     "user_id": "2610cf05f75f1600a960b0436d1efaeb",
     "name": "jole",
-    "points": 110,
+    "points": 120,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
@@ -10,7 +10,7 @@
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
-        "2.4. Department of Intelligence": 0,
+        "2.4. Department of Intelligence": 14,
         "2.5. Department of Security": 33,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
