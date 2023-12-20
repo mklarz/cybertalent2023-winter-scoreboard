@@ -57,43 +57,43 @@
     },
     {
         "position": 9,
+        "user_id": "fb979625742993fc669cd588b7df5c65",
+        "name": "Joe the Legal Weasel",
+        "points": 160,
+        "stars": 0
+    },
+    {
+        "position": 10,
         "user_id": "b80ae9b40e2f863c0e44d064d310be29",
         "name": "SKARP SNOK",
         "points": 160,
         "stars": 0
     },
     {
-        "position": 10,
+        "position": 11,
         "user_id": "2610cf05f75f1600a960b0436d1efaeb",
         "name": "jole",
         "points": 160,
         "stars": 0
     },
     {
-        "position": 11,
+        "position": 12,
         "user_id": "92beafc9028e19e0bc950f084d8f7924",
         "name": "GAMMEL KODER",
         "points": 160,
         "stars": 0
     },
     {
-        "position": 12,
+        "position": 13,
         "user_id": "88bbb4737cf4b6f486bcb3cf61993fe6",
         "name": "sofa_solver",
         "points": 160,
         "stars": 0
     },
     {
-        "position": 13,
+        "position": 14,
         "user_id": "bc0884a277344052e2bce379faeff9df",
         "name": "MSK",
-        "points": 150,
-        "stars": 0
-    },
-    {
-        "position": 14,
-        "user_id": "fb979625742993fc669cd588b7df5c65",
-        "name": "Joe the Legal Weasel",
         "points": 150,
         "stars": 0
     },
@@ -148,23 +148,23 @@
     },
     {
         "position": 22,
+        "user_id": "d6a14dd1f9ffa90da3a6cf02d915c6dc",
+        "name": "N",
+        "points": 130,
+        "stars": 0
+    },
+    {
+        "position": 23,
         "user_id": "53e36d30e2f053b3fbd7c72363a844ed",
         "name": "KRAMPEAKTIG SNOK",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 23,
+        "position": 24,
         "user_id": "e5f56c75668ec1aa0f97fcaec8374935",
         "name": "Augustus",
         "points": 120,
-        "stars": 0
-    },
-    {
-        "position": 24,
-        "user_id": "d6a14dd1f9ffa90da3a6cf02d915c6dc",
-        "name": "N",
-        "points": 110,
         "stars": 0
     },
     {
