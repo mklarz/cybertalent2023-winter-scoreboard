@@ -141,22 +141,22 @@
     },
     {
         "position": 21,
+        "user_id": "b8ffb7a7fa51e530158b6015294fd0fe",
+        "name": "ARTISTISK SPION",
+        "points": 130,
+        "stars": 0
+    },
+    {
+        "position": 22,
         "user_id": "53e36d30e2f053b3fbd7c72363a844ed",
         "name": "KRAMPEAKTIG SNOK",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 22,
+        "position": 23,
         "user_id": "e5f56c75668ec1aa0f97fcaec8374935",
         "name": "Augustus",
-        "points": 120,
-        "stars": 0
-    },
-    {
-        "position": 23,
-        "user_id": "b8ffb7a7fa51e530158b6015294fd0fe",
-        "name": "ARTISTISK SPION",
         "points": 120,
         "stars": 0
     },
@@ -449,22 +449,22 @@
     },
     {
         "position": 65,
+        "user_id": "0c20133aacd231bced3456008688e591",
+        "name": "SVAK HACKER",
+        "points": 90,
+        "stars": 0
+    },
+    {
+        "position": 66,
         "user_id": "73b9716ba05a36e66807a65713112f0f",
         "name": "hx",
         "points": 80,
         "stars": 0
     },
     {
-        "position": 66,
+        "position": 67,
         "user_id": "c6379e75962e372fbfdb8f60789a1edf",
         "name": "th0m45",
-        "points": 80,
-        "stars": 0
-    },
-    {
-        "position": 67,
-        "user_id": "0c20133aacd231bced3456008688e591",
-        "name": "SVAK HACKER",
         "points": 80,
         "stars": 0
     },
@@ -596,22 +596,22 @@
     },
     {
         "position": 86,
+        "user_id": "4bf0c9e5e9f2cb35e61ad112a8595bc8",
+        "name": "INDIGNERT NOOB",
+        "points": 70,
+        "stars": 0
+    },
+    {
+        "position": 87,
         "user_id": "ad81f6d104590e7c97f7ea7daa73fd47",
         "name": "KLAM SLASK",
         "points": 60,
         "stars": 0
     },
     {
-        "position": 87,
+        "position": 88,
         "user_id": "7bc269aee43bdabc3bcbe2329c380a58",
         "name": "SUR HACKTIVIST",
-        "points": 60,
-        "stars": 0
-    },
-    {
-        "position": 88,
-        "user_id": "4bf0c9e5e9f2cb35e61ad112a8595bc8",
-        "name": "INDIGNERT NOOB",
         "points": 60,
         "stars": 0
     },

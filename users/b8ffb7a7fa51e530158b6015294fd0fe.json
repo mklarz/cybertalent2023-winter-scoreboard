@@ -1,12 +1,12 @@
 {
-    "position": 23,
+    "position": 21,
     "user_id": "b8ffb7a7fa51e530158b6015294fd0fe",
     "name": "ARTISTISK SPION",
-    "points": 120,
+    "points": 130,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 88,
-        "2. Initiell aksess": 83,
+        "2. Initiell aksess": 100,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
