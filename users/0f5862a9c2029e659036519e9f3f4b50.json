@@ -1,11 +1,11 @@
 {
-    "position": 70,
+    "position": 60,
     "user_id": "0f5862a9c2029e659036519e9f3f4b50",
     "name": "KUNNSKAPSRIK PROGRAMMERER",
-    "points": 70,
+    "points": 80,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 88,
+        "1. Grunnleggende": 100,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
