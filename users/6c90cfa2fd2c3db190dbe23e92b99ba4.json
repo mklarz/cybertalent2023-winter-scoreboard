@@ -1,11 +1,11 @@
 {
-    "position": 100,
-    "user_id": "a955dcf82c1f22aa33da13da6b4d5036",
-    "name": "NootNoot",
-    "points": 70,
+    "position": 99,
+    "user_id": "6c90cfa2fd2c3db190dbe23e92b99ba4",
+    "name": "Morten242",
+    "points": 80,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 88,
+        "1. Grunnleggende": 100,
         "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
@@ -14,6 +14,6 @@
         "2.5. Department of Security": 0,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 100
+        "4. Skjulte flagg": 0
     }
 }
