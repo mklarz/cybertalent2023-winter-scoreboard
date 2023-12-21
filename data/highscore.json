@@ -148,43 +148,43 @@
     },
     {
         "position": 22,
+        "user_id": "9ea762fd2e87f5d4d7afbeb5879b51c8",
+        "name": "Scalpel",
+        "points": 150,
+        "stars": 0
+    },
+    {
+        "position": 23,
         "user_id": "049a6cbc9a76ba83bffe77ce256e9364",
         "name": "siddharth",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 23,
+        "position": 24,
         "user_id": "36faa0b37b11696dc92b27f89c25e430",
         "name": "Gress",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "49957df84e8014198338f331948fb0a9",
         "name": "mstg",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 25,
+        "position": 26,
         "user_id": "419d747ee067d94dc055c64f63b46af8",
         "name": "P\u00c6KKM\u00c6N",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 26,
+        "position": 27,
         "user_id": "0fba2e0d42b78788885e849f0f1c7647",
         "name": "larsw",
-        "points": 140,
-        "stars": 0
-    },
-    {
-        "position": 27,
-        "user_id": "9ea762fd2e87f5d4d7afbeb5879b51c8",
-        "name": "Scalpel",
         "points": 140,
         "stars": 0
     },
@@ -673,29 +673,29 @@
     },
     {
         "position": 97,
+        "user_id": "b16d8afb102901c24c886c5e13da8cda",
+        "name": "KREATIV DRAPER",
+        "points": 80,
+        "stars": 0
+    },
+    {
+        "position": 98,
         "user_id": "a955dcf82c1f22aa33da13da6b4d5036",
         "name": "NootNoot",
         "points": 70,
         "stars": 0
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "c79253df2916f75267f79d21b73468df",
         "name": "DYPTG\u00c5ENDE MITNICK",
         "points": 70,
         "stars": 0
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "c22174bbf09dff100dc2e0ca752bc5ec",
         "name": "fantomet",
-        "points": 70,
-        "stars": 0
-    },
-    {
-        "position": 100,
-        "user_id": "6e008442260405ce7d8149a1ec5a9d77",
-        "name": "STERK PERSON",
         "points": 70,
         "stars": 0
     }
