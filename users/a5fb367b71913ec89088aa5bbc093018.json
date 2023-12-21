@@ -1,11 +1,11 @@
 {
-    "position": 87,
+    "position": 49,
     "user_id": "a5fb367b71913ec89088aa5bbc093018",
     "name": "KREVENDE FRAGLE",
-    "points": 90,
+    "points": 110,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 50,
+        "1. Grunnleggende": 75,
         "2. Initiell aksess": 67,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
