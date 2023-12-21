@@ -1,12 +1,12 @@
 {
-    "position": 100,
+    "position": 97,
     "user_id": "d488671ebeec64cca2591a6daf15d02a",
     "name": "SNOKENDE GUD",
-    "points": 60,
+    "points": 70,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 75,
-        "2. Initiell aksess": 0,
+        "2. Initiell aksess": 17,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
