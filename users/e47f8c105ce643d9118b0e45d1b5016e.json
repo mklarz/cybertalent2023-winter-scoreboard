@@ -1,12 +1,12 @@
 {
-    "position": 50,
+    "position": 42,
     "user_id": "e47f8c105ce643d9118b0e45d1b5016e",
     "name": "DEDIKERT CYBERHELT",
-    "points": 110,
+    "points": 120,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
-        "2. Initiell aksess": 50,
+        "2. Initiell aksess": 67,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
