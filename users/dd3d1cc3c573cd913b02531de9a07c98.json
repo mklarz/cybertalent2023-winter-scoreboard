@@ -1,13 +1,13 @@
 {
-    "position": 21,
+    "position": 18,
     "user_id": "dd3d1cc3c573cd913b02531de9a07c98",
     "name": "S\u00c5RBAR GUD",
-    "points": 140,
+    "points": 150,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 88,
         "2. Initiell aksess": 100,
-        "2.1. Department of Development and Test": 0,
+        "2.1. Department of Development and Test": 14,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
