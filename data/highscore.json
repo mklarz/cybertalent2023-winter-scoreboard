@@ -155,36 +155,36 @@
     },
     {
         "position": 23,
+        "user_id": "36faa0b37b11696dc92b27f89c25e430",
+        "name": "Gress",
+        "points": 140,
+        "stars": 0
+    },
+    {
+        "position": 24,
         "user_id": "62fcf3b8b011b06ad5c81c66c9a5ccbf",
         "name": "MrFreddi007",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "d6a14dd1f9ffa90da3a6cf02d915c6dc",
         "name": "N",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 25,
+        "position": 26,
         "user_id": "e5f56c75668ec1aa0f97fcaec8374935",
         "name": "Augustus",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 26,
+        "position": 27,
         "user_id": "bd6dd132e52bf0917f767e3dcaba3afa",
         "name": "tbi",
-        "points": 130,
-        "stars": 0
-    },
-    {
-        "position": 27,
-        "user_id": "36faa0b37b11696dc92b27f89c25e430",
-        "name": "Gress",
         "points": 130,
         "stars": 0
     },
