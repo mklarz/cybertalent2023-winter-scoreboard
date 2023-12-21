@@ -1,11 +1,11 @@
 {
-    "position": null,
+    "position": 91,
     "user_id": "a7edb34b53a85f09150cdef8b1c3fab3",
     "name": "Noidremained",
-    "points": 70,
+    "points": 80,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 75,
+        "1. Grunnleggende": 88,
         "2. Initiell aksess": 17,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
