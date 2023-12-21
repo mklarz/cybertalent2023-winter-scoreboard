@@ -225,36 +225,36 @@
     },
     {
         "position": 33,
+        "user_id": "814e0bbca0a2af2742c79a40f6d97ca4",
+        "name": "ANBEFALT KLOVN",
+        "points": 130,
+        "stars": 0
+    },
+    {
+        "position": 34,
         "user_id": "bd6dd132e52bf0917f767e3dcaba3afa",
         "name": "tbi",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 34,
+        "position": 35,
         "user_id": "53e36d30e2f053b3fbd7c72363a844ed",
         "name": "KRAMPEAKTIG SNOK",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 35,
+        "position": 36,
         "user_id": "1b712092ab585863ac8cb53679203dc8",
         "name": "ARBEIDSOM PROGRAMMERER",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 36,
+        "position": 37,
         "user_id": "4871da1b8f31f5ef42036a536a27508d",
         "name": "duniel",
-        "points": 120,
-        "stars": 0
-    },
-    {
-        "position": 37,
-        "user_id": "814e0bbca0a2af2742c79a40f6d97ca4",
-        "name": "ANBEFALT KLOVN",
         "points": 120,
         "stars": 0
     },
