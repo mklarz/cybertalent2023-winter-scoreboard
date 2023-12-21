@@ -120,43 +120,43 @@
     },
     {
         "position": 18,
+        "user_id": "1d1f958377bec053cc18002280ee212f",
+        "name": "\u0411\u0443\u043c\u043c\u0438\u044d",
+        "points": 160,
+        "stars": 0
+    },
+    {
+        "position": 19,
         "user_id": "b80ae9b40e2f863c0e44d064d310be29",
         "name": "SKARP SNOK",
         "points": 160,
         "stars": 0
     },
     {
-        "position": 19,
+        "position": 20,
         "user_id": "92beafc9028e19e0bc950f084d8f7924",
         "name": "GAMMEL KODER",
         "points": 160,
         "stars": 0
     },
     {
-        "position": 20,
+        "position": 21,
         "user_id": "bc0884a277344052e2bce379faeff9df",
         "name": "MSK",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 21,
+        "position": 22,
         "user_id": "14bf4cf2d9e7643ae816a1f12d243cf6",
         "name": "magnus",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 22,
+        "position": 23,
         "user_id": "dd3d1cc3c573cd913b02531de9a07c98",
         "name": "S\u00c5RBAR GUD",
-        "points": 150,
-        "stars": 0
-    },
-    {
-        "position": 23,
-        "user_id": "1d1f958377bec053cc18002280ee212f",
-        "name": "\u0411\u0443\u043c\u043c\u0438\u044d",
         "points": 150,
         "stars": 0
     },
