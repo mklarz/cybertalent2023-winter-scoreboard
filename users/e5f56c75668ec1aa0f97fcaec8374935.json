@@ -1,13 +1,13 @@
 {
-    "position": 19,
+    "position": 14,
     "user_id": "e5f56c75668ec1aa0f97fcaec8374935",
     "name": "Augustus",
-    "points": 150,
+    "points": 160,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Initiell aksess": 100,
-        "2.1. Department of Development and Test": 0,
+        "2.1. Department of Development and Test": 14,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
