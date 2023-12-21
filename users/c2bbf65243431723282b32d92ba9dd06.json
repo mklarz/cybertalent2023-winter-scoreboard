@@ -1,12 +1,12 @@
 {
-    "position": 94,
+    "position": 85,
     "user_id": "c2bbf65243431723282b32d92ba9dd06",
     "name": "MOTIVERT SCHNEIER",
-    "points": 80,
+    "points": 90,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 88,
-        "2. Initiell aksess": 17,
+        "2. Initiell aksess": 33,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
