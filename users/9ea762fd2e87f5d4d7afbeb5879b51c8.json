@@ -1,12 +1,12 @@
 {
-    "position": 36,
+    "position": 27,
     "user_id": "9ea762fd2e87f5d4d7afbeb5879b51c8",
     "name": "Scalpel",
-    "points": 120,
+    "points": 140,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 88,
-        "2. Initiell aksess": 67,
+        "2. Initiell aksess": 100,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
