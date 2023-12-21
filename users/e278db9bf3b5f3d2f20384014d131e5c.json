@@ -1,13 +1,13 @@
 {
-    "position": 3,
+    "position": 2,
     "user_id": "e278db9bf3b5f3d2f20384014d131e5c",
     "name": "Vealending",
-    "points": 190,
+    "points": 200,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Initiell aksess": 100,
-        "2.1. Department of Development and Test": 57,
+        "2.1. Department of Development and Test": 71,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
