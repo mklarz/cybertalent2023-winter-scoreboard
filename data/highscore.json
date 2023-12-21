@@ -50,29 +50,29 @@
     },
     {
         "position": 8,
+        "user_id": "55be5c773bd7ce4661c814c39cb873d7",
+        "name": "nicw",
+        "points": 170,
+        "stars": 0
+    },
+    {
+        "position": 9,
         "user_id": "7eb5c2d7a0f1753b78e9857a28391c09",
         "name": "S\u00c5RBAR NERD",
         "points": 170,
         "stars": 0
     },
     {
-        "position": 9,
+        "position": 10,
         "user_id": "2c200fd245890d3ac7df0f9958800709",
         "name": "KOKETT KODER",
         "points": 160,
         "stars": 0
     },
     {
-        "position": 10,
+        "position": 11,
         "user_id": "5ff34a03cf27e1cc099dd5dfee7ba64b",
         "name": "KRAMPEAKTIG GEEK",
-        "points": 160,
-        "stars": 0
-    },
-    {
-        "position": 11,
-        "user_id": "55be5c773bd7ce4661c814c39cb873d7",
-        "name": "nicw",
         "points": 160,
         "stars": 0
     },
@@ -393,22 +393,22 @@
     },
     {
         "position": 57,
+        "user_id": "e47f8c105ce643d9118b0e45d1b5016e",
+        "name": "DEDIKERT CYBERHELT",
+        "points": 100,
+        "stars": 0
+    },
+    {
+        "position": 58,
         "user_id": "473d71fef2dc63452a700966d00c5c8d",
         "name": "mutex",
         "points": 90,
         "stars": 0
     },
     {
-        "position": 58,
+        "position": 59,
         "user_id": "73b9716ba05a36e66807a65713112f0f",
         "name": "hx",
-        "points": 90,
-        "stars": 0
-    },
-    {
-        "position": 59,
-        "user_id": "e47f8c105ce643d9118b0e45d1b5016e",
-        "name": "DEDIKERT CYBERHELT",
         "points": 90,
         "stars": 0
     },
