@@ -1,12 +1,12 @@
 {
-    "position": 79,
+    "position": 64,
     "user_id": "fd8f232fed4fe7118140c52382aef096",
     "name": "KUNNSKAPSRIK REVERSER",
-    "points": 80,
+    "points": 90,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 75,
-        "2. Initiell aksess": 33,
+        "2. Initiell aksess": 50,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
