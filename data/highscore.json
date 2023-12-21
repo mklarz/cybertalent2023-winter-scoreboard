@@ -246,36 +246,36 @@
     },
     {
         "position": 36,
+        "user_id": "2b3cd862c1795373112710dab3f9b532",
+        "name": "Sithis",
+        "points": 120,
+        "stars": 0
+    },
+    {
+        "position": 37,
         "user_id": "2c1c2b10f90abc8c818321ebe4d55876",
         "name": "TAFATT NOOB",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 37,
+        "position": 38,
         "user_id": "b83907e4310db1c9c8eff2511ae45342",
         "name": "YDMYK MITNICK",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 38,
+        "position": 39,
         "user_id": "1cccc24b1a4869e4121d8908cc0eeddb",
         "name": "SgtSIGSEGV",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 39,
+        "position": 40,
         "user_id": "f732f218ab6f6c348afa3f21fff8636f",
         "name": "ARBEIDSOM DRAPER",
-        "points": 110,
-        "stars": 0
-    },
-    {
-        "position": 40,
-        "user_id": "2b3cd862c1795373112710dab3f9b532",
-        "name": "Sithis",
         "points": 110,
         "stars": 0
     },
