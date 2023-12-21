@@ -253,43 +253,43 @@
     },
     {
         "position": 37,
+        "user_id": "814e0bbca0a2af2742c79a40f6d97ca4",
+        "name": "ANBEFALT KLOVN",
+        "points": 120,
+        "stars": 0
+    },
+    {
+        "position": 38,
         "user_id": "2c1c2b10f90abc8c818321ebe4d55876",
         "name": "TAFATT NOOB",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 38,
+        "position": 39,
         "user_id": "b83907e4310db1c9c8eff2511ae45342",
         "name": "YDMYK MITNICK",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 39,
+        "position": 40,
         "user_id": "1cccc24b1a4869e4121d8908cc0eeddb",
         "name": "SgtSIGSEGV",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 40,
+        "position": 41,
         "user_id": "f732f218ab6f6c348afa3f21fff8636f",
         "name": "ARBEIDSOM DRAPER",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 41,
+        "position": 42,
         "user_id": "a1d4e6b28264f08847a4bf32a09f897f",
         "name": "fslaktern",
-        "points": 110,
-        "stars": 0
-    },
-    {
-        "position": 42,
-        "user_id": "814e0bbca0a2af2742c79a40f6d97ca4",
-        "name": "ANBEFALT KLOVN",
         "points": 110,
         "stars": 0
     },
