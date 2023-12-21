@@ -1,12 +1,12 @@
 {
-    "position": 99,
-    "user_id": "a7edb34b53a85f09150cdef8b1c3fab3",
-    "name": "Noidremained",
+    "position": 91,
+    "user_id": "772e1b5da254a7e3d45d7894ba85d1a9",
+    "name": "GRILLET KODEKNEKKER",
     "points": 80,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 88,
-        "2. Initiell aksess": 17,
+        "1. Grunnleggende": 100,
+        "2. Initiell aksess": 0,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
@@ -14,6 +14,6 @@
         "2.5. Department of Security": 0,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 100
     }
 }
