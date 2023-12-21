@@ -1,12 +1,12 @@
 {
-    "position": 98,
+    "position": 94,
     "user_id": "20371889fbacb2e70ba7bb63a481b845",
     "name": "ARBEIDSOM BABBAGE",
-    "points": 70,
+    "points": 80,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 75,
-        "2. Initiell aksess": 17,
+        "2. Initiell aksess": 33,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
