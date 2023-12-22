@@ -218,43 +218,43 @@
     },
     {
         "position": 32,
+        "user_id": "e47f8c105ce643d9118b0e45d1b5016e",
+        "name": "DEDIKERT CYBERHELT",
+        "points": 150,
+        "stars": 0
+    },
+    {
+        "position": 33,
         "user_id": "419d747ee067d94dc055c64f63b46af8",
         "name": "P\u00c6KKM\u00c6N",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 33,
+        "position": 34,
         "user_id": "0fba2e0d42b78788885e849f0f1c7647",
         "name": "larsw",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 34,
+        "position": 35,
         "user_id": "2b3cd862c1795373112710dab3f9b532",
         "name": "Sithis",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 35,
+        "position": 36,
         "user_id": "538b47f8e25d8dc06aa593a048e67449",
         "name": "Blixat",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 36,
+        "position": 37,
         "user_id": "b8ffb7a7fa51e530158b6015294fd0fe",
         "name": "ARTISTISK SPION",
-        "points": 140,
-        "stars": 0
-    },
-    {
-        "position": 37,
-        "user_id": "e47f8c105ce643d9118b0e45d1b5016e",
-        "name": "DEDIKERT CYBERHELT",
         "points": 140,
         "stars": 0
     },
@@ -330,57 +330,57 @@
     },
     {
         "position": 48,
+        "user_id": "a5fb367b71913ec89088aa5bbc093018",
+        "name": "KREVENDE FRAGLE",
+        "points": 120,
+        "stars": 0
+    },
+    {
+        "position": 49,
         "user_id": "1cccc24b1a4869e4121d8908cc0eeddb",
         "name": "SgtSIGSEGV",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 49,
+        "position": 50,
         "user_id": "f732f218ab6f6c348afa3f21fff8636f",
         "name": "ARBEIDSOM DRAPER",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 50,
+        "position": 51,
         "user_id": "a1d4e6b28264f08847a4bf32a09f897f",
         "name": "fslaktern",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 51,
+        "position": 52,
         "user_id": "473d71fef2dc63452a700966d00c5c8d",
         "name": "mutex",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 52,
+        "position": 53,
         "user_id": "08daadb5e45506cca52029fd93fe0a5f",
         "name": "PhonePhreak",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 53,
+        "position": 54,
         "user_id": "7bc269aee43bdabc3bcbe2329c380a58",
         "name": "SUR HACKTIVIST",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 54,
+        "position": 55,
         "user_id": "0c20133aacd231bced3456008688e591",
         "name": "SVAK HACKER",
-        "points": 110,
-        "stars": 0
-    },
-    {
-        "position": 55,
-        "user_id": "a5fb367b71913ec89088aa5bbc093018",
-        "name": "KREVENDE FRAGLE",
         "points": 110,
         "stars": 0
     },
