@@ -680,22 +680,22 @@
     },
     {
         "position": 98,
+        "user_id": "a6835a53d69a906c9ad4e8a6bd2fc116",
+        "name": "noahaon",
+        "points": 80,
+        "stars": 0
+    },
+    {
+        "position": 99,
         "user_id": "c6379e75962e372fbfdb8f60789a1edf",
         "name": "th0m45",
         "points": 80,
         "stars": 0
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "4ea042e66e474734d4cdb5a59b61b685",
         "name": "halvis",
-        "points": 80,
-        "stars": 0
-    },
-    {
-        "position": 100,
-        "user_id": "ae822b7f6d873d59ab97fb27ad21b109",
-        "name": "OPERATIV BABBAGE",
         "points": 80,
         "stars": 0
     }
