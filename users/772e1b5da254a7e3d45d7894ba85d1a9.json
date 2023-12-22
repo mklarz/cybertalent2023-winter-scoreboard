@@ -1,8 +1,8 @@
 {
-    "position": 65,
+    "position": 56,
     "user_id": "772e1b5da254a7e3d45d7894ba85d1a9",
     "name": "GRILLET KODEKNEKKER",
-    "points": 100,
+    "points": 110,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
@@ -11,7 +11,7 @@
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
-        "2.5. Department of Security": 0,
+        "2.5. Department of Security": 33,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
         "4. Skjulte flagg": 100
