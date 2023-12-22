@@ -1,12 +1,12 @@
 {
-    "position": 54,
+    "position": 47,
     "user_id": "750de83bd9e4864d81fca914eb5e709b",
     "name": "Georg",
-    "points": 110,
+    "points": 120,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
-        "2. Initiell aksess": 50,
+        "2. Initiell aksess": 67,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
