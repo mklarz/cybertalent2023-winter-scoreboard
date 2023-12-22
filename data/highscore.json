@@ -673,29 +673,29 @@
     },
     {
         "position": 97,
+        "user_id": "c22174bbf09dff100dc2e0ca752bc5ec",
+        "name": "fantomet",
+        "points": 90,
+        "stars": 0
+    },
+    {
+        "position": 98,
         "user_id": "772e1b5da254a7e3d45d7894ba85d1a9",
         "name": "GRILLET KODEKNEKKER",
         "points": 80,
         "stars": 0
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "a6835a53d69a906c9ad4e8a6bd2fc116",
         "name": "noahaon",
         "points": 80,
         "stars": 0
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "c6379e75962e372fbfdb8f60789a1edf",
         "name": "th0m45",
-        "points": 80,
-        "stars": 0
-    },
-    {
-        "position": 100,
-        "user_id": "4ea042e66e474734d4cdb5a59b61b685",
-        "name": "halvis",
         "points": 80,
         "stars": 0
     }
