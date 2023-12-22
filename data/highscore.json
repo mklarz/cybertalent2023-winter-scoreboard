@@ -15,15 +15,15 @@
     },
     {
         "position": 3,
-        "user_id": "e278db9bf3b5f3d2f20384014d131e5c",
-        "name": "Vealending",
-        "points": 200,
+        "user_id": "88bbb4737cf4b6f486bcb3cf61993fe6",
+        "name": "sofa_solver",
+        "points": 210,
         "stars": 0
     },
     {
         "position": 4,
-        "user_id": "88bbb4737cf4b6f486bcb3cf61993fe6",
-        "name": "sofa_solver",
+        "user_id": "e278db9bf3b5f3d2f20384014d131e5c",
+        "name": "Vealending",
         "points": 200,
         "stars": 0
     },
@@ -169,65 +169,65 @@
     },
     {
         "position": 25,
+        "user_id": "d6a14dd1f9ffa90da3a6cf02d915c6dc",
+        "name": "N",
+        "points": 150,
+        "stars": 0
+    },
+    {
+        "position": 26,
         "user_id": "049a6cbc9a76ba83bffe77ce256e9364",
         "name": "siddharth",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 26,
+        "position": 27,
         "user_id": "36faa0b37b11696dc92b27f89c25e430",
         "name": "Gress",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 27,
+        "position": 28,
         "user_id": "49957df84e8014198338f331948fb0a9",
         "name": "mstg",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 28,
+        "position": 29,
         "user_id": "419d747ee067d94dc055c64f63b46af8",
         "name": "P\u00c6KKM\u00c6N",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 29,
+        "position": 30,
         "user_id": "0fba2e0d42b78788885e849f0f1c7647",
         "name": "larsw",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 30,
+        "position": 31,
         "user_id": "2b3cd862c1795373112710dab3f9b532",
         "name": "Sithis",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 31,
+        "position": 32,
         "user_id": "b8ffb7a7fa51e530158b6015294fd0fe",
         "name": "ARTISTISK SPION",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 32,
+        "position": 33,
         "user_id": "e47f8c105ce643d9118b0e45d1b5016e",
         "name": "DEDIKERT CYBERHELT",
         "points": 140,
-        "stars": 0
-    },
-    {
-        "position": 33,
-        "user_id": "d6a14dd1f9ffa90da3a6cf02d915c6dc",
-        "name": "N",
-        "points": 130,
         "stars": 0
     },
     {
