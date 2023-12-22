@@ -1,16 +1,16 @@
 [
     {
         "position": 1,
-        "user_id": "2610cf05f75f1600a960b0436d1efaeb",
-        "name": "jole",
+        "user_id": "9187df9b6f10c15838afab3ba137ce54",
+        "name": "FOKUSERT KODER",
         "points": 220,
         "stars": 0
     },
     {
         "position": 2,
-        "user_id": "9187df9b6f10c15838afab3ba137ce54",
-        "name": "FOKUSERT KODER",
-        "points": 210,
+        "user_id": "2610cf05f75f1600a960b0436d1efaeb",
+        "name": "jole",
+        "points": 220,
         "stars": 0
     },
     {
@@ -253,71 +253,71 @@
     },
     {
         "position": 37,
+        "user_id": "e9e09028963a71235ecc3cecf2683dcd",
+        "name": "SLAPP SKATTEFLYKTNING",
+        "points": 130,
+        "stars": 0
+    },
+    {
+        "position": 38,
         "user_id": "53e36d30e2f053b3fbd7c72363a844ed",
         "name": "KRAMPEAKTIG SNOK",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 38,
+        "position": 39,
         "user_id": "1b712092ab585863ac8cb53679203dc8",
         "name": "ARBEIDSOM PROGRAMMERER",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 39,
+        "position": 40,
         "user_id": "4871da1b8f31f5ef42036a536a27508d",
         "name": "duniel",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 40,
+        "position": 41,
         "user_id": "538b47f8e25d8dc06aa593a048e67449",
         "name": "Blixat",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 41,
+        "position": 42,
         "user_id": "44b6d433a51cc799eeae0f0c8606945b",
         "name": "Qtie",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 42,
+        "position": 43,
         "user_id": "2c1c2b10f90abc8c818321ebe4d55876",
         "name": "TAFATT NOOB",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 43,
+        "position": 44,
         "user_id": "b83907e4310db1c9c8eff2511ae45342",
         "name": "YDMYK MITNICK",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 44,
+        "position": 45,
         "user_id": "9f60d390502a6aa0575b36a58b4d35f2",
         "name": "INNBITT CRACKER",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 45,
+        "position": 46,
         "user_id": "2168ee062d4cb40a8e4c9d8df6a1162d",
         "name": "LilliePlant",
-        "points": 120,
-        "stars": 0
-    },
-    {
-        "position": 46,
-        "user_id": "e9e09028963a71235ecc3cecf2683dcd",
-        "name": "SLAPP SKATTEFLYKTNING",
         "points": 120,
         "stars": 0
     },
