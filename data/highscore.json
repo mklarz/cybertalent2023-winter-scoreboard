@@ -22,22 +22,22 @@
     },
     {
         "position": 4,
+        "user_id": "88bbb4737cf4b6f486bcb3cf61993fe6",
+        "name": "sofa_solver",
+        "points": 200,
+        "stars": 0
+    },
+    {
+        "position": 5,
         "user_id": "2b5591795899026997c146ca26ebe258",
         "name": "GRIM MITNICK",
         "points": 190,
         "stars": 0
     },
     {
-        "position": 5,
+        "position": 6,
         "user_id": "55be5c773bd7ce4661c814c39cb873d7",
         "name": "nicw",
-        "points": 190,
-        "stars": 0
-    },
-    {
-        "position": 6,
-        "user_id": "88bbb4737cf4b6f486bcb3cf61993fe6",
-        "name": "sofa_solver",
         "points": 190,
         "stars": 0
     },
