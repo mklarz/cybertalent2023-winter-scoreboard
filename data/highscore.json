@@ -239,23 +239,23 @@
     },
     {
         "position": 35,
+        "user_id": "538b47f8e25d8dc06aa593a048e67449",
+        "name": "Blixat",
+        "points": 140,
+        "stars": 0
+    },
+    {
+        "position": 36,
         "user_id": "b8ffb7a7fa51e530158b6015294fd0fe",
         "name": "ARTISTISK SPION",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 36,
+        "position": 37,
         "user_id": "e47f8c105ce643d9118b0e45d1b5016e",
         "name": "DEDIKERT CYBERHELT",
         "points": 140,
-        "stars": 0
-    },
-    {
-        "position": 37,
-        "user_id": "538b47f8e25d8dc06aa593a048e67449",
-        "name": "Blixat",
-        "points": 130,
         "stars": 0
     },
     {
