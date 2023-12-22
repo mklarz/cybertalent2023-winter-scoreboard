@@ -365,64 +365,64 @@
     },
     {
         "position": 53,
+        "user_id": "750de83bd9e4864d81fca914eb5e709b",
+        "name": "Georg",
+        "points": 110,
+        "stars": 0
+    },
+    {
+        "position": 54,
         "user_id": "08daadb5e45506cca52029fd93fe0a5f",
         "name": "PhonePhreak",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 54,
+        "position": 55,
         "user_id": "7bc269aee43bdabc3bcbe2329c380a58",
         "name": "SUR HACKTIVIST",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 55,
+        "position": 56,
         "user_id": "0c20133aacd231bced3456008688e591",
         "name": "SVAK HACKER",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 56,
+        "position": 57,
         "user_id": "fc15f6c83172f7684517f963cda4d584",
         "name": "teecee",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 57,
+        "position": 58,
         "user_id": "6c90cfa2fd2c3db190dbe23e92b99ba4",
         "name": "Morten242",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 58,
+        "position": 59,
         "user_id": "000c2002a1da2e4800a63f2da716c2be",
         "name": "TASTATUR",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 59,
+        "position": 60,
         "user_id": "73d9e699af56776453db0ce015d6e72a",
         "name": "RYDDIG CYBERHELT",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 60,
+        "position": 61,
         "user_id": "fd8f232fed4fe7118140c52382aef096",
         "name": "KUNNSKAPSRIK REVERSER",
-        "points": 100,
-        "stars": 0
-    },
-    {
-        "position": 61,
-        "user_id": "750de83bd9e4864d81fca914eb5e709b",
-        "name": "Georg",
         "points": 100,
         "stars": 0
     },
