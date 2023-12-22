@@ -183,57 +183,57 @@
     },
     {
         "position": 27,
+        "user_id": "2168ee062d4cb40a8e4c9d8df6a1162d",
+        "name": "LilliePlant",
+        "points": 160,
+        "stars": 0
+    },
+    {
+        "position": 28,
         "user_id": "bc0884a277344052e2bce379faeff9df",
         "name": "MSK",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 28,
+        "position": 29,
         "user_id": "14bf4cf2d9e7643ae816a1f12d243cf6",
         "name": "magnus",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 29,
+        "position": 30,
         "user_id": "dd3d1cc3c573cd913b02531de9a07c98",
         "name": "S\u00c5RBAR GUD",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 30,
+        "position": 31,
         "user_id": "814e0bbca0a2af2742c79a40f6d97ca4",
         "name": "varcella",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 31,
+        "position": 32,
         "user_id": "36faa0b37b11696dc92b27f89c25e430",
         "name": "Gress",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 32,
+        "position": 33,
         "user_id": "0f5862a9c2029e659036519e9f3f4b50",
         "name": "KUNNSKAPSRIK PROGRAMMERER",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 33,
+        "position": 34,
         "user_id": "e9e09028963a71235ecc3cecf2683dcd",
         "name": "SLAPP SKATTEFLYKTNING",
-        "points": 150,
-        "stars": 0
-    },
-    {
-        "position": 34,
-        "user_id": "2168ee062d4cb40a8e4c9d8df6a1162d",
-        "name": "LilliePlant",
         "points": 150,
         "stars": 0
     },
