@@ -155,50 +155,50 @@
     },
     {
         "position": 23,
+        "user_id": "49957df84e8014198338f331948fb0a9",
+        "name": "mstg",
+        "points": 160,
+        "stars": 0
+    },
+    {
+        "position": 24,
         "user_id": "bc0884a277344052e2bce379faeff9df",
         "name": "MSK",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "14bf4cf2d9e7643ae816a1f12d243cf6",
         "name": "magnus",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 25,
+        "position": 26,
         "user_id": "dd3d1cc3c573cd913b02531de9a07c98",
         "name": "S\u00c5RBAR GUD",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 26,
+        "position": 27,
         "user_id": "814e0bbca0a2af2742c79a40f6d97ca4",
         "name": "varcella",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 27,
+        "position": 28,
         "user_id": "aba1809901b9d0fcff14f2c13c583ffa",
         "name": "Daddie0",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 28,
+        "position": 29,
         "user_id": "36faa0b37b11696dc92b27f89c25e430",
         "name": "Gress",
-        "points": 150,
-        "stars": 0
-    },
-    {
-        "position": 29,
-        "user_id": "49957df84e8014198338f331948fb0a9",
-        "name": "mstg",
         "points": 150,
         "stars": 0
     },
@@ -505,29 +505,29 @@
     },
     {
         "position": 73,
+        "user_id": "12a42c73a0cd943367e58a01bd817ac1",
+        "name": "KLAM HACKTIVIST",
+        "points": 100,
+        "stars": 0
+    },
+    {
+        "position": 74,
         "user_id": "73b9716ba05a36e66807a65713112f0f",
         "name": "hx",
         "points": 90,
         "stars": 0
     },
     {
-        "position": 74,
+        "position": 75,
         "user_id": "bef3c052d7a770908aaf48eb1bccb5b8",
         "name": "uf0",
         "points": 90,
         "stars": 0
     },
     {
-        "position": 75,
+        "position": 76,
         "user_id": "04cb9aeabdd61aa04efc66359960cb6d",
         "name": "sliten student",
-        "points": 90,
-        "stars": 0
-    },
-    {
-        "position": 76,
-        "user_id": "12a42c73a0cd943367e58a01bd817ac1",
-        "name": "KLAM HACKTIVIST",
         "points": 90,
         "stars": 0
     },
