@@ -1,11 +1,11 @@
 {
-    "position": null,
+    "position": 100,
     "user_id": "f722c9e6544c3f2393d2be091b9a0211",
     "name": "INNBITT SCHNEIER",
-    "points": 80,
+    "points": 90,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 75,
+        "1. Grunnleggende": 88,
         "2. Initiell aksess": 33,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
