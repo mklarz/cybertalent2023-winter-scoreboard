@@ -183,50 +183,50 @@
     },
     {
         "position": 27,
+        "user_id": "aba1809901b9d0fcff14f2c13c583ffa",
+        "name": "Daddie0",
+        "points": 150,
+        "stars": 0
+    },
+    {
+        "position": 28,
         "user_id": "36faa0b37b11696dc92b27f89c25e430",
         "name": "Gress",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 28,
+        "position": 29,
         "user_id": "49957df84e8014198338f331948fb0a9",
         "name": "mstg",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 29,
+        "position": 30,
         "user_id": "0f5862a9c2029e659036519e9f3f4b50",
         "name": "KUNNSKAPSRIK PROGRAMMERER",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 30,
+        "position": 31,
         "user_id": "419d747ee067d94dc055c64f63b46af8",
         "name": "P\u00c6KKM\u00c6N",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 31,
+        "position": 32,
         "user_id": "0fba2e0d42b78788885e849f0f1c7647",
         "name": "larsw",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 32,
+        "position": 33,
         "user_id": "2b3cd862c1795373112710dab3f9b532",
         "name": "Sithis",
-        "points": 140,
-        "stars": 0
-    },
-    {
-        "position": 33,
-        "user_id": "aba1809901b9d0fcff14f2c13c583ffa",
-        "name": "Daddie0",
         "points": 140,
         "stars": 0
     },
