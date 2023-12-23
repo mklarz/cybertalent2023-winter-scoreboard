@@ -1,19 +1,19 @@
 {
-    "position": null,
-    "user_id": "d07634bd23f7e0ef5cf718468bcbd0d6",
-    "name": "TAFATT FRAGLE",
+    "position": 91,
+    "user_id": "c809c0ef64eb96ea7c8c3d8d4b3f895f",
+    "name": "KREVENDE CYBERHELT",
     "points": 90,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 88,
-        "2. Initiell aksess": 33,
+        "1. Grunnleggende": 0,
+        "2. Initiell aksess": 100,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
         "2.5. Department of Security": 0,
-        "2.6. Department of Technology": 0,
+        "2.6. Department of Technology": 75,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 100
     }
 }
