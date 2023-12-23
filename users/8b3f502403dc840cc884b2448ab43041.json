@@ -1,12 +1,12 @@
 {
-    "position": 85,
-    "user_id": "bef3c052d7a770908aaf48eb1bccb5b8",
-    "name": "uf0",
-    "points": 90,
+    "position": 83,
+    "user_id": "8b3f502403dc840cc884b2448ab43041",
+    "name": "ubot",
+    "points": 100,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 100,
-        "2. Initiell aksess": 17,
+        "1. Grunnleggende": 62,
+        "2. Initiell aksess": 83,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
