@@ -1,13 +1,13 @@
 {
-    "position": 87,
+    "position": 71,
     "user_id": "4ea042e66e474734d4cdb5a59b61b685",
     "name": "halvis",
-    "points": 100,
+    "points": 110,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 50,
         "2. Initiell aksess": 100,
-        "2.1. Department of Development and Test": 0,
+        "2.1. Department of Development and Test": 14,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
