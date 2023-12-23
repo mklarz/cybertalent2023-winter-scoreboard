@@ -435,50 +435,50 @@
     },
     {
         "position": 63,
+        "user_id": "3d906ec8e80d5066a1eebdb97c75bc6c",
+        "name": "telemetri",
+        "points": 110,
+        "stars": 0
+    },
+    {
+        "position": 64,
         "user_id": "000c2002a1da2e4800a63f2da716c2be",
         "name": "TASTATUR",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 64,
+        "position": 65,
         "user_id": "73d9e699af56776453db0ce015d6e72a",
         "name": "RYDDIG CYBERHELT",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 65,
+        "position": 66,
         "user_id": "fd8f232fed4fe7118140c52382aef096",
         "name": "KUNNSKAPSRIK REVERSER",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 66,
+        "position": 67,
         "user_id": "a6835a53d69a906c9ad4e8a6bd2fc116",
         "name": "noahaon",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 67,
+        "position": 68,
         "user_id": "57e60c5f6363023cb951e4c20eaa53be",
         "name": "brage",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 68,
+        "position": 69,
         "user_id": "467306aa74abbdfc31ca72f24503c448",
         "name": "sakarl",
-        "points": 100,
-        "stars": 0
-    },
-    {
-        "position": 69,
-        "user_id": "3d906ec8e80d5066a1eebdb97c75bc6c",
-        "name": "telemetri",
         "points": 100,
         "stars": 0
     },
