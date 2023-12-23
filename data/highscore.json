@@ -337,22 +337,22 @@
     },
     {
         "position": 49,
+        "user_id": "467306aa74abbdfc31ca72f24503c448",
+        "name": "sakarl",
+        "points": 130,
+        "stars": 0
+    },
+    {
+        "position": 50,
         "user_id": "bd6dd132e52bf0917f767e3dcaba3afa",
         "name": "tbi",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 50,
+        "position": 51,
         "user_id": "c22174bbf09dff100dc2e0ca752bc5ec",
         "name": "fantomet",
-        "points": 130,
-        "stars": 0
-    },
-    {
-        "position": 51,
-        "user_id": "467306aa74abbdfc31ca72f24503c448",
-        "name": "sakarl",
         "points": 130,
         "stars": 0
     },
@@ -470,51 +470,51 @@
     },
     {
         "position": 68,
+        "user_id": "000c2002a1da2e4800a63f2da716c2be",
+        "name": "TASTATUR",
+        "points": 110,
+        "stars": 0
+    },
+    {
+        "position": 69,
         "user_id": "7bc269aee43bdabc3bcbe2329c380a58",
         "name": "SUR HACKTIVIST",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 69,
+        "position": 70,
         "user_id": "fc15f6c83172f7684517f963cda4d584",
         "name": "teecee",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 70,
+        "position": 71,
         "user_id": "6c90cfa2fd2c3db190dbe23e92b99ba4",
         "name": "M",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 71,
+        "position": 72,
         "user_id": "fc234c52c408268f13ae8223c847cebe",
         "name": "ragev",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 72,
+        "position": 73,
         "user_id": "4ea042e66e474734d4cdb5a59b61b685",
         "name": "halvis",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 73,
+        "position": 74,
         "user_id": "041aaf5eee6cfca11c869216abca8d0e",
         "name": "DYKTIG KODER",
         "points": 110,
-        "stars": 0
-    },
-    {
-        "position": 74,
-        "user_id": "000c2002a1da2e4800a63f2da716c2be",
-        "name": "TASTATUR",
-        "points": 100,
         "stars": 0
     },
     {
