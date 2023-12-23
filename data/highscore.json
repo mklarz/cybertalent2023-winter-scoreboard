@@ -155,22 +155,22 @@
     },
     {
         "position": 23,
+        "user_id": "049a6cbc9a76ba83bffe77ce256e9364",
+        "name": "siddharth",
+        "points": 160,
+        "stars": 0
+    },
+    {
+        "position": 24,
         "user_id": "b80ae9b40e2f863c0e44d064d310be29",
         "name": "SKARP SNOK",
         "points": 160,
         "stars": 0
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "92beafc9028e19e0bc950f084d8f7924",
         "name": "GAMMEL KODER",
-        "points": 160,
-        "stars": 0
-    },
-    {
-        "position": 25,
-        "user_id": "049a6cbc9a76ba83bffe77ce256e9364",
-        "name": "siddharth",
         "points": 160,
         "stars": 0
     },
