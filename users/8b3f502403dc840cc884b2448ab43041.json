@@ -1,8 +1,8 @@
 {
-    "position": 67,
+    "position": 58,
     "user_id": "8b3f502403dc840cc884b2448ab43041",
     "name": "ubot",
-    "points": 110,
+    "points": 120,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 62,
@@ -11,7 +11,7 @@
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
-        "2.5. Department of Security": 0,
+        "2.5. Department of Security": 33,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
         "4. Skjulte flagg": 0
