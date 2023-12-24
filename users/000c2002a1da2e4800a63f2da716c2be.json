@@ -1,12 +1,12 @@
 {
-    "position": 73,
+    "position": 63,
     "user_id": "000c2002a1da2e4800a63f2da716c2be",
     "name": "TASTATUR",
-    "points": 110,
+    "points": 120,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
-        "2. Initiell aksess": 50,
+        "2. Initiell aksess": 67,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
