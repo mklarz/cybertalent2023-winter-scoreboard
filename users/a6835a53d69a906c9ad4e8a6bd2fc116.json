@@ -1,13 +1,13 @@
 {
-    "position": 42,
+    "position": 35,
     "user_id": "a6835a53d69a906c9ad4e8a6bd2fc116",
     "name": "noahaon",
-    "points": 150,
+    "points": 160,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Initiell aksess": 100,
-        "2.1. Department of Development and Test": 0,
+        "2.1. Department of Development and Test": 14,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
