@@ -1,12 +1,12 @@
 {
-    "position": 79,
+    "position": 73,
     "user_id": "29469cc9a90e6af7eef3a157a48beddf",
     "name": "solver",
-    "points": 110,
+    "points": 120,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
-        "2. Initiell aksess": 50,
+        "2. Initiell aksess": 67,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
