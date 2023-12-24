@@ -1,11 +1,11 @@
 {
-    "position": 62,
+    "position": 58,
     "user_id": "c22174bbf09dff100dc2e0ca752bc5ec",
     "name": "fantomet",
-    "points": 130,
+    "points": 140,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 62,
+        "1. Grunnleggende": 75,
         "2. Initiell aksess": 100,
         "2.1. Department of Development and Test": 14,
         "2.2. Department of Cryptography": 0,
