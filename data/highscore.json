@@ -400,50 +400,50 @@
     },
     {
         "position": 58,
+        "user_id": "000c2002a1da2e4800a63f2da716c2be",
+        "name": "TASTATUR",
+        "points": 130,
+        "stars": 0
+    },
+    {
+        "position": 59,
         "user_id": "bd6dd132e52bf0917f767e3dcaba3afa",
         "name": "tbi",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 59,
+        "position": 60,
         "user_id": "c22174bbf09dff100dc2e0ca752bc5ec",
         "name": "fantomet",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 60,
+        "position": 61,
         "user_id": "041aaf5eee6cfca11c869216abca8d0e",
         "name": "finnes",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 61,
+        "position": 62,
         "user_id": "1b712092ab585863ac8cb53679203dc8",
         "name": "ARBEIDSOM PROGRAMMERER",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 62,
+        "position": 63,
         "user_id": "473d71fef2dc63452a700966d00c5c8d",
         "name": "mutex",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 63,
+        "position": 64,
         "user_id": "bddda999f79f351773ba4f8e3d061fb4",
         "name": "BEBRILLET NERD",
-        "points": 120,
-        "stars": 0
-    },
-    {
-        "position": 64,
-        "user_id": "000c2002a1da2e4800a63f2da716c2be",
-        "name": "TASTATUR",
         "points": 120,
         "stars": 0
     },
@@ -498,29 +498,29 @@
     },
     {
         "position": 72,
+        "user_id": "7bc269aee43bdabc3bcbe2329c380a58",
+        "name": "SUR HACKTIVIST",
+        "points": 120,
+        "stars": 0
+    },
+    {
+        "position": 73,
         "user_id": "f732f218ab6f6c348afa3f21fff8636f",
         "name": "ARBEIDSOM DRAPER",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 73,
+        "position": 74,
         "user_id": "a1d4e6b28264f08847a4bf32a09f897f",
         "name": "fslaktern",
         "points": 110,
         "stars": 0
     },
     {
-        "position": 74,
+        "position": 75,
         "user_id": "772e1b5da254a7e3d45d7894ba85d1a9",
         "name": "GRILLET KODEKNEKKER",
-        "points": 110,
-        "stars": 0
-    },
-    {
-        "position": 75,
-        "user_id": "7bc269aee43bdabc3bcbe2329c380a58",
-        "name": "SUR HACKTIVIST",
         "points": 110,
         "stars": 0
     },
