@@ -274,64 +274,64 @@
     },
     {
         "position": 40,
+        "user_id": "2be5e2e3d2b8b94ef2c0a6598f5d179b",
+        "name": "ARBEIDSOM GUD",
+        "points": 160,
+        "stars": 0
+    },
+    {
+        "position": 41,
         "user_id": "14bf4cf2d9e7643ae816a1f12d243cf6",
         "name": "magnus",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 41,
+        "position": 42,
         "user_id": "a6835a53d69a906c9ad4e8a6bd2fc116",
         "name": "noahaon",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 42,
+        "position": 43,
         "user_id": "53e36d30e2f053b3fbd7c72363a844ed",
         "name": "KRAMPEAKTIG SNOK",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 43,
+        "position": 44,
         "user_id": "36faa0b37b11696dc92b27f89c25e430",
         "name": "Gress",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 44,
+        "position": 45,
         "user_id": "0f5862a9c2029e659036519e9f3f4b50",
         "name": "KUNNSKAPSRIK PROGRAMMERER",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 45,
+        "position": 46,
         "user_id": "9f60d390502a6aa0575b36a58b4d35f2",
         "name": "INNBITT CRACKER",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 46,
+        "position": 47,
         "user_id": "0c20133aacd231bced3456008688e591",
         "name": "SVAK HACKER",
         "points": 150,
         "stars": 0
     },
     {
-        "position": 47,
+        "position": 48,
         "user_id": "08daadb5e45506cca52029fd93fe0a5f",
         "name": "PhonePhreak",
-        "points": 150,
-        "stars": 0
-    },
-    {
-        "position": 48,
-        "user_id": "2be5e2e3d2b8b94ef2c0a6598f5d179b",
-        "name": "ARBEIDSOM GUD",
         "points": 150,
         "stars": 0
     },
