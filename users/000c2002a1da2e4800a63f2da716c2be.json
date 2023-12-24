@@ -1,8 +1,8 @@
 {
-    "position": 47,
+    "position": 37,
     "user_id": "000c2002a1da2e4800a63f2da716c2be",
     "name": "TASTATUR",
-    "points": 150,
+    "points": 160,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
@@ -11,7 +11,7 @@
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
-        "2.5. Department of Security": 0,
+        "2.5. Department of Security": 33,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
         "4. Skjulte flagg": 100
