@@ -1,12 +1,12 @@
 {
-    "position": 65,
+    "position": 54,
     "user_id": "1d8fb9a60d73f22889b6fa1fe059da50",
     "name": "mhovd",
-    "points": 120,
+    "points": 140,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
-        "2. Initiell aksess": 67,
+        "2. Initiell aksess": 100,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
