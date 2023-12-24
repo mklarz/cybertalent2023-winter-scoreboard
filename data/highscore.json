@@ -379,29 +379,29 @@
     },
     {
         "position": 55,
+        "user_id": "000c2002a1da2e4800a63f2da716c2be",
+        "name": "TASTATUR",
+        "points": 140,
+        "stars": 0
+    },
+    {
+        "position": 56,
         "user_id": "a5fb367b71913ec89088aa5bbc093018",
         "name": "KREVENDE FRAGLE",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 56,
+        "position": 57,
         "user_id": "467306aa74abbdfc31ca72f24503c448",
         "name": "sakarl",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 57,
+        "position": 58,
         "user_id": "4871da1b8f31f5ef42036a536a27508d",
         "name": "duniel",
-        "points": 130,
-        "stars": 0
-    },
-    {
-        "position": 58,
-        "user_id": "000c2002a1da2e4800a63f2da716c2be",
-        "name": "TASTATUR",
         "points": 130,
         "stars": 0
     },
