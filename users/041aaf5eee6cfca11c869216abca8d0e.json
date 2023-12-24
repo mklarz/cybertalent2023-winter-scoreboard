@@ -1,12 +1,12 @@
 {
-    "position": 78,
+    "position": 60,
     "user_id": "041aaf5eee6cfca11c869216abca8d0e",
     "name": "DYKTIG KODER",
-    "points": 110,
+    "points": 130,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 88,
-        "2. Initiell aksess": 67,
+        "2. Initiell aksess": 100,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
