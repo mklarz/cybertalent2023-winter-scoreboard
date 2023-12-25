@@ -1,12 +1,12 @@
 {
-    "position": 61,
+    "position": 51,
     "user_id": "4871da1b8f31f5ef42036a536a27508d",
     "name": "duniel",
-    "points": 130,
+    "points": 150,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
-        "2. Initiell aksess": 67,
+        "2. Initiell aksess": 100,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
