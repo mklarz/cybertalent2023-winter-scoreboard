@@ -78,23 +78,23 @@
     },
     {
         "position": 12,
+        "user_id": "814e0bbca0a2af2742c79a40f6d97ca4",
+        "name": "varcella",
+        "points": 190,
+        "stars": 0
+    },
+    {
+        "position": 13,
         "user_id": "a20193ef5a572699a80737518a25e1d8",
         "name": "GRIM SLASK",
         "points": 190,
         "stars": 0
     },
     {
-        "position": 13,
+        "position": 14,
         "user_id": "e9e09028963a71235ecc3cecf2683dcd",
         "name": "SLAPP SKATTEFLYKTNING",
         "points": 190,
-        "stars": 0
-    },
-    {
-        "position": 14,
-        "user_id": "814e0bbca0a2af2742c79a40f6d97ca4",
-        "name": "varcella",
-        "points": 180,
         "stars": 0
     },
     {
@@ -120,43 +120,43 @@
     },
     {
         "position": 18,
+        "user_id": "2be5e2e3d2b8b94ef2c0a6598f5d179b",
+        "name": "ARBEIDSOM GUD",
+        "points": 180,
+        "stars": 0
+    },
+    {
+        "position": 19,
         "user_id": "acc47f3a2d23f25a8ef01167542b44db",
         "name": "s1",
         "points": 170,
         "stars": 0
     },
     {
-        "position": 19,
+        "position": 20,
         "user_id": "dd3d1cc3c573cd913b02531de9a07c98",
         "name": "GAMMEL FINANSAKROBAT",
         "points": 170,
         "stars": 0
     },
     {
-        "position": 20,
+        "position": 21,
         "user_id": "e44f9bedefe98aed44d398a61178d457",
         "name": "S\u00c5RBAR KLOVN",
         "points": 170,
         "stars": 0
     },
     {
-        "position": 21,
+        "position": 22,
         "user_id": "000c2002a1da2e4800a63f2da716c2be",
         "name": "TASTATUR",
         "points": 170,
         "stars": 0
     },
     {
-        "position": 22,
+        "position": 23,
         "user_id": "b8ffb7a7fa51e530158b6015294fd0fe",
         "name": "ARTISTISK SPION",
-        "points": 170,
-        "stars": 0
-    },
-    {
-        "position": 23,
-        "user_id": "2be5e2e3d2b8b94ef2c0a6598f5d179b",
-        "name": "ARBEIDSOM GUD",
         "points": 170,
         "stars": 0
     },
