@@ -1,8 +1,8 @@
 {
-    "position": 48,
+    "position": 21,
     "user_id": "041aaf5eee6cfca11c869216abca8d0e",
     "name": "finnes",
-    "points": 160,
+    "points": 170,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 88,
@@ -11,7 +11,7 @@
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
-        "2.5. Department of Security": 0,
+        "2.5. Department of Security": 33,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
         "4. Skjulte flagg": 0
