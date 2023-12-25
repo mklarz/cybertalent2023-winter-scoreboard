@@ -1,8 +1,8 @@
 {
-    "position": 15,
+    "position": 13,
     "user_id": "e9e09028963a71235ecc3cecf2683dcd",
     "name": "SLAPP SKATTEFLYKTNING",
-    "points": 180,
+    "points": 190,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
@@ -12,7 +12,7 @@
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
         "2.5. Department of Security": 100,
-        "2.6. Department of Technology": 25,
+        "2.6. Department of Technology": 50,
         "2.7. Department of Nuclear Power": 0,
         "4. Skjulte flagg": 0
     }

@@ -85,22 +85,22 @@
     },
     {
         "position": 13,
+        "user_id": "e9e09028963a71235ecc3cecf2683dcd",
+        "name": "SLAPP SKATTEFLYKTNING",
+        "points": 190,
+        "stars": 0
+    },
+    {
+        "position": 14,
         "user_id": "814e0bbca0a2af2742c79a40f6d97ca4",
         "name": "varcella",
         "points": 180,
         "stars": 0
     },
     {
-        "position": 14,
+        "position": 15,
         "user_id": "2168ee062d4cb40a8e4c9d8df6a1162d",
         "name": "LilliePlant",
-        "points": 180,
-        "stars": 0
-    },
-    {
-        "position": 15,
-        "user_id": "e9e09028963a71235ecc3cecf2683dcd",
-        "name": "SLAPP SKATTEFLYKTNING",
         "points": 180,
         "stars": 0
     },
