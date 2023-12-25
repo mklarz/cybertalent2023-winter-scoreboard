@@ -1,12 +1,12 @@
 {
-    "position": 100,
+    "position": 95,
     "user_id": "ca31dd551dbb75a2f441916372888e5a",
     "name": "KUL HACKER",
-    "points": 90,
+    "points": 100,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 88,
-        "2. Initiell aksess": 33,
+        "2. Initiell aksess": 50,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
