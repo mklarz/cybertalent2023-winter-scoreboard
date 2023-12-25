@@ -414,64 +414,64 @@
     },
     {
         "position": 60,
+        "user_id": "21f7701a11b11ed6dcc8c486a1f0fed3",
+        "name": "ROTETE KODER",
+        "points": 140,
+        "stars": 0
+    },
+    {
+        "position": 61,
         "user_id": "a5fb367b71913ec89088aa5bbc093018",
         "name": "KREVENDE FRAGLE",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 61,
+        "position": 62,
         "user_id": "ecdde01a6d6018c52377a86a975e6d5f",
         "name": "AsianAceV2",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 62,
+        "position": 63,
         "user_id": "467306aa74abbdfc31ca72f24503c448",
         "name": "sakarl",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 63,
+        "position": 64,
         "user_id": "bddda999f79f351773ba4f8e3d061fb4",
         "name": "BEBRILLET NERD",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 64,
+        "position": 65,
         "user_id": "bd6dd132e52bf0917f767e3dcaba3afa",
         "name": "tbi",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 65,
+        "position": 66,
         "user_id": "7bc269aee43bdabc3bcbe2329c380a58",
         "name": "SUR HACKTIVIST",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 66,
+        "position": 67,
         "user_id": "1b712092ab585863ac8cb53679203dc8",
         "name": "ARBEIDSOM PROGRAMMERER",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 67,
+        "position": 68,
         "user_id": "473d71fef2dc63452a700966d00c5c8d",
         "name": "mutex",
-        "points": 120,
-        "stars": 0
-    },
-    {
-        "position": 68,
-        "user_id": "21f7701a11b11ed6dcc8c486a1f0fed3",
-        "name": "ROTETE KODER",
         "points": 120,
         "stars": 0
     },
