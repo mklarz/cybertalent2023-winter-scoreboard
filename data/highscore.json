@@ -449,29 +449,29 @@
     },
     {
         "position": 65,
+        "user_id": "473d71fef2dc63452a700966d00c5c8d",
+        "name": "mutex",
+        "points": 130,
+        "stars": 0
+    },
+    {
+        "position": 66,
         "user_id": "bd6dd132e52bf0917f767e3dcaba3afa",
         "name": "tbi",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 66,
+        "position": 67,
         "user_id": "7bc269aee43bdabc3bcbe2329c380a58",
         "name": "SUR HACKTIVIST",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 67,
+        "position": 68,
         "user_id": "1b712092ab585863ac8cb53679203dc8",
         "name": "ARBEIDSOM PROGRAMMERER",
-        "points": 120,
-        "stars": 0
-    },
-    {
-        "position": 68,
-        "user_id": "473d71fef2dc63452a700966d00c5c8d",
-        "name": "mutex",
         "points": 120,
         "stars": 0
     },
