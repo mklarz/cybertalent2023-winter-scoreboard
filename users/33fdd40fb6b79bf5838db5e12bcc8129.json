@@ -1,19 +1,19 @@
 {
-    "position": 93,
-    "user_id": "c9ebd1dc672ac4d5af4694fb6fc96d0e",
-    "name": "TAFATT AGENT",
+    "position": 88,
+    "user_id": "33fdd40fb6b79bf5838db5e12bcc8129",
+    "name": "fslaktern-2",
     "points": 100,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
-        "2. Initiell aksess": 33,
+        "2. Initiell aksess": 17,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
-        "2.5. Department of Security": 0,
+        "2.5. Department of Security": 33,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 100
     }
 }
