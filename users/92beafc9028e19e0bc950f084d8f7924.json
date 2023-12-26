@@ -1,13 +1,13 @@
 {
-    "position": 21,
+    "position": 18,
     "user_id": "92beafc9028e19e0bc950f084d8f7924",
     "name": "GAMMEL KODER",
-    "points": 180,
+    "points": 190,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Initiell aksess": 100,
-        "2.1. Department of Development and Test": 43,
+        "2.1. Department of Development and Test": 57,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
