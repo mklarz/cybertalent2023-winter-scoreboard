@@ -127,23 +127,23 @@
     },
     {
         "position": 19,
+        "user_id": "acc47f3a2d23f25a8ef01167542b44db",
+        "name": "s1",
+        "points": 190,
+        "stars": 0
+    },
+    {
+        "position": 20,
         "user_id": "a20193ef5a572699a80737518a25e1d8",
         "name": "GRIM SLASK",
         "points": 190,
         "stars": 0
     },
     {
-        "position": 20,
+        "position": 21,
         "user_id": "2168ee062d4cb40a8e4c9d8df6a1162d",
         "name": "LilliePlant",
         "points": 190,
-        "stars": 0
-    },
-    {
-        "position": 21,
-        "user_id": "acc47f3a2d23f25a8ef01167542b44db",
-        "name": "s1",
-        "points": 180,
         "stars": 0
     },
     {
