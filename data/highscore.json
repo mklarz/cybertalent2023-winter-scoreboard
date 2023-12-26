@@ -113,22 +113,22 @@
     },
     {
         "position": 17,
+        "user_id": "92beafc9028e19e0bc950f084d8f7924",
+        "name": "GAMMEL KODER",
+        "points": 200,
+        "stars": 0
+    },
+    {
+        "position": 18,
         "user_id": "44b6d433a51cc799eeae0f0c8606945b",
         "name": "Qtie",
         "points": 190,
         "stars": 0
     },
     {
-        "position": 18,
+        "position": 19,
         "user_id": "a20193ef5a572699a80737518a25e1d8",
         "name": "GRIM SLASK",
-        "points": 190,
-        "stars": 0
-    },
-    {
-        "position": 19,
-        "user_id": "92beafc9028e19e0bc950f084d8f7924",
-        "name": "GAMMEL KODER",
         "points": 190,
         "stars": 0
     },
