@@ -1,13 +1,13 @@
 {
-    "position": 21,
+    "position": 20,
     "user_id": "2168ee062d4cb40a8e4c9d8df6a1162d",
     "name": "LilliePlant",
-    "points": 180,
+    "points": 190,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Initiell aksess": 100,
-        "2.1. Department of Development and Test": 43,
+        "2.1. Department of Development and Test": 57,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
