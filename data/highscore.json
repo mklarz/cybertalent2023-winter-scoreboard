@@ -680,22 +680,22 @@
     },
     {
         "position": 98,
+        "user_id": "8ec250f20e5551950e75d59c892da200",
+        "name": "n0k0",
+        "points": 100,
+        "stars": 0
+    },
+    {
+        "position": 99,
         "user_id": "73b9716ba05a36e66807a65713112f0f",
         "name": "hx",
         "points": 90,
         "stars": 0
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "bbfd279191b960d038167d7dd5ddaedf",
         "name": "ALVORLIG NOOB",
-        "points": 90,
-        "stars": 0
-    },
-    {
-        "position": 100,
-        "user_id": "bef3c052d7a770908aaf48eb1bccb5b8",
-        "name": "uf0",
         "points": 90,
         "stars": 0
     }
