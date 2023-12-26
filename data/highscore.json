@@ -57,64 +57,64 @@
     },
     {
         "position": 9,
+        "user_id": "92beafc9028e19e0bc950f084d8f7924",
+        "name": "GAMMEL KODER",
+        "points": 210,
+        "stars": 0
+    },
+    {
+        "position": 10,
         "user_id": "4fc0486fa3299de7357da60c492a5fcd",
         "name": "Carixo",
         "points": 200,
         "stars": 0
     },
     {
-        "position": 10,
+        "position": 11,
         "user_id": "e5f56c75668ec1aa0f97fcaec8374935",
         "name": "Augustus",
         "points": 200,
         "stars": 0
     },
     {
-        "position": 11,
+        "position": 12,
         "user_id": "c809c0ef64eb96ea7c8c3d8d4b3f895f",
         "name": "KREVENDE CYBERHELT",
         "points": 200,
         "stars": 0
     },
     {
-        "position": 12,
+        "position": 13,
         "user_id": "2b5591795899026997c146ca26ebe258",
         "name": "GRIM MITNICK",
         "points": 200,
         "stars": 0
     },
     {
-        "position": 13,
+        "position": 14,
         "user_id": "000c2002a1da2e4800a63f2da716c2be",
         "name": "joshu",
         "points": 200,
         "stars": 0
     },
     {
-        "position": 14,
+        "position": 15,
         "user_id": "814e0bbca0a2af2742c79a40f6d97ca4",
         "name": "varcella",
         "points": 200,
         "stars": 0
     },
     {
-        "position": 15,
+        "position": 16,
         "user_id": "e9e09028963a71235ecc3cecf2683dcd",
         "name": "SLAPP SKATTEFLYKTNING",
         "points": 200,
         "stars": 0
     },
     {
-        "position": 16,
+        "position": 17,
         "user_id": "92183a6aa137f3f9e22c92d1b6d7fdd4",
         "name": "SurBacon",
-        "points": 200,
-        "stars": 0
-    },
-    {
-        "position": 17,
-        "user_id": "92beafc9028e19e0bc950f084d8f7924",
-        "name": "GAMMEL KODER",
         "points": 200,
         "stars": 0
     },
@@ -477,71 +477,71 @@
     },
     {
         "position": 69,
+        "user_id": "dc6427044437cf5e94721f1b77e873ff",
+        "name": "tohjernecellerienfrakk",
+        "points": 130,
+        "stars": 0
+    },
+    {
+        "position": 70,
         "user_id": "1b712092ab585863ac8cb53679203dc8",
         "name": "ARBEIDSOM PROGRAMMERER",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 70,
+        "position": 71,
         "user_id": "f0fde2b7670b1e0c51698b9909dd20ca",
         "name": "INNBITT DRAPER",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 71,
+        "position": 72,
         "user_id": "2c1c2b10f90abc8c818321ebe4d55876",
         "name": "TAFATT NOOB",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 72,
+        "position": 73,
         "user_id": "b83907e4310db1c9c8eff2511ae45342",
         "name": "YDMYK MITNICK",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 73,
+        "position": 74,
         "user_id": "d860a8a9a00209e33b25fa0f6dcdf0d7",
         "name": "SKARP KODER",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 74,
+        "position": 75,
         "user_id": "3d906ec8e80d5066a1eebdb97c75bc6c",
         "name": "telemetri",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 75,
+        "position": 76,
         "user_id": "8b3f502403dc840cc884b2448ab43041",
         "name": "ubot",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 76,
+        "position": 77,
         "user_id": "29469cc9a90e6af7eef3a157a48beddf",
         "name": "solver",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 77,
+        "position": 78,
         "user_id": "fc234c52c408268f13ae8223c847cebe",
         "name": "ragev",
-        "points": 120,
-        "stars": 0
-    },
-    {
-        "position": 78,
-        "user_id": "dc6427044437cf5e94721f1b77e873ff",
-        "name": "tohjernecellerienfrakk",
         "points": 120,
         "stars": 0
     },
