@@ -15,22 +15,22 @@
     },
     {
         "position": 3,
+        "user_id": "2be5e2e3d2b8b94ef2c0a6598f5d179b",
+        "name": "olefredrik",
+        "points": 270,
+        "stars": 0
+    },
+    {
+        "position": 4,
         "user_id": "e278db9bf3b5f3d2f20384014d131e5c",
         "name": "Vealending",
         "points": 260,
         "stars": 0
     },
     {
-        "position": 4,
+        "position": 5,
         "user_id": "7eb5c2d7a0f1753b78e9857a28391c09",
         "name": "S\u00c5RBAR NERD",
-        "points": 260,
-        "stars": 0
-    },
-    {
-        "position": 5,
-        "user_id": "2be5e2e3d2b8b94ef2c0a6598f5d179b",
-        "name": "olefredrik",
         "points": 260,
         "stars": 0
     },
@@ -659,43 +659,43 @@
     },
     {
         "position": 95,
+        "user_id": "bbfd279191b960d038167d7dd5ddaedf",
+        "name": "ALVORLIG NOOB",
+        "points": 100,
+        "stars": 0
+    },
+    {
+        "position": 96,
         "user_id": "57e60c5f6363023cb951e4c20eaa53be",
         "name": "brage",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 96,
+        "position": 97,
         "user_id": "c2eda6ac90f296018fd4b2ffa24610c3",
         "name": "Oslolosen",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "a0507645866411f09ff79d19c017e261",
         "name": "PizzaGutt",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "c9ebd1dc672ac4d5af4694fb6fc96d0e",
         "name": "TAFATT AGENT",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "acf3bd0d66462d36835820c669102e82",
         "name": "KOKT FESK",
-        "points": 100,
-        "stars": 0
-    },
-    {
-        "position": 100,
-        "user_id": "12a42c73a0cd943367e58a01bd817ac1",
-        "name": "KLAM HACKTIVIST",
         "points": 100,
         "stars": 0
     }
