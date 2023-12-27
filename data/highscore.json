@@ -36,15 +36,15 @@
     },
     {
         "position": 6,
-        "user_id": "55be5c773bd7ce4661c814c39cb873d7",
-        "name": "nicw",
-        "points": 240,
+        "user_id": "88bbb4737cf4b6f486bcb3cf61993fe6",
+        "name": "sofa_solver",
+        "points": 250,
         "stars": 0
     },
     {
         "position": 7,
-        "user_id": "88bbb4737cf4b6f486bcb3cf61993fe6",
-        "name": "sofa_solver",
+        "user_id": "55be5c773bd7ce4661c814c39cb873d7",
+        "name": "nicw",
         "points": 240,
         "stars": 0
     },
@@ -491,22 +491,22 @@
     },
     {
         "position": 71,
+        "user_id": "9cf3241279e59616f2f2ccae56b5b9f5",
+        "name": "bop",
+        "points": 140,
+        "stars": 0
+    },
+    {
+        "position": 72,
         "user_id": "bd6dd132e52bf0917f767e3dcaba3afa",
         "name": "tbi",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 72,
+        "position": 73,
         "user_id": "f722c9e6544c3f2393d2be091b9a0211",
         "name": "INNBITT SCHNEIER",
-        "points": 130,
-        "stars": 0
-    },
-    {
-        "position": 73,
-        "user_id": "9cf3241279e59616f2f2ccae56b5b9f5",
-        "name": "bop",
         "points": 130,
         "stars": 0
     },
