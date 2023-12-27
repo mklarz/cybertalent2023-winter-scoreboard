@@ -617,36 +617,36 @@
     },
     {
         "position": 89,
+        "user_id": "ad81f6d104590e7c97f7ea7daa73fd47",
+        "name": "KLAM SLASK",
+        "points": 110,
+        "stars": 0
+    },
+    {
+        "position": 90,
         "user_id": "73d9e699af56776453db0ce015d6e72a",
         "name": "RYDDIG CYBERHELT",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 90,
+        "position": 91,
         "user_id": "fd8f232fed4fe7118140c52382aef096",
         "name": "KUNNSKAPSRIK REVERSER",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 91,
+        "position": 92,
         "user_id": "57e60c5f6363023cb951e4c20eaa53be",
         "name": "brage",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 92,
+        "position": 93,
         "user_id": "c2eda6ac90f296018fd4b2ffa24610c3",
         "name": "Oslolosen",
-        "points": 100,
-        "stars": 0
-    },
-    {
-        "position": 93,
-        "user_id": "ad81f6d104590e7c97f7ea7daa73fd47",
-        "name": "KLAM SLASK",
         "points": 100,
         "stars": 0
     },
