@@ -29,22 +29,22 @@
     },
     {
         "position": 5,
+        "user_id": "2be5e2e3d2b8b94ef2c0a6598f5d179b",
+        "name": "ARBEIDSOM GUD",
+        "points": 250,
+        "stars": 0
+    },
+    {
+        "position": 6,
         "user_id": "55be5c773bd7ce4661c814c39cb873d7",
         "name": "nicw",
         "points": 240,
         "stars": 0
     },
     {
-        "position": 6,
+        "position": 7,
         "user_id": "88bbb4737cf4b6f486bcb3cf61993fe6",
         "name": "sofa_solver",
-        "points": 240,
-        "stars": 0
-    },
-    {
-        "position": 7,
-        "user_id": "2be5e2e3d2b8b94ef2c0a6598f5d179b",
-        "name": "ARBEIDSOM GUD",
         "points": 240,
         "stars": 0
     },
