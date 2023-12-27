@@ -1,13 +1,13 @@
 {
-    "position": 63,
+    "position": 53,
     "user_id": "dc6427044437cf5e94721f1b77e873ff",
     "name": "tohjernecellerienfrakk",
-    "points": 150,
+    "points": 160,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Initiell aksess": 100,
-        "2.1. Department of Development and Test": 14,
+        "2.1. Department of Development and Test": 29,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
