@@ -1,11 +1,11 @@
 {
-    "position": 66,
+    "position": 64,
     "user_id": "8b3f502403dc840cc884b2448ab43041",
     "name": "ubot",
-    "points": 140,
+    "points": 150,
     "stars": 0,
     "categories": {
-        "1. Grunnleggende": 75,
+        "1. Grunnleggende": 88,
         "2. Initiell aksess": 100,
         "2.1. Department of Development and Test": 14,
         "2.2. Department of Cryptography": 0,
