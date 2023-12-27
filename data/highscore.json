@@ -624,78 +624,78 @@
     },
     {
         "position": 90,
+        "user_id": "caef2aa42142c0ea55675210b8ca712a",
+        "name": "MOTIVERT KLOVN",
+        "points": 110,
+        "stars": 0
+    },
+    {
+        "position": 91,
         "user_id": "73d9e699af56776453db0ce015d6e72a",
         "name": "RYDDIG CYBERHELT",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 91,
+        "position": 92,
         "user_id": "fd8f232fed4fe7118140c52382aef096",
         "name": "KUNNSKAPSRIK REVERSER",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 92,
+        "position": 93,
         "user_id": "57e60c5f6363023cb951e4c20eaa53be",
         "name": "brage",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 93,
+        "position": 94,
         "user_id": "c2eda6ac90f296018fd4b2ffa24610c3",
         "name": "Oslolosen",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 94,
+        "position": 95,
         "user_id": "a0507645866411f09ff79d19c017e261",
         "name": "PizzaGutt",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 95,
+        "position": 96,
         "user_id": "c9ebd1dc672ac4d5af4694fb6fc96d0e",
         "name": "TAFATT AGENT",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 96,
+        "position": 97,
         "user_id": "acf3bd0d66462d36835820c669102e82",
         "name": "KOKT FESK",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "12a42c73a0cd943367e58a01bd817ac1",
         "name": "KLAM HACKTIVIST",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "4e2af97c51bc44b37ce8359b471ce0ec",
         "name": "GAMMEL DRAPER",
         "points": 100,
         "stars": 0
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "34921287cda8665ef28da8f879e8a883",
         "name": "STERK CRACKER",
-        "points": 100,
-        "stars": 0
-    },
-    {
-        "position": 100,
-        "user_id": "b77de153c6dfb3419871ecc979e24882",
-        "name": "krloer",
         "points": 100,
         "stars": 0
     }
