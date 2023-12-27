@@ -1,12 +1,12 @@
 {
-    "position": 71,
+    "position": 67,
     "user_id": "17f5b9312d57cce2e68cc924597c30fe",
     "name": "an-obsequious-servant",
-    "points": 130,
+    "points": 150,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
-        "2. Initiell aksess": 67,
+        "2. Initiell aksess": 100,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
