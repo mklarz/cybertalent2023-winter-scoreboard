@@ -1,8 +1,8 @@
 {
-    "position": 4,
+    "position": 3,
     "user_id": "7eb5c2d7a0f1753b78e9857a28391c09",
     "name": "S\u00c5RBAR NERD",
-    "points": 250,
+    "points": 260,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
@@ -10,7 +10,7 @@
         "2.1. Department of Development and Test": 100,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
-        "2.4. Department of Intelligence": 0,
+        "2.4. Department of Intelligence": 14,
         "2.5. Department of Security": 33,
         "2.6. Department of Technology": 75,
         "2.7. Department of Nuclear Power": 0,
