@@ -1,7 +1,7 @@
 {
-    "position": 100,
-    "user_id": "57e60c5f6363023cb951e4c20eaa53be",
-    "name": "brage",
+    "position": 99,
+    "user_id": "22fe954cb1fc8fd9afb5efbc65d701f5",
+    "name": "Shirajuki",
     "points": 100,
     "stars": 0,
     "categories": {
@@ -14,6 +14,6 @@
         "2.5. Department of Security": 0,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 100
     }
 }
