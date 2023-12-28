@@ -512,22 +512,22 @@
     },
     {
         "position": 74,
+        "user_id": "f722c9e6544c3f2393d2be091b9a0211",
+        "name": "INNBITT SCHNEIER",
+        "points": 140,
+        "stars": 0
+    },
+    {
+        "position": 75,
         "user_id": "f0fde2b7670b1e0c51698b9909dd20ca",
         "name": "INNBITT DRAPER",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 75,
+        "position": 76,
         "user_id": "bd6dd132e52bf0917f767e3dcaba3afa",
         "name": "tbi",
-        "points": 130,
-        "stars": 0
-    },
-    {
-        "position": 76,
-        "user_id": "f722c9e6544c3f2393d2be091b9a0211",
-        "name": "INNBITT SCHNEIER",
         "points": 130,
         "stars": 0
     },
