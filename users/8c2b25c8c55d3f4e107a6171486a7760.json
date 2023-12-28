@@ -2,11 +2,11 @@
     "position": null,
     "user_id": "8c2b25c8c55d3f4e107a6171486a7760",
     "name": "minisec",
-    "points": 90,
+    "points": 100,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
-        "2. Initiell aksess": 17,
+        "2. Initiell aksess": 33,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
