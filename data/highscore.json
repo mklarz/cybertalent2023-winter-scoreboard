@@ -533,64 +533,64 @@
     },
     {
         "position": 77,
+        "user_id": "3011801854af701c604870882956f819",
+        "name": "bob",
+        "points": 130,
+        "stars": 0
+    },
+    {
+        "position": 78,
         "user_id": "1b712092ab585863ac8cb53679203dc8",
         "name": "ARBEIDSOM PROGRAMMERER",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 78,
+        "position": 79,
         "user_id": "33fdd40fb6b79bf5838db5e12bcc8129",
         "name": "fslaktern-2",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 79,
+        "position": 80,
         "user_id": "bbfd279191b960d038167d7dd5ddaedf",
         "name": "ALVORLIG NOOB",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 80,
+        "position": 81,
         "user_id": "2c1c2b10f90abc8c818321ebe4d55876",
         "name": "TAFATT NOOB",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 81,
+        "position": 82,
         "user_id": "b83907e4310db1c9c8eff2511ae45342",
         "name": "YDMYK MITNICK",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 82,
+        "position": 83,
         "user_id": "d860a8a9a00209e33b25fa0f6dcdf0d7",
         "name": "SKARP KODER",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 83,
+        "position": 84,
         "user_id": "3d906ec8e80d5066a1eebdb97c75bc6c",
         "name": "telemetri",
         "points": 120,
         "stars": 0
     },
     {
-        "position": 84,
+        "position": 85,
         "user_id": "fc234c52c408268f13ae8223c847cebe",
         "name": "ragev",
-        "points": 120,
-        "stars": 0
-    },
-    {
-        "position": 85,
-        "user_id": "3011801854af701c604870882956f819",
-        "name": "bob",
         "points": 120,
         "stars": 0
     },
