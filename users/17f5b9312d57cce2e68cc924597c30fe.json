@@ -1,8 +1,8 @@
 {
-    "position": 56,
+    "position": 30,
     "user_id": "17f5b9312d57cce2e68cc924597c30fe",
     "name": "an-obsequious-servant",
-    "points": 160,
+    "points": 170,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
@@ -10,7 +10,7 @@
         "2.1. Department of Development and Test": 14,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
-        "2.4. Department of Intelligence": 0,
+        "2.4. Department of Intelligence": 14,
         "2.5. Department of Security": 33,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
