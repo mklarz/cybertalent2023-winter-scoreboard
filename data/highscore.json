@@ -484,22 +484,22 @@
     },
     {
         "position": 70,
+        "user_id": "29469cc9a90e6af7eef3a157a48beddf",
+        "name": "solver",
+        "points": 150,
+        "stars": 0
+    },
+    {
+        "position": 71,
         "user_id": "419d747ee067d94dc055c64f63b46af8",
         "name": "P\u00c6KKM\u00c6N",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 71,
+        "position": 72,
         "user_id": "a5fb367b71913ec89088aa5bbc093018",
         "name": "KREVENDE FRAGLE",
-        "points": 140,
-        "stars": 0
-    },
-    {
-        "position": 72,
-        "user_id": "29469cc9a90e6af7eef3a157a48beddf",
-        "name": "solver",
         "points": 140,
         "stars": 0
     },
