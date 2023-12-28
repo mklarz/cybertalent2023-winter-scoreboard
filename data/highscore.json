@@ -498,43 +498,43 @@
     },
     {
         "position": 72,
+        "user_id": "3011801854af701c604870882956f819",
+        "name": "bob",
+        "points": 150,
+        "stars": 0
+    },
+    {
+        "position": 73,
         "user_id": "419d747ee067d94dc055c64f63b46af8",
         "name": "P\u00c6KKM\u00c6N",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 73,
+        "position": 74,
         "user_id": "a5fb367b71913ec89088aa5bbc093018",
         "name": "KREVENDE FRAGLE",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 74,
+        "position": 75,
         "user_id": "f722c9e6544c3f2393d2be091b9a0211",
         "name": "INNBITT SCHNEIER",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 75,
+        "position": 76,
         "user_id": "f0fde2b7670b1e0c51698b9909dd20ca",
         "name": "INNBITT DRAPER",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 76,
+        "position": 77,
         "user_id": "bd6dd132e52bf0917f767e3dcaba3afa",
         "name": "tbi",
-        "points": 130,
-        "stars": 0
-    },
-    {
-        "position": 77,
-        "user_id": "3011801854af701c604870882956f819",
-        "name": "bob",
         "points": 130,
         "stars": 0
     },
