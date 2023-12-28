@@ -141,15 +141,15 @@
     },
     {
         "position": 21,
-        "user_id": "a20193ef5a572699a80737518a25e1d8",
-        "name": "GRIM SLASK",
+        "user_id": "2168ee062d4cb40a8e4c9d8df6a1162d",
+        "name": "LilliePlant",
         "points": 190,
         "stars": 0
     },
     {
         "position": 22,
-        "user_id": "2168ee062d4cb40a8e4c9d8df6a1162d",
-        "name": "LilliePlant",
+        "user_id": "a20193ef5a572699a80737518a25e1d8",
+        "name": "GRIM SLASK",
         "points": 190,
         "stars": 0
     },
@@ -512,29 +512,29 @@
     },
     {
         "position": 74,
+        "user_id": "3d906ec8e80d5066a1eebdb97c75bc6c",
+        "name": "telemetri",
+        "points": 150,
+        "stars": 0
+    },
+    {
+        "position": 75,
         "user_id": "419d747ee067d94dc055c64f63b46af8",
         "name": "P\u00c6KKM\u00c6N",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 75,
+        "position": 76,
         "user_id": "a5fb367b71913ec89088aa5bbc093018",
         "name": "KREVENDE FRAGLE",
         "points": 140,
         "stars": 0
     },
     {
-        "position": 76,
+        "position": 77,
         "user_id": "f722c9e6544c3f2393d2be091b9a0211",
         "name": "INNBITT SCHNEIER",
-        "points": 140,
-        "stars": 0
-    },
-    {
-        "position": 77,
-        "user_id": "3d906ec8e80d5066a1eebdb97c75bc6c",
-        "name": "telemetri",
         "points": 140,
         "stars": 0
     },
