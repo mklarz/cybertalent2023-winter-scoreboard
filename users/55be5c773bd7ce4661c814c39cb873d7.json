@@ -1,8 +1,8 @@
 {
-    "position": 7,
+    "position": 5,
     "user_id": "55be5c773bd7ce4661c814c39cb873d7",
     "name": "nicw",
-    "points": 250,
+    "points": 260,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
@@ -13,7 +13,7 @@
         "2.4. Department of Intelligence": 0,
         "2.5. Department of Security": 100,
         "2.6. Department of Technology": 25,
-        "2.7. Department of Nuclear Power": 0,
+        "2.7. Department of Nuclear Power": 20,
         "4. Skjulte flagg": 100
     }
 }
