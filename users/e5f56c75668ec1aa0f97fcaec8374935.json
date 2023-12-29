@@ -2,7 +2,7 @@
     "position": 9,
     "user_id": "e5f56c75668ec1aa0f97fcaec8374935",
     "name": "Augustus",
-    "points": 220,
+    "points": 230,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
@@ -13,7 +13,7 @@
         "2.4. Department of Intelligence": 0,
         "2.5. Department of Security": 100,
         "2.6. Department of Technology": 0,
-        "2.7. Department of Nuclear Power": 0,
+        "2.7. Department of Nuclear Power": 20,
         "4. Skjulte flagg": 100
     }
 }
