@@ -120,23 +120,23 @@
     },
     {
         "position": 18,
+        "user_id": "acc47f3a2d23f25a8ef01167542b44db",
+        "name": "s1",
+        "points": 200,
+        "stars": 0
+    },
+    {
+        "position": 19,
         "user_id": "e9e09028963a71235ecc3cecf2683dcd",
         "name": "SLAPP SKATTEFLYKTNING",
         "points": 200,
         "stars": 0
     },
     {
-        "position": 19,
+        "position": 20,
         "user_id": "92183a6aa137f3f9e22c92d1b6d7fdd4",
         "name": "SurBacon",
         "points": 200,
-        "stars": 0
-    },
-    {
-        "position": 20,
-        "user_id": "acc47f3a2d23f25a8ef01167542b44db",
-        "name": "s1",
-        "points": 190,
         "stars": 0
     },
     {
