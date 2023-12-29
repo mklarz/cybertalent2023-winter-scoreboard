@@ -29,22 +29,22 @@
     },
     {
         "position": 5,
+        "user_id": "7eb5c2d7a0f1753b78e9857a28391c09",
+        "name": "S\u00c5RBAR NERD",
+        "points": 270,
+        "stars": 0
+    },
+    {
+        "position": 6,
         "user_id": "e278db9bf3b5f3d2f20384014d131e5c",
         "name": "Vealending",
         "points": 260,
         "stars": 0
     },
     {
-        "position": 6,
+        "position": 7,
         "user_id": "55be5c773bd7ce4661c814c39cb873d7",
         "name": "nicw",
-        "points": 260,
-        "stars": 0
-    },
-    {
-        "position": 7,
-        "user_id": "7eb5c2d7a0f1753b78e9857a28391c09",
-        "name": "S\u00c5RBAR NERD",
         "points": 260,
         "stars": 0
     },
@@ -141,29 +141,29 @@
     },
     {
         "position": 21,
+        "user_id": "e47f8c105ce643d9118b0e45d1b5016e",
+        "name": "DEDIKERT CYBERHELT",
+        "points": 200,
+        "stars": 0
+    },
+    {
+        "position": 22,
         "user_id": "2168ee062d4cb40a8e4c9d8df6a1162d",
         "name": "LilliePlant",
         "points": 190,
         "stars": 0
     },
     {
-        "position": 22,
+        "position": 23,
         "user_id": "a20193ef5a572699a80737518a25e1d8",
         "name": "GRIM SLASK",
         "points": 190,
         "stars": 0
     },
     {
-        "position": 23,
+        "position": 24,
         "user_id": "dc6427044437cf5e94721f1b77e873ff",
         "name": "tohjernecellerienfrakk",
-        "points": 190,
-        "stars": 0
-    },
-    {
-        "position": 24,
-        "user_id": "e47f8c105ce643d9118b0e45d1b5016e",
-        "name": "DEDIKERT CYBERHELT",
         "points": 190,
         "stars": 0
     },
