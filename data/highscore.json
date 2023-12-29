@@ -22,29 +22,29 @@
     },
     {
         "position": 4,
+        "user_id": "88bbb4737cf4b6f486bcb3cf61993fe6",
+        "name": "sofa_solver",
+        "points": 270,
+        "stars": 0
+    },
+    {
+        "position": 5,
         "user_id": "e278db9bf3b5f3d2f20384014d131e5c",
         "name": "Vealending",
         "points": 260,
         "stars": 0
     },
     {
-        "position": 5,
+        "position": 6,
         "user_id": "55be5c773bd7ce4661c814c39cb873d7",
         "name": "nicw",
         "points": 260,
         "stars": 0
     },
     {
-        "position": 6,
+        "position": 7,
         "user_id": "7eb5c2d7a0f1753b78e9857a28391c09",
         "name": "S\u00c5RBAR NERD",
-        "points": 260,
-        "stars": 0
-    },
-    {
-        "position": 7,
-        "user_id": "88bbb4737cf4b6f486bcb3cf61993fe6",
-        "name": "sofa_solver",
         "points": 260,
         "stars": 0
     },
