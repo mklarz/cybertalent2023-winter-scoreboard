@@ -1,13 +1,13 @@
 {
-    "position": 60,
+    "position": 33,
     "user_id": "ad81f6d104590e7c97f7ea7daa73fd47",
     "name": "KLAM SLASK",
-    "points": 160,
+    "points": 170,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Initiell aksess": 100,
-        "2.1. Department of Development and Test": 14,
+        "2.1. Department of Development and Test": 29,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
