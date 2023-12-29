@@ -1,8 +1,8 @@
 {
-    "position": 78,
+    "position": 76,
     "user_id": "f722c9e6544c3f2393d2be091b9a0211",
     "name": "INNBITT SCHNEIER",
-    "points": 140,
+    "points": 150,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 88,
@@ -11,7 +11,7 @@
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
-        "2.5. Department of Security": 0,
+        "2.5. Department of Security": 33,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
         "4. Skjulte flagg": 0
