@@ -1,5 +1,5 @@
 {
-    "position": 95,
+    "position": 87,
     "user_id": "7c5850926cef4c898d39cb81fd749fa4",
     "name": "__hackhawk",
     "points": 120,
@@ -15,6 +15,6 @@
         "2.5. Department of Security": 0,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 100
     }
 }
