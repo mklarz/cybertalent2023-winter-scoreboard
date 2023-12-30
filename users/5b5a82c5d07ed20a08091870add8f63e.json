@@ -1,8 +1,8 @@
 {
-    "position": 83,
+    "position": 81,
     "user_id": "5b5a82c5d07ed20a08091870add8f63e",
     "name": "sxh",
-    "points": 140,
+    "points": 150,
     "stars": 0,
     "special_user": false,
     "categories": {
@@ -12,7 +12,7 @@
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
-        "2.5. Department of Security": 0,
+        "2.5. Department of Security": 33,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
         "4. Skjulte flagg": 0

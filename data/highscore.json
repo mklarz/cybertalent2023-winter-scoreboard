@@ -169,6 +169,14 @@
     },
     {
         "position": 22,
+        "user_id": "dc6427044437cf5e94721f1b77e873ff",
+        "name": "tohjernecellerienfrakk",
+        "points": 200,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 23,
         "user_id": "2168ee062d4cb40a8e4c9d8df6a1162d",
         "name": "LilliePlant",
         "points": 190,
@@ -176,17 +184,9 @@
         "special_user": false
     },
     {
-        "position": 23,
+        "position": 24,
         "user_id": "a20193ef5a572699a80737518a25e1d8",
         "name": "GRIM SLASK",
-        "points": 190,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 24,
-        "user_id": "dc6427044437cf5e94721f1b77e873ff",
-        "name": "tohjernecellerienfrakk",
         "points": 190,
         "stars": 0,
         "special_user": false
@@ -641,6 +641,14 @@
     },
     {
         "position": 81,
+        "user_id": "5b5a82c5d07ed20a08091870add8f63e",
+        "name": "sxh",
+        "points": 150,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 82,
         "user_id": "419d747ee067d94dc055c64f63b46af8",
         "name": "P\u00c6KKM\u00c6N",
         "points": 140,
@@ -648,17 +656,9 @@
         "special_user": false
     },
     {
-        "position": 82,
+        "position": 83,
         "user_id": "a5fb367b71913ec89088aa5bbc093018",
         "name": "KREVENDE FRAGLE",
-        "points": 140,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 83,
-        "user_id": "5b5a82c5d07ed20a08091870add8f63e",
-        "name": "sxh",
         "points": 140,
         "stars": 0,
         "special_user": false
