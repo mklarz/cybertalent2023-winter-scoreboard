@@ -4,6 +4,7 @@
     "name": "roys",
     "points": 90,
     "stars": 0,
+    "special_user": false,
     "categories": {
         "1. Grunnleggende": 12,
         "2. Initiell aksess": 100,

@@ -4,6 +4,7 @@
     "name": "NYSGJERRIG ARTIST",
     "points": 40,
     "stars": 0,
+    "special_user": true,
     "categories": {
         "1. Grunnleggende": 0,
         "2. Initiell aksess": 67,

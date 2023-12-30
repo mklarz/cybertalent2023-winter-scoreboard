@@ -4,6 +4,7 @@
     "name": "SKARP GUD",
     "points": 40,
     "stars": 0,
+    "special_user": false,
     "categories": {
         "1. Grunnleggende": 50,
         "2. Initiell aksess": 0,

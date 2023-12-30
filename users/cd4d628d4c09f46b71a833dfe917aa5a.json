@@ -4,6 +4,7 @@
     "name": "NERDETE CRACKER",
     "points": 70,
     "stars": 0,
+    "special_user": false,
     "categories": {
         "1. Grunnleggende": 0,
         "2. Initiell aksess": 100,

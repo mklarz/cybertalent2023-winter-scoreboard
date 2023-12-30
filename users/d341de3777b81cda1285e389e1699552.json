@@ -4,6 +4,7 @@
     "name": "ANBEFALT KODEKNEKKER",
     "points": 50,
     "stars": 0,
+    "special_user": false,
     "categories": {
         "1. Grunnleggende": 62,
         "2. Initiell aksess": 0,

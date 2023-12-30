@@ -4,6 +4,7 @@
     "name": "INNBITT DRAPER",
     "points": 130,
     "stars": 0,
+    "special_user": false,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Initiell aksess": 50,
