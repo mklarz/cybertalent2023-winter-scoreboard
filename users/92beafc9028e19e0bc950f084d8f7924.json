@@ -1,8 +1,8 @@
 {
-    "position": 13,
+    "position": 12,
     "user_id": "92beafc9028e19e0bc950f084d8f7924",
     "name": "GAMMEL KODER",
-    "points": 210,
+    "points": 220,
     "stars": 0,
     "categories": {
         "1. Grunnleggende": 100,
@@ -12,7 +12,7 @@
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
         "2.5. Department of Security": 100,
-        "2.6. Department of Technology": 0,
+        "2.6. Department of Technology": 25,
         "2.7. Department of Nuclear Power": 0,
         "4. Skjulte flagg": 0
     }
