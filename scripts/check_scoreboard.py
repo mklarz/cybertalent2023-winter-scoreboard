@@ -22,6 +22,33 @@ DATA_PATH = BASE_PATH + "/data/"
 USERS_PATH = BASE_PATH + "/users/"
 USER_JSON_PATH = USERS_PATH + "{}.json"
 
+SPECIAL_USERS = [
+    "36a5dd7e4d99d696e4a7765ffb420482",  # Test-bruker i DEV
+    "dd3d1cc3c573cd913b02531de9a07c98",
+    "3dce82b5e687850dcc8e59fc1d507dc0",
+    "a77a404b56b47d022cbf323d0bd5eda9",
+    "2e5f0489b4f1381860f7fa7811456ff9",
+    "93a2efbfcbfb69b9dbc74cde1843e3db",
+    "21109aff9ec3784f59c57ed31af7597d",
+    "2eb1f2f639ec87df7b36990ee3aed26a",
+    "f25edc89f9da0ecbe7e44ff7f8da2967",
+    "8d9a24baeb623fa0aab97414534ec989",
+    "c809c0ef64eb96ea7c8c3d8d4b3f895f",
+    "55a422e5fe76c58e15f570b987f323c3",
+    "0edb16a55103435d4c353f1305831c13",
+    "d0b63ae2dfd2034d63f3a2566e80317c",
+    "afb21934fa59f793b261a4cb74537498",
+    "c74cd99f9715ddbef36d6774564eca90",
+    "a75faac06c31df35c59f6748ef1455e1",
+    "f568066a74037ff82e524b357931ef03",
+    "b9b5d06255789207896ecae669e7b727",
+    "c7cf244d092b2d711dc5ffb9bc4ede64",
+    "f1d7eb2877eb01ef3aa286e01659d942",
+    "8eef70de191f013e0b06378e384ec1ba",
+    "808c3bce60a5bfdd8a4e6b40a5405994",
+    "986ae44a1c174512fdd54022079ce95e"
+]
+
 existing_users = [user_file.replace(USERS_PATH, "").replace(".json", "") for user_file in glob.glob(USER_JSON_PATH.format("*"))]
 
 retries = Retry(
@@ -55,6 +82,7 @@ def handle_user(user_id, user=None):
             "name": soup.find("h1").text.strip(),
             "points": int(soup.find("h2").text.strip().replace(" poeng", "")),
             "stars": 0,
+            "special_user": user_id in SPECIAL_USERS,
         }
 
     # Let's add their current solves
@@ -87,6 +115,7 @@ for position, li in enumerate(soup.find("ol", class_="liste").find_all("li")):
         "name": username,
         "points": int(points),
         "stars": stars,
+        "special_user": user_id in SPECIAL_USERS,
     }
     highscore.append(user)
     highscore_users.add(user_id)
@@ -99,6 +128,12 @@ for user_id in existing_users:
     if user_id in highscore_users:
         continue
     # We now have an user that is not in the top 100 anymore, let's track them by grabbing them directly
+    handle_user(user_id)
+
+for user_id in SPECIAL_USERS:
+    if user_id in highscore_users:
+        continue
+    # Handle special users
     handle_user(user_id)
 
 

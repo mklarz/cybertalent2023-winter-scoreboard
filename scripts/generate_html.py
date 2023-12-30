@@ -49,9 +49,12 @@ for user_id in USERS:
     with open(USER_JSON_PATH.format(user_id)) as fd:
         user_data = json.load(fd)
         all_users.append(user_data)
+
+    name = bleach.clean(user_data["name"])
+    if "special_user" in user_data and user_data["special_user"]:
+        name = f"🕵️ {name}"
     
     position_str = "{}. plass".format(user_data["position"]) if user_data["position"] else "Ukjent plassering"
-
     user_html = user_template
     user_html = user_html.replace("{USER_NAME}", bleach.clean(user_data["name"]))
     user_html = user_html.replace("{USER_POINTS}", str(user_data["points"]))
@@ -74,9 +77,12 @@ with open(HIGHSCORE_JSON_PATH) as f:
     highscore_users_html = ""
     highscore = json.load(f)
     for user in highscore:
+        name = bleach.clean(user["name"])
+        if "special_user" in user and user["special_user"]:
+            name = f"🕵️ {name}"
         highscore_users_html += HIGHSCORE_LIST_ITEM_HTML_FORMAT.format(
                 user["user_id"],
-                bleach.clean(user["name"]),
+                name,
                 user["points"],
                 user["stars"] * STAR_IMAGE_HTML,
         )
@@ -85,9 +91,12 @@ with open(HIGHSCORE_JSON_PATH) as f:
     # Add the remaining users with unknown positions
     all_users = sorted(all_users, key=lambda d: d["points"], reverse=True)
     for user in all_users:
+        name = bleach.clean(user["name"])
+        if "special_user" in user and user["special_user"]:
+            name = f"🕵️ {name}"
         highscore_users_html += HIGHSCORE_LIST_ITEM_UNKNOWN_HTML_FORMAT.format(
                 user["user_id"],
-                bleach.clean(user["name"]),
+                name,
                 user["points"],
                 user["stars"] * STAR_IMAGE_HTML,
         )
