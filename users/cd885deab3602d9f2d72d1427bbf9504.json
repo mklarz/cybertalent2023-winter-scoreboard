@@ -1,14 +1,14 @@
 {
-    "position": 82,
+    "position": 80,
     "user_id": "cd885deab3602d9f2d72d1427bbf9504",
     "name": "th0m45",
-    "points": 140,
+    "points": 150,
     "stars": 0,
     "special_user": false,
     "categories": {
         "1. Grunnleggende": 88,
         "2. Initiell aksess": 100,
-        "2.1. Department of Development and Test": 0,
+        "2.1. Department of Development and Test": 14,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
