@@ -56,7 +56,7 @@ for user_id in USERS:
     
     position_str = "{}. plass".format(user_data["position"]) if user_data["position"] else "Ukjent plassering"
     user_html = user_template
-    user_html = user_html.replace("{USER_NAME}", bleach.clean(user_data["name"]))
+    user_html = user_html.replace("{USER_NAME}", name)
     user_html = user_html.replace("{USER_POINTS}", str(user_data["points"]))
     user_html = user_html.replace("{USER_POSITION}", position_str)
     user_html = user_html.replace("{USER_STARS}", user_data["stars"] * STAR_USER_IMAGE_HTML)
