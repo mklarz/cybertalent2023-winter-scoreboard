@@ -89,6 +89,14 @@
     },
     {
         "position": 12,
+        "user_id": "acc47f3a2d23f25a8ef01167542b44db",
+        "name": "s1",
+        "points": 220,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 13,
         "user_id": "92beafc9028e19e0bc950f084d8f7924",
         "name": "GAMMEL KODER",
         "points": 220,
@@ -96,17 +104,9 @@
         "special_user": false
     },
     {
-        "position": 13,
+        "position": 14,
         "user_id": "62fcf3b8b011b06ad5c81c66c9a5ccbf",
         "name": "MrFreddi007",
-        "points": 210,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 14,
-        "user_id": "acc47f3a2d23f25a8ef01167542b44db",
-        "name": "s1",
         "points": 210,
         "stars": 0,
         "special_user": false
