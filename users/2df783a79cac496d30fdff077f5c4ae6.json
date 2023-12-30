@@ -2,11 +2,11 @@
     "position": null,
     "user_id": "2df783a79cac496d30fdff077f5c4ae6",
     "name": "roys",
-    "points": 90,
+    "points": 100,
     "stars": 0,
     "special_user": false,
     "categories": {
-        "1. Grunnleggende": 12,
+        "1. Grunnleggende": 25,
         "2. Initiell aksess": 100,
         "2.1. Department of Development and Test": 14,
         "2.2. Department of Cryptography": 0,
