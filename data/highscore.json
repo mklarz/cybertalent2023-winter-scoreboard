@@ -561,22 +561,22 @@
     },
     {
         "position": 81,
+        "user_id": "c12989d46316062c0898e65df8cb226e",
+        "name": "wuurrd",
+        "points": 140,
+        "stars": 0
+    },
+    {
+        "position": 82,
         "user_id": "f0fde2b7670b1e0c51698b9909dd20ca",
         "name": "INNBITT DRAPER",
         "points": 130,
         "stars": 0
     },
     {
-        "position": 82,
+        "position": 83,
         "user_id": "bd6dd132e52bf0917f767e3dcaba3afa",
         "name": "tbi",
-        "points": 130,
-        "stars": 0
-    },
-    {
-        "position": 83,
-        "user_id": "c12989d46316062c0898e65df8cb226e",
-        "name": "wuurrd",
         "points": 130,
         "stars": 0
     },
