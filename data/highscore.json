@@ -105,6 +105,14 @@
     },
     {
         "position": 14,
+        "user_id": "dc6427044437cf5e94721f1b77e873ff",
+        "name": "tohjernecellerienfrakk",
+        "points": 220,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 15,
         "user_id": "62fcf3b8b011b06ad5c81c66c9a5ccbf",
         "name": "MrFreddi007",
         "points": 210,
@@ -112,7 +120,7 @@
         "special_user": false
     },
     {
-        "position": 15,
+        "position": 16,
         "user_id": "4fc0486fa3299de7357da60c492a5fcd",
         "name": "Carixo",
         "points": 200,
@@ -120,7 +128,7 @@
         "special_user": false
     },
     {
-        "position": 16,
+        "position": 17,
         "user_id": "c809c0ef64eb96ea7c8c3d8d4b3f895f",
         "name": "KREVENDE CYBERHELT",
         "points": 200,
@@ -128,7 +136,7 @@
         "special_user": true
     },
     {
-        "position": 17,
+        "position": 18,
         "user_id": "2b5591795899026997c146ca26ebe258",
         "name": "GRIM MITNICK",
         "points": 200,
@@ -136,7 +144,7 @@
         "special_user": false
     },
     {
-        "position": 18,
+        "position": 19,
         "user_id": "814e0bbca0a2af2742c79a40f6d97ca4",
         "name": "varcella",
         "points": 200,
@@ -144,7 +152,7 @@
         "special_user": false
     },
     {
-        "position": 19,
+        "position": 20,
         "user_id": "44b6d433a51cc799eeae0f0c8606945b",
         "name": "Qtie",
         "points": 200,
@@ -152,7 +160,7 @@
         "special_user": false
     },
     {
-        "position": 20,
+        "position": 21,
         "user_id": "e9e09028963a71235ecc3cecf2683dcd",
         "name": "SLAPP SKATTEFLYKTNING",
         "points": 200,
@@ -160,17 +168,9 @@
         "special_user": false
     },
     {
-        "position": 21,
+        "position": 22,
         "user_id": "92183a6aa137f3f9e22c92d1b6d7fdd4",
         "name": "SurBacon",
-        "points": 200,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 22,
-        "user_id": "dc6427044437cf5e94721f1b77e873ff",
-        "name": "tohjernecellerienfrakk",
         "points": 200,
         "stars": 0,
         "special_user": false
