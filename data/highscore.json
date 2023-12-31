@@ -41,6 +41,14 @@
     },
     {
         "position": 6,
+        "user_id": "67fefbfedd4f6eb32aff49bc93784ecf",
+        "name": "MOTIVERT ARTIST",
+        "points": 270,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 7,
         "user_id": "e278db9bf3b5f3d2f20384014d131e5c",
         "name": "Vealending",
         "points": 260,
@@ -48,17 +56,9 @@
         "special_user": false
     },
     {
-        "position": 7,
+        "position": 8,
         "user_id": "55be5c773bd7ce4661c814c39cb873d7",
         "name": "nicw",
-        "points": 260,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 8,
-        "user_id": "67fefbfedd4f6eb32aff49bc93784ecf",
-        "name": "MOTIVERT ARTIST",
         "points": 260,
         "stars": 0,
         "special_user": false
