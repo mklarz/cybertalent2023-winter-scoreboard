@@ -673,6 +673,14 @@
     },
     {
         "position": 85,
+        "user_id": "33fdd40fb6b79bf5838db5e12bcc8129",
+        "name": "fslaktern-2",
+        "points": 130,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 86,
         "user_id": "bd6dd132e52bf0917f767e3dcaba3afa",
         "name": "tbi",
         "points": 130,
@@ -680,17 +688,9 @@
         "special_user": false
     },
     {
-        "position": 86,
+        "position": 87,
         "user_id": "1b712092ab585863ac8cb53679203dc8",
         "name": "ARBEIDSOM PROGRAMMERER",
-        "points": 120,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 87,
-        "user_id": "33fdd40fb6b79bf5838db5e12bcc8129",
-        "name": "fslaktern-2",
         "points": 120,
         "stars": 0,
         "special_user": false
