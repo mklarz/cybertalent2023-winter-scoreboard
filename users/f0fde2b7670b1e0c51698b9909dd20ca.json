@@ -1,13 +1,13 @@
 {
-    "position": 84,
+    "position": 83,
     "user_id": "f0fde2b7670b1e0c51698b9909dd20ca",
     "name": "INNBITT DRAPER",
-    "points": 130,
+    "points": 140,
     "stars": 0,
     "special_user": false,
     "categories": {
         "1. Grunnleggende": 100,
-        "2. Initiell aksess": 50,
+        "2. Initiell aksess": 67,
         "2.1. Department of Development and Test": 14,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
