@@ -1,8 +1,8 @@
 {
-    "position": 8,
+    "position": 7,
     "user_id": "e278db9bf3b5f3d2f20384014d131e5c",
     "name": "Vealending",
-    "points": 260,
+    "points": 270,
     "stars": 0,
     "special_user": false,
     "categories": {
@@ -13,7 +13,7 @@
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
         "2.5. Department of Security": 100,
-        "2.6. Department of Technology": 25,
+        "2.6. Department of Technology": 50,
         "2.7. Department of Nuclear Power": 20,
         "4. Skjulte flagg": 100
     }
