@@ -657,6 +657,14 @@
     },
     {
         "position": 83,
+        "user_id": "fc15f6c83172f7684517f963cda4d584",
+        "name": "teecee",
+        "points": 150,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 84,
         "user_id": "419d747ee067d94dc055c64f63b46af8",
         "name": "P\u00c6KKM\u00c6N",
         "points": 140,
@@ -664,7 +672,7 @@
         "special_user": false
     },
     {
-        "position": 84,
+        "position": 85,
         "user_id": "f0fde2b7670b1e0c51698b9909dd20ca",
         "name": "INNBITT DRAPER",
         "points": 140,
@@ -672,17 +680,9 @@
         "special_user": false
     },
     {
-        "position": 85,
+        "position": 86,
         "user_id": "a5fb367b71913ec89088aa5bbc093018",
         "name": "KREVENDE FRAGLE",
-        "points": 140,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 86,
-        "user_id": "fc15f6c83172f7684517f963cda4d584",
-        "name": "teecee",
         "points": 140,
         "stars": 0,
         "special_user": false
