@@ -705,6 +705,14 @@
     },
     {
         "position": 89,
+        "user_id": "c4f504d973ef98bc9a3e4539cf5ffaee",
+        "name": "alpaca",
+        "points": 140,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 90,
         "user_id": "57e60c5f6363023cb951e4c20eaa53be",
         "name": "brage",
         "points": 130,
@@ -712,17 +720,9 @@
         "special_user": false
     },
     {
-        "position": 90,
+        "position": 91,
         "user_id": "bd6dd132e52bf0917f767e3dcaba3afa",
         "name": "tbi",
-        "points": 130,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 91,
-        "user_id": "c4f504d973ef98bc9a3e4539cf5ffaee",
-        "name": "alpaca",
         "points": 130,
         "stars": 0,
         "special_user": false
