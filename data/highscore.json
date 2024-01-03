@@ -121,6 +121,14 @@
     },
     {
         "position": 16,
+        "user_id": "2b5591795899026997c146ca26ebe258",
+        "name": "GRIM MITNICK",
+        "points": 220,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 17,
         "user_id": "92beafc9028e19e0bc950f084d8f7924",
         "name": "GAMMEL KODER",
         "points": 220,
@@ -128,17 +136,9 @@
         "special_user": false
     },
     {
-        "position": 17,
+        "position": 18,
         "user_id": "62fcf3b8b011b06ad5c81c66c9a5ccbf",
         "name": "MrFreddi007",
-        "points": 210,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 18,
-        "user_id": "2b5591795899026997c146ca26ebe258",
-        "name": "GRIM MITNICK",
         "points": 210,
         "stars": 0,
         "special_user": false
