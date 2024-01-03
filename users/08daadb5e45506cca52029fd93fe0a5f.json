@@ -1,5 +1,5 @@
 {
-    "position": 59,
+    "position": 56,
     "user_id": "08daadb5e45506cca52029fd93fe0a5f",
     "name": "PhonePhreak",
     "points": 160,
@@ -15,6 +15,6 @@
         "2.5. Department of Security": 33,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 100
     }
 }
