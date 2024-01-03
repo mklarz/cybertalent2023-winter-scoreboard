@@ -297,6 +297,14 @@
     },
     {
         "position": 38,
+        "user_id": "fb979625742993fc669cd588b7df5c65",
+        "name": "Joe the Legal Weasel",
+        "points": 170,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 39,
         "user_id": "b8ffb7a7fa51e530158b6015294fd0fe",
         "name": "ARTISTISK SPION",
         "points": 170,
@@ -304,7 +312,7 @@
         "special_user": false
     },
     {
-        "position": 39,
+        "position": 40,
         "user_id": "17f5b9312d57cce2e68cc924597c30fe",
         "name": "an-obsequious-servant",
         "points": 170,
@@ -312,7 +320,7 @@
         "special_user": false
     },
     {
-        "position": 40,
+        "position": 41,
         "user_id": "2c200fd245890d3ac7df0f9958800709",
         "name": "KOKETT KODER",
         "points": 160,
@@ -320,17 +328,9 @@
         "special_user": false
     },
     {
-        "position": 41,
+        "position": 42,
         "user_id": "5ff34a03cf27e1cc099dd5dfee7ba64b",
         "name": "KRAMPEAKTIG GEEK",
-        "points": 160,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 42,
-        "user_id": "fb979625742993fc669cd588b7df5c65",
-        "name": "Joe the Legal Weasel",
         "points": 160,
         "stars": 0,
         "special_user": false
