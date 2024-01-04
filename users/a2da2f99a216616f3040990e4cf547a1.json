@@ -1,13 +1,13 @@
 {
-    "position": 95,
+    "position": 93,
     "user_id": "a2da2f99a216616f3040990e4cf547a1",
     "name": "vesen",
-    "points": 130,
+    "points": 140,
     "stars": 0,
     "special_user": false,
     "categories": {
         "1. Grunnleggende": 88,
-        "2. Initiell aksess": 83,
+        "2. Initiell aksess": 100,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
