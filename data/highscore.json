@@ -153,6 +153,14 @@
     },
     {
         "position": 20,
+        "user_id": "c12989d46316062c0898e65df8cb226e",
+        "name": "wuurrd",
+        "points": 210,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 21,
         "user_id": "4fc0486fa3299de7357da60c492a5fcd",
         "name": "Carixo",
         "points": 200,
@@ -160,7 +168,7 @@
         "special_user": false
     },
     {
-        "position": 21,
+        "position": 22,
         "user_id": "c809c0ef64eb96ea7c8c3d8d4b3f895f",
         "name": "KREVENDE CYBERHELT",
         "points": 200,
@@ -168,7 +176,7 @@
         "special_user": true
     },
     {
-        "position": 22,
+        "position": 23,
         "user_id": "814e0bbca0a2af2742c79a40f6d97ca4",
         "name": "varcella",
         "points": 200,
@@ -176,7 +184,7 @@
         "special_user": false
     },
     {
-        "position": 23,
+        "position": 24,
         "user_id": "e9e09028963a71235ecc3cecf2683dcd",
         "name": "SLAPP SKATTEFLYKTNING",
         "points": 200,
@@ -184,17 +192,9 @@
         "special_user": false
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "92183a6aa137f3f9e22c92d1b6d7fdd4",
         "name": "SurBacon",
-        "points": 200,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 25,
-        "user_id": "c12989d46316062c0898e65df8cb226e",
-        "name": "wuurrd",
         "points": 200,
         "stars": 0,
         "special_user": false
