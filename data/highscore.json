@@ -97,16 +97,16 @@
     },
     {
         "position": 13,
-        "user_id": "2b5591795899026997c146ca26ebe258",
-        "name": "GRIM MITNICK",
-        "points": 230,
+        "user_id": "dc6427044437cf5e94721f1b77e873ff",
+        "name": "tohjernecellerienfrakk",
+        "points": 240,
         "stars": 0,
         "special_user": false
     },
     {
         "position": 14,
-        "user_id": "dc6427044437cf5e94721f1b77e873ff",
-        "name": "tohjernecellerienfrakk",
+        "user_id": "2b5591795899026997c146ca26ebe258",
+        "name": "GRIM MITNICK",
         "points": 230,
         "stars": 0,
         "special_user": false
@@ -561,6 +561,14 @@
     },
     {
         "position": 71,
+        "user_id": "7c61e3534b1d1135844d8e1d65c2f949",
+        "name": "Mattress",
+        "points": 160,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 72,
         "user_id": "14bf4cf2d9e7643ae816a1f12d243cf6",
         "name": "magnus",
         "points": 150,
@@ -568,7 +576,7 @@
         "special_user": false
     },
     {
-        "position": 72,
+        "position": 73,
         "user_id": "0fba2e0d42b78788885e849f0f1c7647",
         "name": "larsw",
         "points": 150,
@@ -576,7 +584,7 @@
         "special_user": false
     },
     {
-        "position": 73,
+        "position": 74,
         "user_id": "467306aa74abbdfc31ca72f24503c448",
         "name": "sakarl",
         "points": 150,
@@ -584,7 +592,7 @@
         "special_user": false
     },
     {
-        "position": 74,
+        "position": 75,
         "user_id": "bddda999f79f351773ba4f8e3d061fb4",
         "name": "BEBRILLET NERD",
         "points": 150,
@@ -592,7 +600,7 @@
         "special_user": false
     },
     {
-        "position": 75,
+        "position": 76,
         "user_id": "29469cc9a90e6af7eef3a157a48beddf",
         "name": "solver",
         "points": 150,
@@ -600,7 +608,7 @@
         "special_user": false
     },
     {
-        "position": 76,
+        "position": 77,
         "user_id": "b16d8afb102901c24c886c5e13da8cda",
         "name": "KREATIV DRAPER",
         "points": 150,
@@ -608,7 +616,7 @@
         "special_user": false
     },
     {
-        "position": 77,
+        "position": 78,
         "user_id": "36faa0b37b11696dc92b27f89c25e430",
         "name": "Gress",
         "points": 150,
@@ -616,7 +624,7 @@
         "special_user": false
     },
     {
-        "position": 78,
+        "position": 79,
         "user_id": "0f5862a9c2029e659036519e9f3f4b50",
         "name": "KUNNSKAPSRIK PROGRAMMERER",
         "points": 150,
@@ -624,7 +632,7 @@
         "special_user": false
     },
     {
-        "position": 79,
+        "position": 80,
         "user_id": "9f60d390502a6aa0575b36a58b4d35f2",
         "name": "INNBITT CRACKER",
         "points": 150,
@@ -632,7 +640,7 @@
         "special_user": false
     },
     {
-        "position": 80,
+        "position": 81,
         "user_id": "0c20133aacd231bced3456008688e591",
         "name": "SVAK HACKER",
         "points": 150,
@@ -640,7 +648,7 @@
         "special_user": false
     },
     {
-        "position": 81,
+        "position": 82,
         "user_id": "15781e198bf31809f8321d3b9e8b1685",
         "name": "TGC",
         "points": 150,
@@ -648,7 +656,7 @@
         "special_user": false
     },
     {
-        "position": 82,
+        "position": 83,
         "user_id": "ecdde01a6d6018c52377a86a975e6d5f",
         "name": "AsianAceV2",
         "points": 150,
@@ -656,7 +664,7 @@
         "special_user": false
     },
     {
-        "position": 83,
+        "position": 84,
         "user_id": "8ec250f20e5551950e75d59c892da200",
         "name": "n0k0",
         "points": 150,
@@ -664,7 +672,7 @@
         "special_user": false
     },
     {
-        "position": 84,
+        "position": 85,
         "user_id": "cd885deab3602d9f2d72d1427bbf9504",
         "name": "th0m45",
         "points": 150,
@@ -672,7 +680,7 @@
         "special_user": false
     },
     {
-        "position": 85,
+        "position": 86,
         "user_id": "fc15f6c83172f7684517f963cda4d584",
         "name": "teecee",
         "points": 150,
@@ -680,7 +688,7 @@
         "special_user": false
     },
     {
-        "position": 86,
+        "position": 87,
         "user_id": "a5fb367b71913ec89088aa5bbc093018",
         "name": "KREVENDE FRAGLE",
         "points": 150,
@@ -688,17 +696,9 @@
         "special_user": false
     },
     {
-        "position": 87,
+        "position": 88,
         "user_id": "c4f504d973ef98bc9a3e4539cf5ffaee",
         "name": "alpaca",
-        "points": 150,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 88,
-        "user_id": "7c61e3534b1d1135844d8e1d65c2f949",
-        "name": "Mattress",
         "points": 150,
         "stars": 0,
         "special_user": false
@@ -761,6 +761,14 @@
     },
     {
         "position": 96,
+        "user_id": "afa97f8fa96bfbafe572f32263634334",
+        "name": "4LT3R 3GO",
+        "points": 130,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 97,
         "user_id": "1b712092ab585863ac8cb53679203dc8",
         "name": "ARBEIDSOM PROGRAMMERER",
         "points": 120,
@@ -768,7 +776,7 @@
         "special_user": false
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "bbfd279191b960d038167d7dd5ddaedf",
         "name": "';drop table scoreboard;--",
         "points": 120,
@@ -776,7 +784,7 @@
         "special_user": false
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "7c5850926cef4c898d39cb81fd749fa4",
         "name": "__hackhawk",
         "points": 120,
@@ -784,17 +792,9 @@
         "special_user": false
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "92633fa9309e20159b0953f32ec4a2f1",
         "name": "Joa",
-        "points": 120,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 100,
-        "user_id": "2c1c2b10f90abc8c818321ebe4d55876",
-        "name": "TAFATT NOOB",
         "points": 120,
         "stars": 0,
         "special_user": false
