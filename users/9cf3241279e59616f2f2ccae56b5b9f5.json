@@ -1,8 +1,8 @@
 {
-    "position": 34,
+    "position": 22,
     "user_id": "9cf3241279e59616f2f2ccae56b5b9f5",
     "name": "bop",
-    "points": 180,
+    "points": 210,
     "stars": 0,
     "special_user": false,
     "categories": {
@@ -11,7 +11,7 @@
         "2.1. Department of Development and Test": 14,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
-        "2.4. Department of Intelligence": 0,
+        "2.4. Department of Intelligence": 43,
         "2.5. Department of Security": 100,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
