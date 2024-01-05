@@ -1,14 +1,14 @@
 {
-    "position": 48,
+    "position": 42,
     "user_id": "c4f504d973ef98bc9a3e4539cf5ffaee",
     "name": "alpaca",
-    "points": 170,
+    "points": 180,
     "stars": 0,
     "special_user": false,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Initiell aksess": 100,
-        "2.1. Department of Development and Test": 43,
+        "2.1. Department of Development and Test": 57,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
