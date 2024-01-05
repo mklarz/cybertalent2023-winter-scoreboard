@@ -1,5 +1,5 @@
 {
-    "position": 44,
+    "position": 41,
     "user_id": "d4f1031cb2a9df1360122b2865a7ef4f",
     "name": "STERK SCHNEIER",
     "points": 180,
@@ -15,6 +15,6 @@
         "2.5. Department of Security": 33,
         "2.6. Department of Technology": 25,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 100
     }
 }
