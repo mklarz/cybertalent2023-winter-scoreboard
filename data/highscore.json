@@ -97,6 +97,14 @@
     },
     {
         "position": 13,
+        "user_id": "44b6d433a51cc799eeae0f0c8606945b",
+        "name": "Qtie",
+        "points": 240,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 14,
         "user_id": "dc6427044437cf5e94721f1b77e873ff",
         "name": "tohjernecellerienfrakk",
         "points": 240,
@@ -104,17 +112,9 @@
         "special_user": false
     },
     {
-        "position": 14,
+        "position": 15,
         "user_id": "2b5591795899026997c146ca26ebe258",
         "name": "GRIM MITNICK",
-        "points": 230,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 15,
-        "user_id": "44b6d433a51cc799eeae0f0c8606945b",
-        "name": "Qtie",
         "points": 230,
         "stars": 0,
         "special_user": false
@@ -137,6 +137,14 @@
     },
     {
         "position": 18,
+        "user_id": "9cf3241279e59616f2f2ccae56b5b9f5",
+        "name": "bop",
+        "points": 220,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 19,
         "user_id": "92beafc9028e19e0bc950f084d8f7924",
         "name": "GAMMEL KODER",
         "points": 220,
@@ -144,7 +152,7 @@
         "special_user": false
     },
     {
-        "position": 19,
+        "position": 20,
         "user_id": "3011801854af701c604870882956f819",
         "name": "bob",
         "points": 220,
@@ -152,7 +160,7 @@
         "special_user": false
     },
     {
-        "position": 20,
+        "position": 21,
         "user_id": "62fcf3b8b011b06ad5c81c66c9a5ccbf",
         "name": "MrFreddi007",
         "points": 210,
@@ -160,17 +168,9 @@
         "special_user": false
     },
     {
-        "position": 21,
+        "position": 22,
         "user_id": "08daadb5e45506cca52029fd93fe0a5f",
         "name": "PhonePhreak",
-        "points": 210,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 22,
-        "user_id": "9cf3241279e59616f2f2ccae56b5b9f5",
-        "name": "bop",
         "points": 210,
         "stars": 0,
         "special_user": false
