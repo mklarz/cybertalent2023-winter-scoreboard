@@ -2,7 +2,7 @@
     "position": 2,
     "user_id": "88bbb4737cf4b6f486bcb3cf61993fe6",
     "name": "sofa_solver",
-    "points": 390,
+    "points": 400,
     "stars": 0,
     "special_user": false,
     "categories": {
@@ -14,7 +14,7 @@
         "2.4. Department of Intelligence": 100,
         "2.5. Department of Security": 100,
         "2.6. Department of Technology": 100,
-        "2.7. Department of Nuclear Power": 60,
+        "2.7. Department of Nuclear Power": 80,
         "4. Skjulte flagg": 0
     }
 }

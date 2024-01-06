@@ -11,7 +11,7 @@
         "position": 2,
         "user_id": "88bbb4737cf4b6f486bcb3cf61993fe6",
         "name": "sofa_solver",
-        "points": 390,
+        "points": 400,
         "stars": 0,
         "special_user": false
     },
@@ -777,6 +777,14 @@
     },
     {
         "position": 98,
+        "user_id": "abb24902daaf1026a2f0d3afb5838d7e",
+        "name": "ARBEIDSLEDIG GUD",
+        "points": 130,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 99,
         "user_id": "1b712092ab585863ac8cb53679203dc8",
         "name": "ARBEIDSOM PROGRAMMERER",
         "points": 120,
@@ -784,17 +792,9 @@
         "special_user": false
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "bbfd279191b960d038167d7dd5ddaedf",
         "name": "';drop table scoreboard;--",
-        "points": 120,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 100,
-        "user_id": "7c5850926cef4c898d39cb81fd749fa4",
-        "name": "__hackhawk",
         "points": 120,
         "stars": 0,
         "special_user": false

@@ -1,20 +1,20 @@
 {
-    "position": null,
-    "user_id": "7c5850926cef4c898d39cb81fd749fa4",
-    "name": "__hackhawk",
-    "points": 120,
+    "position": 98,
+    "user_id": "abb24902daaf1026a2f0d3afb5838d7e",
+    "name": "ARBEIDSLEDIG GUD",
+    "points": 130,
     "stars": 0,
     "special_user": false,
     "categories": {
-        "1. Grunnleggende": 100,
-        "2. Initiell aksess": 67,
+        "1. Grunnleggende": 88,
+        "2. Initiell aksess": 83,
         "2.1. Department of Development and Test": 0,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
-        "2.5. Department of Security": 0,
+        "2.5. Department of Security": 33,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 100
+        "4. Skjulte flagg": 0
     }
 }
