@@ -1,5 +1,5 @@
 {
-    "position": 74,
+    "position": 65,
     "user_id": "7c61e3534b1d1135844d8e1d65c2f949",
     "name": "Mattress",
     "points": 160,
@@ -15,6 +15,6 @@
         "2.5. Department of Security": 33,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 100
     }
 }

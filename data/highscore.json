@@ -513,6 +513,14 @@
     },
     {
         "position": 65,
+        "user_id": "7c61e3534b1d1135844d8e1d65c2f949",
+        "name": "Mattress",
+        "points": 160,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 66,
         "user_id": "b80ae9b40e2f863c0e44d064d310be29",
         "name": "SKARP SNOK",
         "points": 160,
@@ -520,7 +528,7 @@
         "special_user": false
     },
     {
-        "position": 66,
+        "position": 67,
         "user_id": "49957df84e8014198338f331948fb0a9",
         "name": "mstg",
         "points": 160,
@@ -528,7 +536,7 @@
         "special_user": false
     },
     {
-        "position": 67,
+        "position": 68,
         "user_id": "1d8fb9a60d73f22889b6fa1fe059da50",
         "name": "mhovd",
         "points": 160,
@@ -536,7 +544,7 @@
         "special_user": false
     },
     {
-        "position": 68,
+        "position": 69,
         "user_id": "c22174bbf09dff100dc2e0ca752bc5ec",
         "name": "fantomet",
         "points": 160,
@@ -544,7 +552,7 @@
         "special_user": false
     },
     {
-        "position": 69,
+        "position": 70,
         "user_id": "8b3f502403dc840cc884b2448ab43041",
         "name": "ubot",
         "points": 160,
@@ -552,7 +560,7 @@
         "special_user": false
     },
     {
-        "position": 70,
+        "position": 71,
         "user_id": "70a5c9eb7d86f0ee301ba5b1fc33445b",
         "name": "FORULEMPET CYBERHELT",
         "points": 160,
@@ -560,7 +568,7 @@
         "special_user": false
     },
     {
-        "position": 71,
+        "position": 72,
         "user_id": "5b5a82c5d07ed20a08091870add8f63e",
         "name": "sxh",
         "points": 160,
@@ -568,7 +576,7 @@
         "special_user": false
     },
     {
-        "position": 72,
+        "position": 73,
         "user_id": "3d906ec8e80d5066a1eebdb97c75bc6c",
         "name": "telemetri",
         "points": 160,
@@ -576,17 +584,9 @@
         "special_user": false
     },
     {
-        "position": 73,
+        "position": 74,
         "user_id": "bd68da3cacdd31ddd55e229877c9e81e",
         "name": "memfrob",
-        "points": 160,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 74,
-        "user_id": "7c61e3534b1d1135844d8e1d65c2f949",
-        "name": "Mattress",
         "points": 160,
         "stars": 0,
         "special_user": false
