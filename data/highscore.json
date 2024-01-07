@@ -185,6 +185,14 @@
     },
     {
         "position": 24,
+        "user_id": "d4f1031cb2a9df1360122b2865a7ef4f",
+        "name": "STERK SCHNEIER",
+        "points": 210,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 25,
         "user_id": "c809c0ef64eb96ea7c8c3d8d4b3f895f",
         "name": "KREVENDE CYBERHELT",
         "points": 200,
@@ -192,17 +200,9 @@
         "special_user": true
     },
     {
-        "position": 25,
+        "position": 26,
         "user_id": "814e0bbca0a2af2742c79a40f6d97ca4",
         "name": "varcella",
-        "points": 200,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 26,
-        "user_id": "d4f1031cb2a9df1360122b2865a7ef4f",
-        "name": "STERK SCHNEIER",
         "points": 200,
         "stars": 0,
         "special_user": false
