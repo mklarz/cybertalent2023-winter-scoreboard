@@ -137,6 +137,14 @@
     },
     {
         "position": 18,
+        "user_id": "4fc0486fa3299de7357da60c492a5fcd",
+        "name": "Carixo",
+        "points": 230,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 19,
         "user_id": "3011801854af701c604870882956f819",
         "name": "bob",
         "points": 230,
@@ -144,17 +152,9 @@
         "special_user": false
     },
     {
-        "position": 19,
+        "position": 20,
         "user_id": "e47f8c105ce643d9118b0e45d1b5016e",
         "name": "DEDIKERT CYBERHELT",
-        "points": 220,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 20,
-        "user_id": "4fc0486fa3299de7357da60c492a5fcd",
-        "name": "Carixo",
         "points": 220,
         "stars": 0,
         "special_user": false
