@@ -1,8 +1,8 @@
 {
-    "position": 40,
+    "position": 35,
     "user_id": "2b3cd862c1795373112710dab3f9b532",
     "name": "Sithis",
-    "points": 180,
+    "points": 190,
     "stars": 0,
     "special_user": false,
     "categories": {
@@ -13,7 +13,7 @@
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 29,
         "2.5. Department of Security": 33,
-        "2.6. Department of Technology": 0,
+        "2.6. Department of Technology": 25,
         "2.7. Department of Nuclear Power": 0,
         "4. Skjulte flagg": 100
     }
