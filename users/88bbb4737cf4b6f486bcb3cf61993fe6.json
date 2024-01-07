@@ -1,15 +1,15 @@
 {
-    "position": 2,
+    "position": 1,
     "user_id": "88bbb4737cf4b6f486bcb3cf61993fe6",
     "name": "sofa_solver",
-    "points": 410,
+    "points": 420,
     "stars": 0,
     "special_user": false,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Initiell aksess": 100,
         "2.1. Department of Development and Test": 100,
-        "2.2. Department of Cryptography": 0,
+        "2.2. Department of Cryptography": 33,
         "2.3. Department of Research": 100,
         "2.4. Department of Intelligence": 100,
         "2.5. Department of Security": 100,
