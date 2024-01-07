@@ -81,6 +81,14 @@
     },
     {
         "position": 11,
+        "user_id": "dc6427044437cf5e94721f1b77e873ff",
+        "name": "tohjernecellerienfrakk",
+        "points": 260,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 12,
         "user_id": "000c2002a1da2e4800a63f2da716c2be",
         "name": "joshu",
         "points": 250,
@@ -88,7 +96,7 @@
         "special_user": false
     },
     {
-        "position": 12,
+        "position": 13,
         "user_id": "e5f56c75668ec1aa0f97fcaec8374935",
         "name": "Augustus",
         "points": 250,
@@ -96,17 +104,9 @@
         "special_user": false
     },
     {
-        "position": 13,
+        "position": 14,
         "user_id": "9cf3241279e59616f2f2ccae56b5b9f5",
         "name": "bop",
-        "points": 250,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 14,
-        "user_id": "dc6427044437cf5e94721f1b77e873ff",
-        "name": "tohjernecellerienfrakk",
         "points": 250,
         "stars": 0,
         "special_user": false
