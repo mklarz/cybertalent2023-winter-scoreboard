@@ -105,6 +105,14 @@
     },
     {
         "position": 14,
+        "user_id": "c12989d46316062c0898e65df8cb226e",
+        "name": "wuurrd",
+        "points": 260,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 15,
         "user_id": "000c2002a1da2e4800a63f2da716c2be",
         "name": "joshu",
         "points": 250,
@@ -112,17 +120,9 @@
         "special_user": false
     },
     {
-        "position": 15,
+        "position": 16,
         "user_id": "acc47f3a2d23f25a8ef01167542b44db",
         "name": "s1",
-        "points": 250,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 16,
-        "user_id": "c12989d46316062c0898e65df8cb226e",
-        "name": "wuurrd",
         "points": 250,
         "stars": 0,
         "special_user": false
