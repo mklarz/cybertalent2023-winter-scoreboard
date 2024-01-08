@@ -1,14 +1,14 @@
 {
-    "position": 78,
+    "position": 53,
     "user_id": "3aa7cb7f1ccda4a1b995ec4d9178061f",
     "name": "SUR FRAGLE",
-    "points": 160,
+    "points": 170,
     "stars": 0,
     "special_user": false,
     "categories": {
         "1. Grunnleggende": 88,
         "2. Initiell aksess": 100,
-        "2.1. Department of Development and Test": 0,
+        "2.1. Department of Development and Test": 14,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
