@@ -1,8 +1,8 @@
 {
-    "position": 96,
+    "position": 86,
     "user_id": "afa97f8fa96bfbafe572f32263634334",
     "name": "4LT3R 3GO",
-    "points": 140,
+    "points": 150,
     "stars": 0,
     "special_user": false,
     "categories": {
@@ -12,7 +12,7 @@
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
-        "2.5. Department of Security": 0,
+        "2.5. Department of Security": 33,
         "2.6. Department of Technology": 0,
         "2.7. Department of Nuclear Power": 0,
         "4. Skjulte flagg": 100
