@@ -17,6 +17,14 @@
     },
     {
         "position": 3,
+        "user_id": "e278db9bf3b5f3d2f20384014d131e5c",
+        "name": "Vealending",
+        "points": 330,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 4,
         "user_id": "2610cf05f75f1600a960b0436d1efaeb",
         "name": "jole",
         "points": 330,
@@ -24,17 +32,9 @@
         "special_user": false
     },
     {
-        "position": 4,
+        "position": 5,
         "user_id": "55be5c773bd7ce4661c814c39cb873d7",
         "name": "nicw",
-        "points": 300,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 5,
-        "user_id": "e278db9bf3b5f3d2f20384014d131e5c",
-        "name": "Vealending",
         "points": 300,
         "stars": 0,
         "special_user": false
