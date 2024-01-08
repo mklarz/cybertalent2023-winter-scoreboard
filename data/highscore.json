@@ -97,16 +97,16 @@
     },
     {
         "position": 13,
-        "user_id": "dc6427044437cf5e94721f1b77e873ff",
-        "name": "tohjernecellerienfrakk",
-        "points": 260,
+        "user_id": "c12989d46316062c0898e65df8cb226e",
+        "name": "wuurrd",
+        "points": 270,
         "stars": 0,
         "special_user": false
     },
     {
         "position": 14,
-        "user_id": "c12989d46316062c0898e65df8cb226e",
-        "name": "wuurrd",
+        "user_id": "dc6427044437cf5e94721f1b77e873ff",
+        "name": "tohjernecellerienfrakk",
         "points": 260,
         "stars": 0,
         "special_user": false
@@ -761,6 +761,14 @@
     },
     {
         "position": 96,
+        "user_id": "9e160cdd0d1820cc881f6be066b11722",
+        "name": "Kriz",
+        "points": 150,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 97,
         "user_id": "419d747ee067d94dc055c64f63b46af8",
         "name": "P\u00c6KKM\u00c6N",
         "points": 140,
@@ -768,7 +776,7 @@
         "special_user": false
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "a0507645866411f09ff79d19c017e261",
         "name": "PizzaGutt",
         "points": 140,
@@ -776,7 +784,7 @@
         "special_user": false
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "1bcaa4e5f429c55f5e3658618a772a20",
         "name": "SimenBai",
         "points": 140,
@@ -784,17 +792,9 @@
         "special_user": false
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "83f77b8386cfc126d61096604d2b617d",
         "name": "Siddis",
-        "points": 140,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 100,
-        "user_id": "0f7744931ed608baa462cc11e614f44a",
-        "name": "SNOKENDE PWNER",
         "points": 140,
         "stars": 0,
         "special_user": false
