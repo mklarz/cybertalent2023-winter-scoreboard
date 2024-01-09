@@ -1,14 +1,14 @@
 {
-    "position": 87,
+    "position": 71,
     "user_id": "7c5850926cef4c898d39cb81fd749fa4",
     "name": "__hackhawk",
-    "points": 150,
+    "points": 160,
     "stars": 0,
     "special_user": false,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Initiell aksess": 100,
-        "2.1. Department of Development and Test": 14,
+        "2.1. Department of Development and Test": 29,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
