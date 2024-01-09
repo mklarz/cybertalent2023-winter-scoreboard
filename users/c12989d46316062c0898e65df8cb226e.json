@@ -1,5 +1,5 @@
 {
-    "position": 13,
+    "position": 12,
     "user_id": "c12989d46316062c0898e65df8cb226e",
     "name": "wuurrd",
     "points": 270,
@@ -15,6 +15,6 @@
         "2.5. Department of Security": 100,
         "2.6. Department of Technology": 100,
         "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 100
     }
 }
