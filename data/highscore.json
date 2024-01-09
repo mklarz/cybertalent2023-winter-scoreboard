@@ -201,6 +201,14 @@
     },
     {
         "position": 26,
+        "user_id": "473d71fef2dc63452a700966d00c5c8d",
+        "name": "mutex",
+        "points": 210,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 27,
         "user_id": "c809c0ef64eb96ea7c8c3d8d4b3f895f",
         "name": "KREVENDE CYBERHELT",
         "points": 200,
@@ -208,17 +216,9 @@
         "special_user": true
     },
     {
-        "position": 27,
+        "position": 28,
         "user_id": "814e0bbca0a2af2742c79a40f6d97ca4",
         "name": "varcella",
-        "points": 200,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 28,
-        "user_id": "473d71fef2dc63452a700966d00c5c8d",
-        "name": "mutex",
         "points": 200,
         "stars": 0,
         "special_user": false
