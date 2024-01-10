@@ -265,6 +265,14 @@
     },
     {
         "position": 34,
+        "user_id": "17f5b9312d57cce2e68cc924597c30fe",
+        "name": "an-obsequious-servant",
+        "points": 200,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 35,
         "user_id": "2168ee062d4cb40a8e4c9d8df6a1162d",
         "name": "LilliePlant",
         "points": 190,
@@ -272,7 +280,7 @@
         "special_user": false
     },
     {
-        "position": 35,
+        "position": 36,
         "user_id": "9ea762fd2e87f5d4d7afbeb5879b51c8",
         "name": "Scalpel",
         "points": 190,
@@ -280,7 +288,7 @@
         "special_user": false
     },
     {
-        "position": 36,
+        "position": 37,
         "user_id": "b8ffb7a7fa51e530158b6015294fd0fe",
         "name": "ARTISTISK SPION",
         "points": 190,
@@ -288,7 +296,7 @@
         "special_user": false
     },
     {
-        "position": 37,
+        "position": 38,
         "user_id": "53e36d30e2f053b3fbd7c72363a844ed",
         "name": "KRAMPEAKTIG SNOK",
         "points": 190,
@@ -296,7 +304,7 @@
         "special_user": false
     },
     {
-        "position": 38,
+        "position": 39,
         "user_id": "2b3cd862c1795373112710dab3f9b532",
         "name": "Sithis",
         "points": 190,
@@ -304,7 +312,7 @@
         "special_user": false
     },
     {
-        "position": 39,
+        "position": 40,
         "user_id": "a20193ef5a572699a80737518a25e1d8",
         "name": "GRIM SLASK",
         "points": 190,
@@ -312,7 +320,7 @@
         "special_user": false
     },
     {
-        "position": 40,
+        "position": 41,
         "user_id": "c4f504d973ef98bc9a3e4539cf5ffaee",
         "name": "alpaca",
         "points": 190,
@@ -320,17 +328,9 @@
         "special_user": false
     },
     {
-        "position": 41,
+        "position": 42,
         "user_id": "a5fb367b71913ec89088aa5bbc093018",
         "name": "KREVENDE FRAGLE",
-        "points": 190,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 42,
-        "user_id": "17f5b9312d57cce2e68cc924597c30fe",
-        "name": "an-obsequious-servant",
         "points": 190,
         "stars": 0,
         "special_user": false
