@@ -329,6 +329,14 @@
     },
     {
         "position": 42,
+        "user_id": "17f5b9312d57cce2e68cc924597c30fe",
+        "name": "an-obsequious-servant",
+        "points": 190,
+        "stars": 0,
+        "special_user": false
+    },
+    {
+        "position": 43,
         "user_id": "4ea042e66e474734d4cdb5a59b61b685",
         "name": "halvis",
         "points": 180,
@@ -336,7 +344,7 @@
         "special_user": false
     },
     {
-        "position": 43,
+        "position": 44,
         "user_id": "750de83bd9e4864d81fca914eb5e709b",
         "name": "Georg",
         "points": 180,
@@ -344,7 +352,7 @@
         "special_user": false
     },
     {
-        "position": 44,
+        "position": 45,
         "user_id": "d6a14dd1f9ffa90da3a6cf02d915c6dc",
         "name": "N",
         "points": 180,
@@ -352,7 +360,7 @@
         "special_user": false
     },
     {
-        "position": 45,
+        "position": 46,
         "user_id": "fb979625742993fc669cd588b7df5c65",
         "name": "Joe the Legal Weasel",
         "points": 180,
@@ -360,7 +368,7 @@
         "special_user": false
     },
     {
-        "position": 46,
+        "position": 47,
         "user_id": "9704351e3678d7c274b63c71cc0c9d26",
         "name": "ExHausteD",
         "points": 180,
@@ -368,7 +376,7 @@
         "special_user": false
     },
     {
-        "position": 47,
+        "position": 48,
         "user_id": "afa97f8fa96bfbafe572f32263634334",
         "name": "4LT3R 3GO",
         "points": 180,
@@ -376,7 +384,7 @@
         "special_user": false
     },
     {
-        "position": 48,
+        "position": 49,
         "user_id": "041aaf5eee6cfca11c869216abca8d0e",
         "name": "finnes",
         "points": 180,
@@ -384,17 +392,9 @@
         "special_user": false
     },
     {
-        "position": 49,
+        "position": 50,
         "user_id": "abb24902daaf1026a2f0d3afb5838d7e",
         "name": "jungelherre",
-        "points": 180,
-        "stars": 0,
-        "special_user": false
-    },
-    {
-        "position": 50,
-        "user_id": "17f5b9312d57cce2e68cc924597c30fe",
-        "name": "an-obsequious-servant",
         "points": 180,
         "stars": 0,
         "special_user": false
