@@ -1,14 +1,14 @@
 {
-    "position": 42,
+    "position": 39,
     "user_id": "a5fb367b71913ec89088aa5bbc093018",
     "name": "KREVENDE FRAGLE",
-    "points": 190,
+    "points": 200,
     "stars": 0,
     "special_user": false,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Initiell aksess": 100,
-        "2.1. Department of Development and Test": 29,
+        "2.1. Department of Development and Test": 43,
         "2.2. Department of Cryptography": 0,
         "2.3. Department of Research": 0,
         "2.4. Department of Intelligence": 0,
