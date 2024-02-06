@@ -1,20 +1,9 @@
 {
     "position": null,
     "user_id": "c9ebd1dc672ac4d5af4694fb6fc96d0e",
-    "name": "TAFATT AGENT",
-    "points": 100,
+    "name": "UKJENT BRUKER",
+    "points": 0,
     "stars": 0,
     "special_user": false,
-    "categories": {
-        "1. Grunnleggende": 100,
-        "2. Initiell aksess": 33,
-        "2.1. Department of Development and Test": 0,
-        "2.2. Department of Cryptography": 0,
-        "2.3. Department of Research": 0,
-        "2.4. Department of Intelligence": 0,
-        "2.5. Department of Security": 0,
-        "2.6. Department of Technology": 0,
-        "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 0
-    }
+    "categories": {}
 }

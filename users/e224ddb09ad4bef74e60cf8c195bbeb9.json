@@ -1,20 +1,9 @@
 {
     "position": null,
     "user_id": "e224ddb09ad4bef74e60cf8c195bbeb9",
-    "name": "ilovestego2",
-    "points": 30,
+    "name": "UKJENT BRUKER",
+    "points": 0,
     "stars": 0,
     "special_user": false,
-    "categories": {
-        "1. Grunnleggende": 38,
-        "2. Initiell aksess": 0,
-        "2.1. Department of Development and Test": 0,
-        "2.2. Department of Cryptography": 0,
-        "2.3. Department of Research": 0,
-        "2.4. Department of Intelligence": 0,
-        "2.5. Department of Security": 0,
-        "2.6. Department of Technology": 0,
-        "2.7. Department of Nuclear Power": 0,
-        "4. Skjulte flagg": 0
-    }
+    "categories": {}
 }
